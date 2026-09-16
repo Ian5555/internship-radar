@@ -1,0 +1,44 @@
+{
+  "season_keywords": ["2027", "summer 2027", "summer"],
+  "target_keywords": {
+    "corporate_it": ["information technology", "corporate it", " it intern", "technology intern", "enterprise technology"],
+    "analyst": ["technology analyst", "it analyst", "business systems analyst", "systems analyst", "application analyst", "business analyst", "data analyst"],
+    "qa_testing": ["quality assurance", "software qa", "qa intern", "test intern", "testing intern", "systems testing", "quality engineer"],
+    "support_ops": ["application support", "it support", "enterprise support", "technology operations", "systems support", "service desk"],
+    "risk_audit": ["it audit", "technology risk", "technology controls", "it controls", "risk assurance", "technology assurance"],
+    "consulting": ["technology consulting", "it consulting", "technology advisory", "managed it services"],
+    "product": ["product analyst", "technical product", "product management", "product manager intern", "systems product management"]
+  },
+  "negative_keywords": [
+    "quantitative researcher", "quant trader", "quantitative trader", "quant developer",
+    "machine learning researcher", "research scientist", "phd intern",
+    "electrical engineering", "fpga", "asic", "embedded firmware", "hardware engineering",
+    "security engineer intern", "cybersecurity intern", "penetration testing", "red team"
+  ],
+  "swe_keywords": ["software engineer", "software engineering", "swe intern", "software developer", "developer intern"],
+  "location_priority": {
+    "dfw": ["dallas", "plano", "richardson", "irving", "coppell", "frisco", "addison", "fort worth", "allen", "mckinney", "lewisville", "grapevine", "dfw"],
+    "texas": ["texas", " tx", "tx,"],
+    "remote": ["remote"]
+  },
+  "scores": {
+    "target_keyword": 25,
+    "dfw": 30,
+    "texas": 20,
+    "remote": 18,
+    "summer_2027": 10,
+    "swe_penalty": -22,
+    "negative_penalty": -60
+  },
+  "minimum_score": 20,
+  "sources": [
+    {
+      "name": "ApplyGuy 2027 Internships",
+      "url": "https://raw.githubusercontent.com/ApplyGuy/2027-Internships/main/data/internships.json"
+    },
+    {
+      "name": "SimplifyJobs Summer 2027 Internships",
+      "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json"
+    }
+  ]
+}
