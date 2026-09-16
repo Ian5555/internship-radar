@@ -21,7 +21,7 @@ CONFIG_PATH = ROOT / "config.json"
 APPLIED_PATH = ROOT / "data" / "known_applied.json"
 MATCHES_PATH = ROOT / "data" / "matches.json"
 LATEST_PATH = ROOT / "LATEST.md"
-USER_AGENT = "Ian5555-internship-radar/2.0"
+USER_AGENT = "Ian5555-internship-radar/2.1"
 
 
 def load_json(path: Path, default: Any) -> Any:
@@ -143,18 +143,27 @@ def applied(job: dict[str, str], known: list[dict[str, str]]) -> bool:
 
 def hard_reject(job: dict[str, str], cfg: dict[str, Any]) -> bool:
     title = job["title"].lower()
-    full = " ".join([job["title"], job["description"]]).lower()
+    full = " ".join([job["title"], job["description"], job["url"]]).lower()
 
     if any(contains(title, k) for k in cfg.get("hard_reject_title_keywords", [])):
         return True
 
-    # Keep the feed strictly focused on Summer 2027. Many upstream repos contain
-    # stale 2026/spring/winter listings, so explicit conflicting season/year wins.
-    if re.search(r"\bsummer\s+2026\b", full):
+    # Strict Summer 2027 filtering. Include the URL because some feeds have sparse
+    # descriptions but the employer URL still contains the season/year.
+    if re.search(r"\bsummer[-\s_/]*2026\b", full):
         return True
-    if re.search(r"\b(spring|winter|fall)\s+2027\b", full):
+    if re.search(r"\b(spring|winter|fall)[-\s_/]*2027\b", full):
         return True
     if "2026" in full and "2027" not in full:
+        return True
+
+    # Remove graduate-only roles and obvious non-software/hardware test noise.
+    if re.search(r"\b(phd|doctoral|graduate intern|grad intern)\b", title):
+        return True
+    if any(contains(title, k) for k in [
+        "hardware test", "engine test", "ic test", "design for test", "analog validation",
+        "digital verification", "device engineer", "fpga", "asic", "semiconductor test"
+    ]):
         return True
 
     # Internship/co-op feeds occasionally contain new-grad/full-time roles.
