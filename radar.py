@@ -21,7 +21,7 @@ CONFIG_PATH = ROOT / "config.json"
 APPLIED_PATH = ROOT / "data" / "known_applied.json"
 MATCHES_PATH = ROOT / "data" / "matches.json"
 LATEST_PATH = ROOT / "LATEST.md"
-USER_AGENT = "Ian5555-internship-radar/2.1"
+USER_AGENT = "Ian5555-internship-radar/3.0"
 
 
 def load_json(path: Path, default: Any) -> Any:
@@ -141,6 +141,17 @@ def applied(job: dict[str, str], known: list[dict[str, str]]) -> bool:
     return False
 
 
+def has_explicit_summer_2027(job: dict[str, str]) -> bool:
+    full = " ".join([job["title"], job["description"], job["url"]]).lower()
+    patterns = [
+        r"\bsummer[-\s_/]*2027\b",
+        r"\b2027[-\s_/]*summer\b",
+        r"\bsummer[-\s_/]*intern(?:ship)?[-\s_/]*2027\b",
+        r"\b2027[-\s_/]*intern(?:ship)?\b",
+    ]
+    return any(re.search(p, full) for p in patterns)
+
+
 def hard_reject(job: dict[str, str], cfg: dict[str, Any]) -> bool:
     title = job["title"].lower()
     full = " ".join([job["title"], job["description"], job["url"]]).lower()
@@ -148,26 +159,38 @@ def hard_reject(job: dict[str, str], cfg: dict[str, Any]) -> bool:
     if any(contains(title, k) for k in cfg.get("hard_reject_title_keywords", [])):
         return True
 
-    # Strict Summer 2027 filtering. Include the URL because some feeds have sparse
-    # descriptions but the employer URL still contains the season/year.
+    # Reject explicit conflicting terms anywhere in title/description/URL.
     if re.search(r"\bsummer[-\s_/]*2026\b", full):
         return True
-    if re.search(r"\b(spring|winter|fall)[-\s_/]*2027\b", full):
+    if re.search(r"\b(spring|winter|fall)[-\s_/]*2027\b", full) and "summer 2027" not in full:
         return True
     if "2026" in full and "2027" not in full:
         return True
 
-    # Remove graduate-only roles and obvious non-software/hardware test noise.
-    if re.search(r"\b(phd|doctoral|graduate intern|grad intern)\b", title):
-        return True
-    if any(contains(title, k) for k in [
+    # Remove graduate-only and clearly off-target engineering/hardware roles.
+    reject_phrases = [
+        "phd", "doctoral", "graduate intern", "grad intern",
         "hardware test", "engine test", "ic test", "design for test", "analog validation",
-        "digital verification", "device engineer", "fpga", "asic", "semiconductor test"
-    ]):
+        "digital verification", "device engineer", "fpga", "asic", "semiconductor test",
+        "reservoir engineer", "electrical engineer", "clock design", "hbm", "dram cell",
+        "forward deployed engineer", "autonomy", "intelligent systems engineering",
+        "geospatial data", "credit risk intern", "markets credit", "category technology"
+    ]
+    if any(contains(title, k) for k in reject_phrases):
         return True
 
-    # Internship/co-op feeds occasionally contain new-grad/full-time roles.
     if not any(k in title for k in ["intern", "internship"]):
+        return True
+
+    # Strict mode: if the listing never explicitly identifies itself as Summer 2027,
+    # only keep it when it is extremely likely to be a current 2027 campus role.
+    if cfg.get("require_explicit_summer_2027", False) and not has_explicit_summer_2027(job):
+        return True
+
+    # Only keep U.S.-based roles for this personal feed.
+    location = job["location"].lower()
+    foreign_markers = ["canada", "toronto", "ontario", "vancouver", "montreal", "united kingdom", "london, uk"]
+    if any(m in location for m in foreign_markers) and not any(us in location for us in ["usa", "united states", " tx", "texas", "remote in usa", "remote, u.s."]):
         return True
 
     return False
@@ -182,15 +205,22 @@ def score(job: dict[str, str], cfg: dict[str, Any]) -> tuple[int, list[str], str
 
     best_weight = -10**9
     family_weights = cfg.get("family_weights", {})
+    matched_family = False
     for family, keywords in cfg["target_keywords"].items():
         hits = sum(1 for k in keywords if contains(haystack, k))
         if hits:
+            matched_family = True
             weight = int(family_weights.get(family, 20)) + min(8, (hits - 1) * 2)
             score_value += weight
             if weight > best_weight:
                 best_weight = weight
                 category = family.replace("_", " ").title()
             reasons.append(f"{family.replace('_', ' ')} match")
+
+    # Generic roles are allowed only as lower-priority fallback matches.
+    if not matched_family:
+        score_value += cfg["scores"].get("other_role_penalty", -30)
+        reasons.append("outside primary target families")
 
     loc = job["location"].lower()
     if any(k in loc for k in cfg["location_priority"]["dfw"]):
@@ -203,7 +233,7 @@ def score(job: dict[str, str], cfg: dict[str, Any]) -> tuple[int, list[str], str
         score_value += cfg["scores"]["remote"]
         reasons.append("Remote")
 
-    if "summer 2027" in haystack or "2027 internship" in haystack or "intern 2027" in haystack:
+    if has_explicit_summer_2027(job):
         score_value += cfg["scores"]["summer_2027"]
         reasons.append("Summer 2027")
 
@@ -315,13 +345,13 @@ def main() -> None:
                     continue
                 value, reasons, category = score(job, cfg)
                 job.update({"score": value, "reasons": reasons, "category": category})
-                if value >= cfg.get("minimum_score", 30) and not applied(job, known):
+                if value >= cfg.get("minimum_score", 40) and not applied(job, known):
                     all_jobs.append(job)
         except Exception as exc:
             errors.append(f"{source['name']}: {type(exc).__name__}: {exc}")
 
     matches = dedupe(sorted(all_jobs, key=lambda x: (-x["score"], x["company"].lower(), x["title"].lower())))
-    matches = matches[: int(cfg.get("max_results", 120))]
+    matches = matches[: int(cfg.get("max_results", 80))]
 
     ROOT.joinpath("data").mkdir(exist_ok=True)
     with MATCHES_PATH.open("w", encoding="utf-8") as f:
