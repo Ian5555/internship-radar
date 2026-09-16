@@ -1,13 +1,23 @@
 {
-  "season_keywords": ["2027", "summer 2027", "summer"],
+  "required_season": "summer 2027",
+  "allowed_country_keywords": ["usa", "u.s.", "united states", " tx", "texas", "remote"],
   "target_keywords": {
-    "corporate_it": ["information technology", "corporate it", " it intern", "technology intern", "enterprise technology"],
-    "analyst": ["technology analyst", "it analyst", "business systems analyst", "systems analyst", "application analyst", "business analyst", "data analyst"],
-    "qa_testing": ["quality assurance", "software qa", "qa intern", "test intern", "testing intern", "systems testing", "quality engineer"],
-    "support_ops": ["application support", "it support", "enterprise support", "technology operations", "systems support", "service desk"],
-    "risk_audit": ["it audit", "technology risk", "technology controls", "it controls", "risk assurance", "technology assurance"],
+    "corporate_it": ["information technology", "corporate it", " it intern", "technology intern", "enterprise technology", "digital technology", "business technology"],
+    "analyst": ["technology analyst", "it analyst", "business systems analyst", "systems analyst", "application analyst", "business analyst", "system support", "process improvement"],
+    "qa_testing": ["quality assurance", "software qa", "qa intern", "test intern", "testing intern", "systems testing", "quality engineer", "software quality"],
+    "support_ops": ["application support", "it support", "enterprise support", "technology operations", "systems support", "service desk", "technical support"],
+    "risk_audit": ["it audit", "technology risk", "technology controls", "it controls", "risk assurance", "technology assurance", "it risk"],
     "consulting": ["technology consulting", "it consulting", "technology advisory", "managed it services"],
     "product": ["product analyst", "technical product", "product management", "product manager intern", "systems product management"]
+  },
+  "family_weights": {
+    "corporate_it": 34,
+    "qa_testing": 36,
+    "support_ops": 34,
+    "analyst": 30,
+    "risk_audit": 32,
+    "consulting": 28,
+    "product": 18
   },
   "negative_keywords": [
     "quantitative researcher", "quant trader", "quantitative trader", "quant developer",
@@ -15,22 +25,31 @@
     "electrical engineering", "fpga", "asic", "embedded firmware", "hardware engineering",
     "security engineer intern", "cybersecurity intern", "penetration testing", "red team"
   ],
-  "swe_keywords": ["software engineer", "software engineering", "swe intern", "software developer", "developer intern"],
+  "hard_reject_title_keywords": [
+    "summer 2026", "spring 2027", "winter 2027", "fall 2027", "co-op", "co op",
+    "associate", "rotational program", "full-time", "full time", "previous intern"
+  ],
+  "swe_keywords": ["software engineer", "software engineering", "swe intern", "software developer", "developer intern", "application development"],
+  "data_keywords": ["data analyst", "data science", "data engineer", "analytics intern"],
   "location_priority": {
-    "dfw": ["dallas", "plano", "richardson", "irving", "coppell", "frisco", "addison", "fort worth", "allen", "mckinney", "lewisville", "grapevine", "dfw"],
+    "dfw": ["dallas", "plano", "richardson", "irving", "coppell", "frisco", "addison", "fort worth", "allen", "mckinney", "lewisville", "grapevine", "dfw", "westlake, tx"],
     "texas": ["texas", " tx", "tx,"],
     "remote": ["remote"]
   },
   "scores": {
-    "target_keyword": 25,
-    "dfw": 30,
-    "texas": 20,
-    "remote": 18,
-    "summer_2027": 10,
-    "swe_penalty": -22,
-    "negative_penalty": -60
+    "dfw": 32,
+    "texas": 18,
+    "remote": 16,
+    "summer_2027": 18,
+    "recent_14_days": 12,
+    "recent_30_days": 6,
+    "swe_penalty": -28,
+    "data_penalty": -10,
+    "product_penalty": -4,
+    "negative_penalty": -80
   },
-  "minimum_score": 20,
+  "minimum_score": 30,
+  "max_results": 120,
   "sources": [
     {
       "name": "ApplyGuy 2027 Internships",
