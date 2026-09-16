@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Personal Summer 2027 enterprise-tech internship radar.
 
-Fetches configured public JSON feeds, normalizes common schemas, scores roles against
-config.json, suppresses already-applied roles, and writes LATEST.md + data/matches.json.
+Fetches configured public JSON feeds, normalizes common schemas, rejects obvious
+out-of-season/non-target postings, scores roles against config.json, suppresses
+already-applied roles, and writes LATEST.md + data/matches.json.
 Uses only the Python standard library.
 """
 
@@ -20,7 +21,7 @@ CONFIG_PATH = ROOT / "config.json"
 APPLIED_PATH = ROOT / "data" / "known_applied.json"
 MATCHES_PATH = ROOT / "data" / "matches.json"
 LATEST_PATH = ROOT / "LATEST.md"
-USER_AGENT = "Ian5555-internship-radar/1.0"
+USER_AGENT = "Ian5555-internship-radar/2.0"
 
 
 def load_json(path: Path, default: Any) -> Any:
@@ -66,7 +67,6 @@ def flatten_records(payload: Any) -> list[dict[str, Any]]:
             value = payload.get(key)
             if isinstance(value, list):
                 return [x for x in value if isinstance(x, dict)]
-        # Some feeds group listings by category/company.
         records: list[dict[str, Any]] = []
         for value in payload.values():
             if isinstance(value, list):
@@ -86,7 +86,7 @@ def normalize(item: dict[str, Any], source: str) -> dict[str, str]:
         "company": company.strip(),
         "title": title.strip(),
         "location": location.strip(),
-        "date": date.strip(),
+        "date": normalize_date(date.strip()),
         "url": url.strip(),
         "description": description.strip(),
         "source": source,
@@ -99,6 +99,33 @@ def canon(text: str) -> str:
 
 def contains(text: str, keyword: str) -> bool:
     return canon(keyword) in canon(text)
+
+
+def normalize_date(raw: str) -> str:
+    if not raw:
+        return ""
+    s = raw.strip()
+    if re.fullmatch(r"\d{10}", s):
+        try:
+            return datetime.fromtimestamp(int(s), timezone.utc).strftime("%Y-%m-%d")
+        except (ValueError, OSError, OverflowError):
+            return s
+    if re.fullmatch(r"\d{13}", s):
+        try:
+            return datetime.fromtimestamp(int(s) / 1000, timezone.utc).strftime("%Y-%m-%d")
+        except (ValueError, OSError, OverflowError):
+            return s
+    iso = re.match(r"(20\d{2}-\d{2}-\d{2})", s)
+    if iso:
+        return iso.group(1)
+    return s
+
+
+def parse_date(date_text: str) -> datetime | None:
+    try:
+        return datetime.strptime(date_text[:10], "%Y-%m-%d").replace(tzinfo=timezone.utc)
+    except (ValueError, TypeError):
+        return None
 
 
 def applied(job: dict[str, str], known: list[dict[str, str]]) -> bool:
@@ -114,6 +141,29 @@ def applied(job: dict[str, str], known: list[dict[str, str]]) -> bool:
     return False
 
 
+def hard_reject(job: dict[str, str], cfg: dict[str, Any]) -> bool:
+    title = job["title"].lower()
+    full = " ".join([job["title"], job["description"]]).lower()
+
+    if any(contains(title, k) for k in cfg.get("hard_reject_title_keywords", [])):
+        return True
+
+    # Keep the feed strictly focused on Summer 2027. Many upstream repos contain
+    # stale 2026/spring/winter listings, so explicit conflicting season/year wins.
+    if re.search(r"\bsummer\s+2026\b", full):
+        return True
+    if re.search(r"\b(spring|winter|fall)\s+2027\b", full):
+        return True
+    if "2026" in full and "2027" not in full:
+        return True
+
+    # Internship/co-op feeds occasionally contain new-grad/full-time roles.
+    if not any(k in title for k in ["intern", "internship"]):
+        return True
+
+    return False
+
+
 def score(job: dict[str, str], cfg: dict[str, Any]) -> tuple[int, list[str], str]:
     haystack = " ".join([job["title"], job["location"], job["description"]]).lower()
     title = job["title"].lower()
@@ -121,13 +171,15 @@ def score(job: dict[str, str], cfg: dict[str, Any]) -> tuple[int, list[str], str
     reasons: list[str] = []
     category = "Other"
 
-    best_hits = 0
+    best_weight = -10**9
+    family_weights = cfg.get("family_weights", {})
     for family, keywords in cfg["target_keywords"].items():
         hits = sum(1 for k in keywords if contains(haystack, k))
         if hits:
-            score_value += cfg["scores"]["target_keyword"] + min(10, (hits - 1) * 3)
-            if hits > best_hits:
-                best_hits = hits
+            weight = int(family_weights.get(family, 20)) + min(8, (hits - 1) * 2)
+            score_value += weight
+            if weight > best_weight:
+                best_weight = weight
                 category = family.replace("_", " ").title()
             reasons.append(f"{family.replace('_', ' ')} match")
 
@@ -142,14 +194,31 @@ def score(job: dict[str, str], cfg: dict[str, Any]) -> tuple[int, list[str], str
         score_value += cfg["scores"]["remote"]
         reasons.append("Remote")
 
-    if "2027" in haystack or "2027" in job["date"]:
+    if "summer 2027" in haystack or "2027 internship" in haystack or "intern 2027" in haystack:
         score_value += cfg["scores"]["summer_2027"]
-        reasons.append("2027")
+        reasons.append("Summer 2027")
 
-    if any(contains(title, k) for k in cfg["swe_keywords"]):
-        # A QA/product/etc. title can still survive if it has strong positive matches.
+    posted = parse_date(job["date"])
+    if posted:
+        age_days = (datetime.now(timezone.utc) - posted).days
+        if 0 <= age_days <= 14:
+            score_value += cfg["scores"].get("recent_14_days", 0)
+            reasons.append("NEW: posted <=14 days")
+        elif 0 <= age_days <= 30:
+            score_value += cfg["scores"].get("recent_30_days", 0)
+            reasons.append("recent: posted <=30 days")
+
+    if any(contains(title, k) for k in cfg.get("swe_keywords", [])):
         score_value += cfg["scores"]["swe_penalty"]
         reasons.append("SWE-heavy penalty")
+
+    if any(contains(title, k) for k in cfg.get("data_keywords", [])):
+        score_value += cfg["scores"].get("data_penalty", 0)
+        reasons.append("generic data-role penalty")
+
+    if category == "Product":
+        score_value += cfg["scores"].get("product_penalty", 0)
+        reasons.append("product secondary-lane penalty")
 
     if any(contains(haystack, k) for k in cfg["negative_keywords"]):
         score_value += cfg["scores"]["negative_penalty"]
@@ -159,13 +228,21 @@ def score(job: dict[str, str], cfg: dict[str, Any]) -> tuple[int, list[str], str
 
 
 def dedupe(jobs: list[dict[str, Any]]) -> list[dict[str, Any]]:
-    seen: set[tuple[str, str, str]] = set()
-    output = []
+    output: list[dict[str, Any]] = []
+    seen: list[tuple[str, str]] = []
     for job in jobs:
-        key = (canon(job["company"]), canon(job["title"]), canon(job["location"]))
-        if key in seen:
+        company = canon(job["company"])
+        title = canon(job["title"])
+        duplicate = False
+        for sc, st in seen:
+            company_match = company == sc or company in sc or sc in company
+            title_match = title == st or title in st or st in title
+            if company_match and title_match:
+                duplicate = True
+                break
+        if duplicate:
             continue
-        seen.add(key)
+        seen.append((company, title))
         output.append(job)
     return output
 
@@ -181,17 +258,18 @@ def render_markdown(matches: list[dict[str, Any]], errors: list[str]) -> str:
         "",
         f"Last refreshed: **{generated}**",
         "",
-        "Sorted by personalized fit score. DFW / North Texas, Texas, and remote roles receive location boosts.",
+        "Strict Summer 2027 feed. DFW/North Texas, Texas, and remote roles receive location boosts; corporate IT, QA/testing, systems/support, analyst, IT risk/audit, and consulting roles outrank generic product/data roles.",
         "",
-        "| Score | Company | Role | Location | Category | Posted | Apply | Source |",
-        "|---:|---|---|---|---|---|---|---|",
+        "| Score | Company | Role | Location | Category | Posted | Freshness | Apply | Source |",
+        "|---:|---|---|---|---|---|---|---|---|",
     ]
     for job in matches:
         link = f"[Apply]({job['url']})" if job["url"] else "—"
+        freshness = "NEW" if any(r.startswith("NEW:") for r in job.get("reasons", [])) else ("Recent" if any(r.startswith("recent:") for r in job.get("reasons", [])) else "—")
         lines.append(
             f"| **{job['score']}** | {md_escape(job['company']) or '—'} | "
             f"{md_escape(job['title']) or '—'} | {md_escape(job['location']) or '—'} | "
-            f"{md_escape(job['category'])} | {md_escape(job['date']) or '—'} | {link} | "
+            f"{md_escape(job['category'])} | {md_escape(job['date']) or '—'} | {freshness} | {link} | "
             f"{md_escape(job['source'])} |"
         )
     if not matches:
@@ -201,7 +279,7 @@ def render_markdown(matches: list[dict[str, Any]], errors: list[str]) -> str:
         lines.extend(f"- ⚠️ {e}" for e in errors)
     lines.extend([
         "",
-        "> This is a discovery feed, not a guarantee that a posting is still open or that every requirement is met. Verify the employer posting before applying.",
+        "> Discovery feed only. Verify that the employer posting is still open and that you meet its requirements before applying.",
         "",
     ])
     return "\n".join(lines)
@@ -224,14 +302,18 @@ def main() -> None:
                 job = normalize(record, source["name"])
                 if not job["title"] and not job["company"]:
                     continue
+                if hard_reject(job, cfg):
+                    continue
                 value, reasons, category = score(job, cfg)
                 job.update({"score": value, "reasons": reasons, "category": category})
-                if value >= cfg.get("minimum_score", 20) and not applied(job, known):
+                if value >= cfg.get("minimum_score", 30) and not applied(job, known):
                     all_jobs.append(job)
         except Exception as exc:
             errors.append(f"{source['name']}: {type(exc).__name__}: {exc}")
 
     matches = dedupe(sorted(all_jobs, key=lambda x: (-x["score"], x["company"].lower(), x["title"].lower())))
+    matches = matches[: int(cfg.get("max_results", 120))]
+
     ROOT.joinpath("data").mkdir(exist_ok=True)
     with MATCHES_PATH.open("w", encoding="utf-8") as f:
         json.dump({"generated_at": datetime.now(timezone.utc).isoformat(), "count": len(matches), "matches": matches, "errors": errors}, f, indent=2)
