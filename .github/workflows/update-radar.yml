@@ -1,0 +1,42 @@
+name: Update Internship Radar
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 13:17 UTC = morning in U.S. Central; odd minute reduces scheduled-run congestion.
+    - cron: "17 13 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: internship-radar-update
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run internship radar
+        run: python radar.py
+
+      - name: Commit refreshed feed if changed
+        run: |
+          if git diff --quiet -- LATEST.md data/matches.json; then
+            echo "No internship-feed changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add LATEST.md data/matches.json
+          git commit -m "chore: refresh internship radar"
+          git push
