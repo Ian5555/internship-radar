@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T06:21:06.819022+00:00",
+  "generated_at": "2026-09-17T14:45:07.481552+00:00",
   "count": 120,
   "matches": [
     {
@@ -515,6 +515,23 @@
       "category": "Corporate It"
     },
     {
+      "company": "Copart",
+      "title": "Technology Product Analyst Intern",
+      "location": "Dallas, TX",
+      "date": "2026-09-17",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR111532",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 58,
+      "reasons": [
+        "product match",
+        "DFW / North Texas",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
       "company": "Corning",
       "title": "Digital & IT Intern",
       "location": "Corning, NY",
@@ -776,23 +793,6 @@
       "url": "https://careers-blackhawknetwork.icims.com/jobs/26868/job?mobile=true&needsRedirect=false",
       "description": "Product",
       "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 52,
-      "reasons": [
-        "product match",
-        "DFW / North Texas",
-        "recent: posted <=30 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "Copart",
-      "title": "Technology Product Analyst Intern",
-      "location": "Dallas, TX",
-      "date": "2026-08-26",
-      "url": "https://applyguy.ai/jobs?company=Copart&job=af000580-8990-4881-9600-36bfec7675c8&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
       "score": 52,
       "reasons": [
         "product match",
