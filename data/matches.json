@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T14:45:07.481552+00:00",
+  "generated_at": "2026-09-17T17:38:21.072909+00:00",
   "count": 120,
   "matches": [
     {
@@ -914,6 +914,21 @@
       "category": "Analyst"
     },
     {
+      "company": "Greatamerica",
+      "title": "Software Quality Engineer Intern",
+      "location": "Cedar Rapids, IA",
+      "date": "2026-09-17",
+      "url": "https://applyguy.ai/jobs?company=Greatamerica&job=755a54b4-5d61-4d4a-93fe-e65d53e99d74&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Software Engineering",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 50,
+      "reasons": [
+        "qa testing match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Qa Testing"
+    },
+    {
       "company": "Hudl",
       "title": "Software Quality Assurance Engineering Intern",
       "location": "Lincoln, NE",
@@ -1625,24 +1640,6 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
-    },
-    {
-      "company": "Pimco",
-      "title": "2027 Summer Intern - Technology Analyst, Software Engineering",
-      "location": "Austin, TX",
-      "date": "2026-08-18",
-      "url": "https://applyguy.ai/jobs?company=Pimco&job=96f57e0a-dfd6-471a-89f9-01899ff31c67&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Software Engineering",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "analyst match",
-        "Texas",
-        "Summer 2027",
-        "recent: posted <=30 days",
-        "SWE-heavy penalty"
-      ],
-      "category": "Analyst"
     },
     {
       "company": "PIMCO",

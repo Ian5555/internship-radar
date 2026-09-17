@@ -1,6 +1,6 @@
 # Latest Internship Radar
 
-Last refreshed: **2026-09-17 14:45 UTC**
+Last refreshed: **2026-09-17 17:38 UTC**
 
 Strict Summer 2027 feed. DFW/North Texas, Texas, and remote roles receive location boosts; corporate IT, QA/testing, systems/support, analyst, IT risk/audit, and consulting roles outrank generic product/data roles.
 
@@ -63,6 +63,7 @@ Strict Summer 2027 feed. DFW/North Texas, Texas, and remote roles receive locati
 | **52** | Samsung | Data Analyst & System Support Internship | Plano, TX | Analyst | 2026-02-04 | — | [Apply](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Data-Analyst---System-Support-Internship_R114056) | SimplifyJobs Summer 2027 Internships |
 | **52** | University of Texas at Austin | Technology Intern - Texas Immersive Institute - Moody College of Communication | Austin, TX | Corporate It | 2026-08-07 | — | [Apply](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/TXI-Tech-Intern--Texas-Immersive-Institute--Moody-College-of-Communication--Open-to-Work-Study-_R_00047950) | SimplifyJobs Summer 2027 Internships |
 | **50** | Cloudflare | Business Systems Analyst Intern | Austin, TX | Analyst | 2026-04-13 | — | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7812290) | SimplifyJobs Summer 2027 Internships |
+| **50** | Greatamerica | Software Quality Engineer Intern | Cedar Rapids, IA | Qa Testing | 2026-09-17 | NEW | [Apply](https://applyguy.ai/jobs?company=Greatamerica&job=755a54b4-5d61-4d4a-93fe-e65d53e99d74&utm_source=github&utm_medium=listing&utm_campaign=internships) | ApplyGuy 2027 Internships |
 | **50** | Hudl | Software Quality Assurance Engineering Intern | Lincoln, NE | Qa Testing | 2026-09-10 | NEW | [Apply](https://applyguy.ai/jobs?company=Hudl&job=d9842c39-43c2-4f36-a9a8-9675a8c1ad95&utm_source=github&utm_medium=listing&utm_campaign=internships) | ApplyGuy 2027 Internships |
 | **50** | Netwrix | Documentation Technology Intern | Remote in USA | Corporate It | 2026-04-15 | — | [Apply](https://ats.rippling.com/netwrix-corporation/jobs/dbe87309-bf9f-4c9f-8b1d-6687bb664dbe) | SimplifyJobs Summer 2027 Internships |
 | **50** | Posit PBC (formerly RStudio) | Posit Intern | Remote in USA | Corporate It | 2026-03-21 | — | [Apply](https://posit.co/job-detail/?gh_jid=7674250003) | SimplifyJobs Summer 2027 Internships |
@@ -108,7 +109,6 @@ Strict Summer 2027 feed. DFW/North Texas, Texas, and remote roles receive locati
 | **44** | Navy Federal | Business Systems Analyst Intern | Vienna, VA | Analyst | 2026-09-09 | NEW | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32314) | SimplifyJobs Summer 2027 Internships |
 | **44** | Navy Federal | Credit Risk Analyst Intern | Vienna, VA | Risk Audit | 2026-09-09 | NEW | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32396) | SimplifyJobs Summer 2027 Internships |
 | **44** | NVIDIA | Product Management MBA Intern, Data Center GPU - Summer 2027 | Santa Clara, CA | Product | 2026-09-16 | NEW | [Apply](https://applyguy.ai/jobs?company=NVIDIA&job=de062b86-0280-4e13-84ef-04b3f857305d&utm_source=github&utm_medium=listing&utm_campaign=internships) | ApplyGuy 2027 Internships |
-| **44** | Pimco | 2027 Summer Intern - Technology Analyst, Software Engineering | Austin, TX | Analyst | 2026-08-18 | Recent | [Apply](https://applyguy.ai/jobs?company=Pimco&job=96f57e0a-dfd6-471a-89f9-01899ff31c67&utm_source=github&utm_medium=listing&utm_campaign=internships) | ApplyGuy 2027 Internships |
 | **44** | PIMCO | Software Engineering Intern - Technology Analyst | Austin, TX | Analyst | 2026-08-18 | Recent | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745) | SimplifyJobs Summer 2027 Internships |
 | **44** | The Friedkin Group | Product Analyst Intern | Houston, TX | Product | 2026-09-11 | NEW | [Apply](https://external-careers-friedkin.icims.com/jobs/6762/job?mobile=true&needsRedirect=false) | SimplifyJobs Summer 2027 Internships |
 | **44** | USAA | Product Management Analyst Intern - Property and Casualty | San Antonio, TX | Product | 2026-09-11 | NEW | [Apply](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/P-C-Product-Management-Analyst-Intern_R0120949) | SimplifyJobs Summer 2027 Internships |
