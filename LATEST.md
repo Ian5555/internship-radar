@@ -1,6 +1,6 @@
 # Latest Internship Radar
 
-Last refreshed: **2026-09-17 06:17 UTC**
+Last refreshed: **2026-09-17 06:21 UTC**
 
 Strict Summer 2027 feed. DFW/North Texas, Texas, and remote roles receive location boosts; corporate IT, QA/testing, systems/support, analyst, IT risk/audit, and consulting roles outrank generic product/data roles.
 
