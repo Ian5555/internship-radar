@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T17:38:21.072909+00:00",
+  "generated_at": "2026-09-18T17:05:54.967493+00:00",
   "count": 120,
   "matches": [
     {
@@ -194,6 +194,22 @@
       "category": "Corporate It"
     },
     {
+      "company": "Together AI",
+      "title": "Software Development In Test Intern (Summer 2027)",
+      "location": "San Francisco, CA",
+      "date": "2026-09-18",
+      "url": "https://applyguy.ai/jobs?company=Together+AI&job=77dd38cb-0d58-41d2-9a33-24eb684a0437&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Software Engineering",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 66,
+      "reasons": [
+        "qa testing match",
+        "Summer 2027",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Qa Testing"
+    },
+    {
       "company": "CoStar Group",
       "title": "Technology Intern",
       "location": "Arlington County, Arlington, VA",
@@ -242,20 +258,20 @@
       "category": "Corporate It"
     },
     {
-      "company": "Mckesson",
-      "title": "Software Installation & IT Support Intern - Summer 2027",
-      "location": "Longmont, CO",
-      "date": "2026-09-03",
-      "url": "https://applyguy.ai/jobs?company=Mckesson&job=111113f9-1e35-419e-89fb-5cd4d07148cd&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Software Engineering",
-      "source": "ApplyGuy 2027 Internships",
+      "company": "Insperity",
+      "title": "Rotational Technology Intern",
+      "location": "Kingwood, Houston, TX",
+      "date": "2026-09-17",
+      "url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-Technology-Intern_JR103296",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
       "score": 64,
       "reasons": [
-        "support ops match",
-        "Summer 2027",
+        "corporate it match",
+        "Texas",
         "NEW: posted <=14 days"
       ],
-      "category": "Support Ops"
+      "category": "Corporate It"
     },
     {
       "company": "Ovintiv",
@@ -519,9 +535,9 @@
       "title": "Technology Product Analyst Intern",
       "location": "Dallas, TX",
       "date": "2026-09-17",
-      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR111532",
+      "url": "https://applyguy.ai/jobs?company=Copart&job=92f4727d-a58a-4033-beed-9291b795954b&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
+      "source": "ApplyGuy 2027 Internships",
       "score": 58,
       "reasons": [
         "product match",
@@ -578,6 +594,22 @@
         "recent: posted <=30 days"
       ],
       "category": "Corporate It"
+    },
+    {
+      "company": "Mckesson",
+      "title": "Software Installation & IT Support Intern - Summer 2027",
+      "location": "Longmont, CO",
+      "date": "2026-09-03",
+      "url": "https://applyguy.ai/jobs?company=Mckesson&job=111113f9-1e35-419e-89fb-5cd4d07148cd&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Software Engineering",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 58,
+      "reasons": [
+        "support ops match",
+        "Summer 2027",
+        "recent: posted <=30 days"
+      ],
+      "category": "Support Ops"
     },
     {
       "company": "Nationwide",
@@ -687,21 +719,6 @@
       "reasons": [
         "corporate it match",
         "Summer 2027"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "NRG Energy",
-      "title": "Digital Technology Intern",
-      "location": "Houston, TX",
-      "date": "2026-01-21",
-      "url": "https://careers.nrgenergy.com/SMARTHOMES/job/Houston-Digital-Technology-Intern-TX-77010/1357667500/?ats=successfactors",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 54,
-      "reasons": [
-        "corporate it match",
-        "Texas"
       ],
       "category": "Corporate It"
     },
@@ -1342,21 +1359,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "Shure",
-      "title": "Unified Communications Technology Intern",
-      "location": "Skokie, IL",
-      "date": "2026-09-03",
-      "url": "https://careersus-shure.icims.com/jobs/5002/job?mobile=true&needsRedirect=false",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "USAA",
       "title": "Digital Technical Product Management Intern",
       "location": "San Antonio, TX",
@@ -1494,10 +1496,10 @@
     },
     {
       "company": "Elkay",
-      "title": "Product Management Intern - Summer 2027",
-      "location": "Erie, PA",
-      "date": "2026-09-16",
-      "url": "https://applyguy.ai/jobs?company=Elkay&job=bd5bb5cc-afd0-4888-ac73-b6062541e4b0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "title": "Product Management Intern (Summer 2027)",
+      "location": "Paso Robles, CA",
+      "date": "2026-09-17",
+      "url": "https://applyguy.ai/jobs?company=Elkay&job=fb195867-4176-49a5-a0e5-56a7aca66dde&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Product",
       "source": "ApplyGuy 2027 Internships",
       "score": 44,
@@ -1640,24 +1642,6 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
-    },
-    {
-      "company": "PIMCO",
-      "title": "Software Engineering Intern - Technology Analyst",
-      "location": "Austin, TX",
-      "date": "2026-08-18",
-      "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "analyst match",
-        "Texas",
-        "Summer 2027",
-        "recent: posted <=30 days",
-        "SWE-heavy penalty"
-      ],
-      "category": "Analyst"
     },
     {
       "company": "The Friedkin Group",
@@ -1876,11 +1860,11 @@
       "category": "Qa Testing"
     },
     {
-      "company": "American Express",
-      "title": "AI Engineer Intern - Enterprise Technology Services",
-      "location": "Atlanta, GA",
-      "date": "2026-08-18",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000",
+      "company": "Ameriprise Financial",
+      "title": "Asset Management Technology Intern - Data Enablement",
+      "location": "Boston, MA",
+      "date": "2026-09-01",
+      "url": "https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Boston-Massachusetts/Asset-Management-Technology-Intern---Data-Enablement_R26_3538",
       "description": "Software",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 40,
@@ -1891,12 +1875,27 @@
       "category": "Corporate It"
     },
     {
-      "company": "Ameriprise Financial",
-      "title": "Asset Management Technology Intern - Data Enablement",
-      "location": "Boston, MA",
-      "date": "2026-09-01",
-      "url": "https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Boston-Massachusetts/Asset-Management-Technology-Intern---Data-Enablement_R26_3538",
+      "company": "Anheuser-Busch",
+      "title": "Technology Intern",
+      "location": "St. Louis, MO",
+      "date": "2026-08-28",
+      "url": "https://abinbev.wd1.myworkdayjobs.com/en-US/USA/job/St-Louis-Missouri/Technology-Internship_30102525",
       "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Blackhawk Network Holdings",
+      "title": "Technology Intern",
+      "location": "Pleasanton, CA",
+      "date": "2026-08-31",
+      "url": "https://careers-blackhawknetwork.icims.com/jobs/26867/job?mobile=true&needsRedirect=false",
+      "description": "AI/ML/Data",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 40,
       "reasons": [
