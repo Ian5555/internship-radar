@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T17:05:54.967493+00:00",
+  "generated_at": "2026-09-19T16:31:08.342788+00:00",
   "count": 120,
   "matches": [
     {
@@ -53,22 +53,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "Ernst & Young",
-      "title": "Data and Technology Intern - Multiple Teams",
-      "location": "Miami, FL, Dallas, TX, Chicago, IL, NYC",
-      "date": "2026-09-04",
-      "url": "https://eyglobal.yello.co/jobs/gqy0pJfAkXrlECgDBjqcIw?job_board_id=c1riT--B2O-KySgYWsZO1Q",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 78,
-      "reasons": [
-        "corporate it match",
-        "DFW / North Texas",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "USAA",
       "title": "Technology Intern",
       "location": "Plano, TX, San Antonio, TX, Phoenix, AZ",
@@ -93,6 +77,22 @@
       "description": "Software",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 76,
+      "reasons": [
+        "corporate it match",
+        "DFW / North Texas",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Ernst & Young",
+      "title": "Data and Technology Intern - Multiple Teams",
+      "location": "Miami, FL, Dallas, TX, Chicago, IL, NYC",
+      "date": "2026-09-04",
+      "url": "https://eyglobal.yello.co/jobs/gqy0pJfAkXrlECgDBjqcIw?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 72,
       "reasons": [
         "corporate it match",
         "DFW / North Texas",
@@ -290,6 +290,22 @@
       "category": "Corporate It"
     },
     {
+      "company": "Royal Bank of Canada",
+      "title": "Wealth Management Technology Intern",
+      "location": "Minneapolis, MN",
+      "date": "2026-09-18",
+      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Wealth-Management-Technology-Internship_R-0000187852",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 64,
+      "reasons": [
+        "corporate it match",
+        "Summer 2027",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "Verizon Communications",
       "title": "Marketing Technology Intern - Consumer Group",
       "location": "Basking Ridge, Bernards, NJ",
@@ -313,6 +329,24 @@
       "url": "https://applyguy.ai/jobs?company=Cox&job=b1e58588-1476-403d-94e4-4c659275e579&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Product",
       "source": "ApplyGuy 2027 Internships",
+      "score": 62,
+      "reasons": [
+        "product match",
+        "Texas",
+        "Summer 2027",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "General Motors",
+      "title": "Product Management Intern - Digital Product",
+      "location": "Austin, TX, Warren, MI",
+      "date": "2026-09-18",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Product-Management--MBA-_JR-202620538",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
       "score": 62,
       "reasons": [
         "product match",
@@ -386,22 +420,6 @@
         "recent: posted <=30 days"
       ],
       "category": "Corporate It"
-    },
-    {
-      "company": "Nationwide",
-      "title": "Personal Lines Sales Business Analyst Intern",
-      "location": "Columbus, OH",
-      "date": "2026-09-04",
-      "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-Personal-Lines-Sales-Business-Analyst-Intern_100038",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 60,
-      "reasons": [
-        "analyst match",
-        "Summer 2027",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Analyst"
     },
     {
       "company": "Phillipsedison",
@@ -564,22 +582,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "Humana",
-      "title": "Technology Intern - Early ID Participants",
-      "location": "Louisville, KY",
-      "date": "2026-08-19",
-      "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027--Early-ID-Participants-_R-427451",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 58,
-      "reasons": [
-        "corporate it match",
-        "Summer 2027",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "Johnson & Johnson",
       "title": "Technology Intern - Technology LDP",
       "location": "West Chester, PA, Horsham, PA, Spring House, PA, New Brunswick, NJ, Irvine, CA, Raritan, NJ, Santa Clara, CA, Hopewell Township, NJ, Fort Washington, PA, Jacksonville, FL, Palm Beach Gardens, FL",
@@ -661,22 +663,6 @@
       "category": "Product"
     },
     {
-      "company": "Verition Fund Management",
-      "title": "Technology Intern",
-      "location": "Greenwich, CT, Houston, TX, Miami, FL, Chicago, IL, Norwalk, CT, NYC",
-      "date": "2026-08-19",
-      "url": "https://www.verition.com/open-positions?gh_jid=5214784007",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 58,
-      "reasons": [
-        "corporate it match",
-        "Texas",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "Chevron",
       "title": "Information Technology Intern - Information Technology",
       "location": "Houston, TX",
@@ -721,6 +707,22 @@
         "Summer 2027"
       ],
       "category": "Corporate It"
+    },
+    {
+      "company": "Nationwide",
+      "title": "Personal Lines Sales Business Analyst Intern",
+      "location": "Columbus, OH",
+      "date": "2026-09-04",
+      "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-Personal-Lines-Sales-Business-Analyst-Intern_100038",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 54,
+      "reasons": [
+        "analyst match",
+        "Summer 2027",
+        "recent: posted <=30 days"
+      ],
+      "category": "Analyst"
     },
     {
       "company": "Saronic",
@@ -820,29 +822,27 @@
       "category": "Product"
     },
     {
-      "company": "Goldman Sachs",
-      "title": "AWM Product Management Analyst Intern",
-      "location": "Dallas, TX",
-      "date": "2026-08-19",
-      "url": "https://higher.gs.com/roles/171513?type=students",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 52,
-      "reasons": [
-        "product match",
-        "DFW / North Texas",
-        "recent: posted <=30 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
       "company": "HNTB",
       "title": "Strategic Technology Intern - SED Division",
       "location": "Tampa, FL, Tallahassee, FL",
       "date": "2026-08-09",
       "url": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Tallahassee-FL/Strategic-Technology-Intern---Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-Only-_R-31092",
       "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 52,
+      "reasons": [
+        "corporate it match",
+        "Summer 2027"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Humana",
+      "title": "Technology Intern - Early ID Participants",
+      "location": "Louisville, KY",
+      "date": "2026-08-19",
+      "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027--Early-ID-Participants-_R-427451",
+      "description": "Software",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 52,
       "reasons": [
@@ -916,6 +916,21 @@
       "category": "Corporate It"
     },
     {
+      "company": "Verition Fund Management",
+      "title": "Technology Intern",
+      "location": "Greenwich, CT, Houston, TX, Miami, FL, Chicago, IL, Norwalk, CT, NYC",
+      "date": "2026-08-19",
+      "url": "https://www.verition.com/open-positions?gh_jid=5214784007",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 52,
+      "reasons": [
+        "corporate it match",
+        "Texas"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "Cloudflare",
       "title": "Business Systems Analyst Intern",
       "location": "Austin, TX",
@@ -929,21 +944,6 @@
         "Texas"
       ],
       "category": "Analyst"
-    },
-    {
-      "company": "Greatamerica",
-      "title": "Software Quality Engineer Intern",
-      "location": "Cedar Rapids, IA",
-      "date": "2026-09-17",
-      "url": "https://applyguy.ai/jobs?company=Greatamerica&job=755a54b4-5d61-4d4a-93fe-e65d53e99d74&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Software Engineering",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 50,
-      "reasons": [
-        "qa testing match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Qa Testing"
     },
     {
       "company": "Hudl",
@@ -1160,21 +1160,6 @@
       "category": "Product"
     },
     {
-      "company": "CNA Insurance",
-      "title": "Technology Intern - Agile Product Design",
-      "location": "Chicago, IL",
-      "date": "2026-09-04",
-      "url": "https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--Agile-Product-Design-_R-8125",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "Coinbase",
       "title": "Product Manager (HR Technology) Intern",
       "location": "New York City, NY",
@@ -1266,6 +1251,22 @@
       "category": "Corporate It"
     },
     {
+      "company": "Goldman Sachs",
+      "title": "AWM Product Management Analyst Intern",
+      "location": "Dallas, TX",
+      "date": "2026-08-19",
+      "url": "https://higher.gs.com/roles/171513?type=students",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 46,
+      "reasons": [
+        "product match",
+        "DFW / North Texas",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
       "company": "Guardian Life",
       "title": "Summer Intern - Digital & Technology - AI & Machine Learning",
       "location": "Holmdel, NJ, NYC, Bethlehem, PA",
@@ -1344,26 +1345,28 @@
       "category": "Product"
     },
     {
-      "company": "Schonfeld",
-      "title": "Technology Intern - DMFI",
-      "location": "NYC",
-      "date": "2026-09-04",
-      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171772",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "USAA",
       "title": "Digital Technical Product Management Intern",
       "location": "San Antonio, TX",
       "date": "2026-09-09",
       "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Digital-Technical-Product-Management-Intern_R0120759",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 46,
+      "reasons": [
+        "product match",
+        "Texas",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "USAA",
+      "title": "Digital/Technical Product Manager Intern - Digital and Omnichannel Servicing",
+      "location": "San Antonio, TX",
+      "date": "2026-09-18",
+      "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Operations---Digital-Technical-Product-Manager-Intern_R0121101",
       "description": "Product",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 46,
