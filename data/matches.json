@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T16:31:08.342788+00:00",
+  "generated_at": "2026-09-20T16:48:45.773864+00:00",
   "count": 120,
   "matches": [
     {
@@ -630,22 +630,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "RTX",
-      "title": "Systems Technology Intern",
-      "location": "Tucson, AZ",
-      "date": "2026-08-20",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Systems-Technology-Intern----Summer-2027-_01868533",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 58,
-      "reasons": [
-        "corporate it match",
-        "Summer 2027",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "State Farm",
       "title": "Technology Product Analyst Intern - Innovation Group",
       "location": "Tempe, AZ, Dunwoody, GA, Richardson, TX, Bloomington, IL",
@@ -869,6 +853,21 @@
       "category": "Product"
     },
     {
+      "company": "RTX",
+      "title": "Systems Technology Intern",
+      "location": "Tucson, AZ",
+      "date": "2026-08-20",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Systems-Technology-Intern----Summer-2027-_01868533",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 52,
+      "reasons": [
+        "corporate it match",
+        "Summer 2027"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "Samsung",
       "title": "Data Analyst & Process Improvement Internship",
       "location": "Plano, TX",
@@ -1019,23 +1018,6 @@
         "Remote"
       ],
       "category": "Analyst"
-    },
-    {
-      "company": "Devon Energy",
-      "title": "Technology Intern - Data Engineering",
-      "location": "Houston, TX, Oklahoma City, OK",
-      "date": "2026-08-20",
-      "url": "https://wd5.myworkdaysite.com/en-US/recruiting/devonenergy/Careers/job/Oklahoma-City-OK/Technology-Summer-Intern-2027_R26264-1",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 48,
-      "reasons": [
-        "corporate it match",
-        "Texas",
-        "recent: posted <=30 days",
-        "generic data-role penalty"
-      ],
-      "category": "Corporate It"
     },
     {
       "company": "Jabil",
@@ -1739,6 +1721,22 @@
         "NEW: posted <=14 days"
       ],
       "category": "Analyst"
+    },
+    {
+      "company": "Devon Energy",
+      "title": "Technology Intern - Data Engineering",
+      "location": "Houston, TX, Oklahoma City, OK",
+      "date": "2026-08-20",
+      "url": "https://wd5.myworkdaysite.com/en-US/recruiting/devonenergy/Careers/job/Oklahoma-City-OK/Technology-Summer-Intern-2027_R26264-1",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 42,
+      "reasons": [
+        "corporate it match",
+        "Texas",
+        "generic data-role penalty"
+      ],
+      "category": "Corporate It"
     },
     {
       "company": "Eight Sleep",
