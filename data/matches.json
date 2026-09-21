@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T16:48:45.773864+00:00",
+  "generated_at": "2026-09-21T15:43:44.088535+00:00",
   "count": 120,
   "matches": [
     {
@@ -1005,6 +1005,21 @@
       "category": "Analyst"
     },
     {
+      "company": "AutoZone",
+      "title": "Information Technology Intern",
+      "location": "Memphis, TN",
+      "date": "2026-09-21",
+      "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155451",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 48,
+      "reasons": [
+        "corporate it match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "Cotiviti",
       "title": "Temporary Intern - Business Systems Analyst",
       "location": "Remote in USA",
@@ -1676,21 +1691,6 @@
         "NEW: posted <=14 days"
       ],
       "category": "Analyst"
-    },
-    {
-      "company": "Ambi Robotics",
-      "title": "Robotics QA Intern",
-      "location": "Berkeley, CA",
-      "date": "2026-08-21",
-      "url": "https://jobs.lever.co/ambirobotics/35f5b149-b7ee-458a-b84c-1073b723798f/apply",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 42,
-      "reasons": [
-        "qa testing match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Qa Testing"
     },
     {
       "company": "Barclays",

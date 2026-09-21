@@ -1,6 +1,6 @@
 # Latest Internship Radar
 
-Last refreshed: **2026-09-20 16:48 UTC**
+Last refreshed: **2026-09-21 15:43 UTC**
 
 Strict Summer 2027 feed. DFW/North Texas, Texas, and remote roles receive location boosts; corporate IT, QA/testing, systems/support, analyst, IT risk/audit, and consulting roles outrank generic product/data roles.
 
@@ -69,6 +69,7 @@ Strict Summer 2027 feed. DFW/North Texas, Texas, and remote roles receive locati
 | **50** | Netwrix | Documentation Technology Intern | Remote in USA | Corporate It | 2026-04-15 | — | [Apply](https://ats.rippling.com/netwrix-corporation/jobs/dbe87309-bf9f-4c9f-8b1d-6687bb664dbe) | SimplifyJobs Summer 2027 Internships |
 | **50** | Posit PBC (formerly RStudio) | Posit Intern | Remote in USA | Corporate It | 2026-03-21 | — | [Apply](https://posit.co/job-detail/?gh_jid=7674250003) | SimplifyJobs Summer 2027 Internships |
 | **50** | Stewart | Business Systems Analyst Intern | Houston, TX | Analyst | 2026-03-17 | — | [Apply](https://stewart.wd1.myworkdayjobs.com/External/job/USA-TX-Houston---1360-Post-Oak-Blvd/Business-Systems-Analyst-Intern_INTERN166-1) | SimplifyJobs Summer 2027 Internships |
+| **48** | AutoZone | Information Technology Intern | Memphis, TN | Corporate It | 2026-09-21 | NEW | [Apply](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155451) | SimplifyJobs Summer 2027 Internships |
 | **48** | Cotiviti | Temporary Intern - Business Systems Analyst | Remote in USA | Analyst | 2026-04-09 | — | [Apply](https://careers-cotiviti.icims.com/jobs/18432/job?mobile=true&needsRedirect=false) | SimplifyJobs Summer 2027 Internships |
 | **48** | Jabil | Data Governance Business Systems Analyst Intern | Remote in USA, St. Petersburg, FL | Analyst | 2026-02-02 | — | [Apply](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Data-Governance-Business-Systems-Analyst-Intern_J2437910) | SimplifyJobs Summer 2027 Internships |
 | **48** | The Toro Company | Robotics System Test Intern | Frederick, CO | Qa Testing | 2026-09-10 | NEW | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Frederick-CO/Robotics-System-Test-Intern---The-Toro-Company_JR17004) | SimplifyJobs Summer 2027 Internships |
@@ -111,7 +112,6 @@ Strict Summer 2027 feed. DFW/North Texas, Texas, and remote roles receive locati
 | **44** | The Friedkin Group | Product Analyst Intern | Houston, TX | Product | 2026-09-11 | NEW | [Apply](https://external-careers-friedkin.icims.com/jobs/6762/job?mobile=true&needsRedirect=false) | SimplifyJobs Summer 2027 Internships |
 | **44** | USAA | Product Management Analyst Intern - Property and Casualty | San Antonio, TX | Product | 2026-09-11 | NEW | [Apply](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/P-C-Product-Management-Analyst-Intern_R0120949) | SimplifyJobs Summer 2027 Internships |
 | **42** | 3M | Business Analyst Intern - Consumer Business Group | Maplewood, MN | Analyst | 2026-09-14 | NEW | [Apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049) | SimplifyJobs Summer 2027 Internships |
-| **42** | Ambi Robotics | Robotics QA Intern | Berkeley, CA | Qa Testing | 2026-08-21 | Recent | [Apply](https://jobs.lever.co/ambirobotics/35f5b149-b7ee-458a-b84c-1073b723798f/apply) | SimplifyJobs Summer 2027 Internships |
 | **42** | Barclays | Technology Analyst Intern | Glasgow, UK | Analyst | 2026-09-09 | NEW | [Apply](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Analyst-Summer-Internship-Programme-Glasgow_JR-0000129503) | SimplifyJobs Summer 2027 Internships |
 | **42** | Dairyland Power Cooperative | Business Analyst Intern | La Crosse, WI | Analyst | 2026-09-15 | NEW | [Apply](https://dairynet.wd1.myworkdayjobs.com/DPCcareers/job/La-Crosse-Wisconsin/Business-Analyst-Intern_JR101065) | SimplifyJobs Summer 2027 Internships |
 | **42** | Devon Energy | Technology Intern - Data Engineering | Houston, TX, Oklahoma City, OK | Corporate It | 2026-08-20 | — | [Apply](https://wd5.myworkdaysite.com/en-US/recruiting/devonenergy/Careers/job/Oklahoma-City-OK/Technology-Summer-Intern-2027_R26264-1) | SimplifyJobs Summer 2027 Internships |
