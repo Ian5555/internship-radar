@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T18:43:41.662192+00:00",
+  "generated_at": "2026-09-22T17:38:44.000897+00:00",
   "count": 120,
   "matches": [
     {
@@ -580,6 +580,22 @@
         "recent: posted <=30 days"
       ],
       "category": "Corporate It"
+    },
+    {
+      "company": "Grow Financial Federal Credit Union",
+      "title": "Systems Analyst Intern",
+      "location": "Remote in USA",
+      "date": "2026-09-21",
+      "url": "https://careers-growfinancial.icims.com/jobs/2754/job?mobile=true&needsRedirect=false",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 58,
+      "reasons": [
+        "analyst match",
+        "Remote",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Analyst"
     },
     {
       "company": "Johnson & Johnson",
@@ -1376,6 +1392,21 @@
       "category": "Product"
     },
     {
+      "company": "Vialto Partners",
+      "title": "Client Technology Intern",
+      "location": "Campbell, CA, NYC",
+      "date": "2026-09-21",
+      "url": "https://vialto.wd107.myworkdayjobs.com/vialtoexternalcareers/job/Manhattan/Client-Technology-Services---Intern_REQ908939",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 46,
+      "reasons": [
+        "corporate it match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "AspenTech",
       "title": "Product Owner Intern - Product Management",
       "location": "Houston, TX, Bedford, MA",
@@ -1387,6 +1418,23 @@
       "reasons": [
         "product match",
         "Texas",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "Bound",
+      "title": "Product Management Intern (Summer 2027)",
+      "location": "Ames, IA",
+      "date": "2026-09-21",
+      "url": "https://applyguy.ai/jobs?company=Bound&job=401ec484-9b16-4ceb-af7b-e9886bb1ca6e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "product match",
+        "Summer 2027",
         "NEW: posted <=14 days",
         "product secondary-lane penalty"
       ],
@@ -1546,11 +1594,45 @@
       "category": "Product"
     },
     {
+      "company": "Google",
+      "title": "Product Manager Intern - Summer 2027",
+      "location": "SF, San Bruno, CA, NYC, Mountain View, CA",
+      "date": "2026-09-22",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/134770032394543814",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
       "company": "Intuit",
       "title": "Product Manager Intern",
       "location": "Mountain View, CA, San Diego, CA",
       "date": "2026-09-14",
       "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "Mastercard",
+      "title": "Product Management Intern",
+      "location": "Harrison, NY, Arlington County, Arlington, VA",
+      "date": "2026-09-21",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Product-Management-Intern--Summer-2027---United-States_R-287624-1",
       "description": "Product",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 44,
@@ -1632,6 +1714,23 @@
       "location": "Santa Clara, CA",
       "date": "2026-09-16",
       "url": "https://applyguy.ai/jobs?company=NVIDIA&job=de062b86-0280-4e13-84ef-04b3f857305d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "Synnex",
+      "title": "Summer 2027 Internship Program | Commercial, High Growth Track: \u2022 Sales \u2022 Marketing \u2022 Vendor Management \u2022 Business Development  \u2022 Product Management  \u2022 Data Analytics",
+      "location": "Greenville, SC",
+      "date": "2026-09-21",
+      "url": "https://applyguy.ai/jobs?company=Synnex&job=97edb332-9c35-4e30-bcac-135ce7307ae3&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Product",
       "source": "ApplyGuy 2027 Internships",
       "score": 44,
@@ -1807,98 +1906,6 @@
       "description": "Software",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 42,
-      "reasons": [
-        "corporate it match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Qorvo",
-      "title": "Radio Systems and Test Intern",
-      "location": "Fort Lauderdale, FL",
-      "date": "2026-08-31",
-      "url": "https://careers.qorvo.com/job/Ft_-Lauderdale-Radio-Systems-and-Test-Intern-FL-33309/1422353400/?ats=successfactors",
-      "description": "Hardware",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 42,
-      "reasons": [
-        "qa testing match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Qa Testing"
-    },
-    {
-      "company": "Stirista LLC",
-      "title": "Product Management Intern",
-      "location": "Remote, U.S.",
-      "date": "2026-09-14",
-      "url": "https://applyguy.ai/jobs?company=Stirista+LLC&job=6b65a23b-e709-4201-a1d4-c37001b20ea2&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 42,
-      "reasons": [
-        "product match",
-        "Remote",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "Touchstone Investments",
-      "title": "Software Automation Testing Intern (Full Year 2027)",
-      "location": "Cincinnati, OH",
-      "date": "2026-09-02",
-      "url": "https://applyguy.ai/jobs?company=Touchstone+Investments&job=3b69b5e5-2889-4e9f-899c-af7ecf06cd98&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Software Engineering",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 42,
-      "reasons": [
-        "qa testing match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Qa Testing"
-    },
-    {
-      "company": "Ameriprise Financial",
-      "title": "Asset Management Technology Intern - Data Enablement",
-      "location": "Boston, MA",
-      "date": "2026-09-01",
-      "url": "https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Boston-Massachusetts/Asset-Management-Technology-Intern---Data-Enablement_R26_3538",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 40,
-      "reasons": [
-        "corporate it match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Anheuser-Busch",
-      "title": "Technology Intern",
-      "location": "St. Louis, MO",
-      "date": "2026-08-28",
-      "url": "https://abinbev.wd1.myworkdayjobs.com/en-US/USA/job/St-Louis-Missouri/Technology-Internship_30102525",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 40,
-      "reasons": [
-        "corporate it match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Blackhawk Network Holdings",
-      "title": "Technology Intern",
-      "location": "Pleasanton, CA",
-      "date": "2026-08-31",
-      "url": "https://careers-blackhawknetwork.icims.com/jobs/26867/job?mobile=true&needsRedirect=false",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 40,
       "reasons": [
         "corporate it match",
         "recent: posted <=30 days"
