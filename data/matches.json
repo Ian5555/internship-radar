@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T17:38:44.000897+00:00",
+  "generated_at": "2026-09-23T17:51:34.529946+00:00",
   "count": 120,
   "matches": [
     {
@@ -226,22 +226,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "Ercot",
-      "title": "IT Intern - Enterprise Data & AI Administration",
-      "location": "Austin, TX, Taylor, TX",
-      "date": "2026-09-08",
-      "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Intern---IT--Enterprise-Data---AI-Administration_R2478",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 64,
-      "reasons": [
-        "corporate it match",
-        "Texas",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "FNBO",
       "title": "Technology Intern",
       "location": "Omaha, NE",
@@ -320,24 +304,6 @@
         "NEW: posted <=14 days"
       ],
       "category": "Corporate It"
-    },
-    {
-      "company": "Cox",
-      "title": "Product Management Intern - Summer 2027 (Austin, TX)",
-      "location": "Austin, TX",
-      "date": "2026-09-08",
-      "url": "https://applyguy.ai/jobs?company=Cox&job=b1e58588-1476-403d-94e4-4c659275e579&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 62,
-      "reasons": [
-        "product match",
-        "Texas",
-        "Summer 2027",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
     },
     {
       "company": "General Motors",
@@ -453,22 +419,6 @@
       "category": "Consulting"
     },
     {
-      "company": "Tokyo Electron",
-      "title": "Sales Business Analyst Intern",
-      "location": "Austin, TX",
-      "date": "2026-09-08",
-      "url": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Sales-Business-Analyst-Intern_R26-01519",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 60,
-      "reasons": [
-        "analyst match",
-        "Texas",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Analyst"
-    },
-    {
       "company": "United Airlines",
       "title": "Digital Technology Intern - Summer 2027",
       "location": "Chicago, IL",
@@ -582,6 +532,22 @@
       "category": "Corporate It"
     },
     {
+      "company": "Ercot",
+      "title": "IT Intern - Enterprise Data & AI Administration",
+      "location": "Austin, TX, Taylor, TX",
+      "date": "2026-09-08",
+      "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Intern---IT--Enterprise-Data---AI-Administration_R2478",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 58,
+      "reasons": [
+        "corporate it match",
+        "Texas",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "Grow Financial Federal Credit Union",
       "title": "Systems Analyst Intern",
       "location": "Remote in USA",
@@ -658,6 +624,24 @@
         "product match",
         "DFW / North Texas",
         "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "Cox",
+      "title": "Product Management Intern - Summer 2027 (Austin, TX)",
+      "location": "Austin, TX",
+      "date": "2026-09-08",
+      "url": "https://applyguy.ai/jobs?company=Cox&job=b1e58588-1476-403d-94e4-4c659275e579&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 56,
+      "reasons": [
+        "product match",
+        "Texas",
+        "Summer 2027",
+        "recent: posted <=30 days",
         "product secondary-lane penalty"
       ],
       "category": "Product"
@@ -753,6 +737,22 @@
         "Texas"
       ],
       "category": "Corporate It"
+    },
+    {
+      "company": "Tokyo Electron",
+      "title": "Sales Business Analyst Intern",
+      "location": "Austin, TX",
+      "date": "2026-09-08",
+      "url": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Sales-Business-Analyst-Intern_R26-01519",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 54,
+      "reasons": [
+        "analyst match",
+        "Texas",
+        "recent: posted <=30 days"
+      ],
+      "category": "Analyst"
     },
     {
       "company": "Vanguard",
@@ -1173,41 +1173,11 @@
       "category": "Product"
     },
     {
-      "company": "Coinbase",
-      "title": "Product Manager (HR Technology) Intern",
-      "location": "New York City, NY",
-      "date": "2026-09-08",
-      "url": "https://applyguy.ai/jobs?company=Coinbase&job=c273ae40-7934-4d7f-86fb-6c02a82b4553&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "Constellation Energy",
       "title": "Information Technology Software Development Intern",
       "location": "Baltimore, MD",
       "date": "2026-09-12",
       "url": "https://jobs.constellationenergy.com/jobs/138708?icims=1",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "COUNTRY Financial",
-      "title": "Information Technology Services Intern",
-      "location": "Bloomington, IL",
-      "date": "2026-09-08",
-      "url": "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Information-Technology-Services-Intern_R26_0000000977",
       "description": "Software",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 46,
@@ -1458,81 +1428,13 @@
       "category": "Product"
     },
     {
-      "company": "Cox",
-      "title": "Product Management Intern - Summer 2027 (Atlanta, GA)",
-      "location": "Atlanta, GA",
-      "date": "2026-09-08",
-      "url": "https://applyguy.ai/jobs?company=Cox&job=88e01a12-6ce1-4102-8650-684a75e2819b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "company": "Danaher",
+      "title": "Product Management & Marketing Intern (Summer 2027 Intern)",
+      "location": "Logan, UT",
+      "date": "2026-09-22",
+      "url": "https://applyguy.ai/jobs?company=Danaher&job=e3704efe-90f5-44e6-be7f-2f238b2dea94&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Product",
       "source": "ApplyGuy 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "Cox",
-      "title": "Product Management Intern - Summer 2027 (Burlington, VT)",
-      "location": "Burlington, VT",
-      "date": "2026-09-08",
-      "url": "https://applyguy.ai/jobs?company=Cox&job=f10a9ff5-ae49-4886-ba60-43f9258fee70&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "Cox",
-      "title": "Product Management Intern - Summer 2027 (Draper, UT)",
-      "location": "Draper, UT",
-      "date": "2026-09-08",
-      "url": "https://applyguy.ai/jobs?company=Cox&job=6e662f9d-1a0e-4dd3-82c9-b3e7e877c3cd&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "Cox",
-      "title": "Product Management Intern - Summer 2027 (North Hills, NY)",
-      "location": "Long Island, NY",
-      "date": "2026-09-08",
-      "url": "https://applyguy.ai/jobs?company=Cox&job=32da9492-8479-424b-904f-aabfa8c36174&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "Dick's Sporting Goods",
-      "title": "Product Management Intern - Corporate Internship",
-      "location": "Pittsburgh, PA",
-      "date": "2026-09-08",
-      "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Product-Management---Summer-2027-Corporate-Internship_202608791-1",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
       "score": 44,
       "reasons": [
         "product match",
@@ -1571,23 +1473,6 @@
       "reasons": [
         "product match",
         "Texas",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "Gevernova",
-      "title": "GE Vernova Gas Power Controls Product Management Intern - Summer 2027",
-      "location": "Longmont, CO",
-      "date": "2026-09-08",
-      "url": "https://applyguy.ai/jobs?company=Gevernova&job=169dfc7b-3728-4c2e-afc6-0c61334e9a75&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Summer 2027",
         "NEW: posted <=14 days",
         "product secondary-lane penalty"
       ],
@@ -1906,6 +1791,115 @@
       "description": "Software",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 42,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Qorvo",
+      "title": "Radio Systems and Test Intern",
+      "location": "Fort Lauderdale, FL",
+      "date": "2026-08-31",
+      "url": "https://careers.qorvo.com/job/Ft_-Lauderdale-Radio-Systems-and-Test-Intern-FL-33309/1422353400/?ats=successfactors",
+      "description": "Hardware",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 42,
+      "reasons": [
+        "qa testing match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Qa Testing"
+    },
+    {
+      "company": "Stirista LLC",
+      "title": "Product Management Intern",
+      "location": "Remote, U.S.",
+      "date": "2026-09-14",
+      "url": "https://applyguy.ai/jobs?company=Stirista+LLC&job=6b65a23b-e709-4201-a1d4-c37001b20ea2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 42,
+      "reasons": [
+        "product match",
+        "Remote",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "Touchstone Investments",
+      "title": "Software Automation Testing Intern (Full Year 2027)",
+      "location": "Cincinnati, OH",
+      "date": "2026-09-02",
+      "url": "https://applyguy.ai/jobs?company=Touchstone+Investments&job=3b69b5e5-2889-4e9f-899c-af7ecf06cd98&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Software Engineering",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 42,
+      "reasons": [
+        "qa testing match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Qa Testing"
+    },
+    {
+      "company": "Zimmer Biomet Holdings",
+      "title": "Product Management Intern - Artificial Intelligence Product Management",
+      "location": "Remote in USA",
+      "date": "2026-09-21",
+      "url": "https://careers.zimmerbiomet.com/us/en/job/12745",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 42,
+      "reasons": [
+        "product match",
+        "Remote",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "Ameriprise Financial",
+      "title": "Asset Management Technology Intern - Data Enablement",
+      "location": "Boston, MA",
+      "date": "2026-09-01",
+      "url": "https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Boston-Massachusetts/Asset-Management-Technology-Intern---Data-Enablement_R26_3538",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Anheuser-Busch",
+      "title": "Technology Intern",
+      "location": "St. Louis, MO",
+      "date": "2026-08-28",
+      "url": "https://abinbev.wd1.myworkdayjobs.com/en-US/USA/job/St-Louis-Missouri/Technology-Internship_30102525",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Blackhawk Network Holdings",
+      "title": "Technology Intern",
+      "location": "Pleasanton, CA",
+      "date": "2026-08-31",
+      "url": "https://careers-blackhawknetwork.icims.com/jobs/26867/job?mobile=true&needsRedirect=false",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
       "reasons": [
         "corporate it match",
         "recent: posted <=30 days"
