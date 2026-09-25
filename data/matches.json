@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T17:52:08.588551+00:00",
+  "generated_at": "2026-09-25T17:57:37.730301+00:00",
   "count": 120,
   "matches": [
     {
@@ -960,21 +960,6 @@
       "category": "Analyst"
     },
     {
-      "company": "Hudl",
-      "title": "Software Quality Assurance Engineering Intern",
-      "location": "Lincoln, NE",
-      "date": "2026-09-10",
-      "url": "https://applyguy.ai/jobs?company=Hudl&job=d9842c39-43c2-4f36-a9a8-9675a8c1ad95&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Software Engineering",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 50,
-      "reasons": [
-        "qa testing match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Qa Testing"
-    },
-    {
       "company": "Netwrix",
       "title": "Documentation Technology Intern",
       "location": "Remote in USA",
@@ -1018,6 +1003,21 @@
         "Texas"
       ],
       "category": "Analyst"
+    },
+    {
+      "company": "Astranis",
+      "title": "Reliability Test Intern",
+      "location": "SF",
+      "date": "2026-09-23",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4705626006",
+      "description": "Hardware",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 48,
+      "reasons": [
+        "qa testing match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Qa Testing"
     },
     {
       "company": "AutoZone",
@@ -1065,21 +1065,6 @@
       "category": "Analyst"
     },
     {
-      "company": "The Toro Company",
-      "title": "Robotics System Test Intern",
-      "location": "Frederick, CO",
-      "date": "2026-09-10",
-      "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Frederick-CO/Robotics-System-Test-Intern---The-Toro-Company_JR17004",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 48,
-      "reasons": [
-        "qa testing match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Qa Testing"
-    },
-    {
       "company": "Cisco",
       "title": "Customer Experience Product Management Specialist 1 Intern",
       "location": "San Jose, CA, Research Triangle, Durham, NC, Richardson, TX",
@@ -1117,21 +1102,6 @@
       "location": "Baltimore, MD",
       "date": "2026-09-12",
       "url": "https://jobs.constellationenergy.com/jobs/138708?icims=1",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Demco Products",
-      "title": "IT Intern",
-      "location": "Boyden, IA",
-      "date": "2026-09-10",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4492652",
       "description": "Software",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 46,
@@ -1284,6 +1254,23 @@
       "category": "Corporate It"
     },
     {
+      "company": "Abb",
+      "title": "Product Management Intern - Summer 2027",
+      "location": "New Berlin, WI",
+      "date": "2026-09-24",
+      "url": "https://applyguy.ai/jobs?company=Abb&job=9bb4e31e-4881-42af-9054-5f98b6a39af3&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
       "company": "AspenTech",
       "title": "Product Owner Intern - Product Management",
       "location": "Houston, TX, Bedford, MA",
@@ -1312,23 +1299,6 @@
       "reasons": [
         "product match",
         "Summer 2027",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "Charles Schwab",
-      "title": "Product Management Intern - Thinkorswim",
-      "location": "Austin, TX",
-      "date": "2026-09-10",
-      "url": "https://career-schwab.icims.com/jobs/126266/job?mobile=true&needsRedirect=false",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Texas",
         "NEW: posted <=14 days",
         "product secondary-lane penalty"
       ],
@@ -1401,6 +1371,21 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
+    },
+    {
+      "company": "Hudl",
+      "title": "Software Quality Assurance Engineering Intern",
+      "location": "Lincoln, NE",
+      "date": "2026-09-10",
+      "url": "https://applyguy.ai/jobs?company=Hudl&job=d9842c39-43c2-4f36-a9a8-9675a8c1ad95&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Software Engineering",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "qa testing match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Qa Testing"
     },
     {
       "company": "Intuit",
@@ -1707,6 +1692,21 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
+    },
+    {
+      "company": "The Toro Company",
+      "title": "Robotics System Test Intern",
+      "location": "Frederick, CO",
+      "date": "2026-09-10",
+      "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Frederick-CO/Robotics-System-Test-Intern---The-Toro-Company_JR17004",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 42,
+      "reasons": [
+        "qa testing match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Qa Testing"
     },
     {
       "company": "Touchstone Investments",
