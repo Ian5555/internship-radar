@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T17:57:37.730301+00:00",
+  "generated_at": "2026-09-26T17:11:48.144296+00:00",
   "count": 120,
   "matches": [
     {
@@ -147,23 +147,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "Citizens Financial Group",
-      "title": "Data Engineer Intern - Enterprise Technology & Security",
-      "location": "Plano, TX, Johnston, RI, Phoenix, AZ",
-      "date": "2026-09-11",
-      "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 68,
-      "reasons": [
-        "corporate it match",
-        "DFW / North Texas",
-        "NEW: posted <=14 days",
-        "generic data-role penalty"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "Capital One",
       "title": "Technology Intern",
       "location": "Plano, TX, McLean, VA, Richmond, VA",
@@ -290,6 +273,23 @@
       "category": "Corporate It"
     },
     {
+      "company": "Citizens Financial Group",
+      "title": "Data Engineer Intern - Enterprise Technology & Security",
+      "location": "Plano, TX, Johnston, RI, Phoenix, AZ",
+      "date": "2026-09-11",
+      "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 62,
+      "reasons": [
+        "corporate it match",
+        "DFW / North Texas",
+        "recent: posted <=30 days",
+        "generic data-role penalty"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "General Motors",
       "title": "Product Management Intern - Digital Product",
       "location": "Austin, TX, Warren, MI",
@@ -306,22 +306,6 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
-    },
-    {
-      "company": "LabCorp",
-      "title": "Financial Analytics & Technology Intern - Financial Analytics Team",
-      "location": "Remote in USA",
-      "date": "2026-09-11",
-      "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Remote_United-States/Intern---Financial-Analytics---Technology_2630761",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 62,
-      "reasons": [
-        "corporate it match",
-        "Remote",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
     },
     {
       "company": "Corning",
@@ -486,8 +470,8 @@
       "company": "Copart",
       "title": "Technology Product Analyst Intern",
       "location": "Dallas, TX",
-      "date": "2026-09-17",
-      "url": "https://applyguy.ai/jobs?company=Copart&job=92f4727d-a58a-4033-beed-9291b795954b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "date": "2026-09-25",
+      "url": "https://applyguy.ai/jobs?company=Copart&job=c67f699e-d152-4d8f-96da-55583ee915ab&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Product",
       "source": "ApplyGuy 2027 Internships",
       "score": 58,
@@ -629,6 +613,22 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
+    },
+    {
+      "company": "LabCorp",
+      "title": "Financial Analytics & Technology Intern - Financial Analytics Team",
+      "location": "Remote in USA",
+      "date": "2026-09-11",
+      "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Remote_United-States/Intern---Financial-Analytics---Technology_2630761",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 56,
+      "reasons": [
+        "corporate it match",
+        "Remote",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
     },
     {
       "company": "Chevron",
@@ -1065,6 +1065,21 @@
       "category": "Analyst"
     },
     {
+      "company": "Cerity Partners",
+      "title": "Investment Data & Technology Intern - Central Solutions",
+      "location": "NYC",
+      "date": "2026-09-25",
+      "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Investment-Data---Technology-Analyst-Internship_R929",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 46,
+      "reasons": [
+        "corporate it match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "Cisco",
       "title": "Customer Experience Product Management Specialist 1 Intern",
       "location": "San Jose, CA, Research Triangle, Durham, NC, Richardson, TX",
@@ -1339,23 +1354,6 @@
       "category": "Product"
     },
     {
-      "company": "Emerson Electric",
-      "title": "Software Product Management Intern",
-      "location": "Austin, TX",
-      "date": "2026-09-11",
-      "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010799",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Texas",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
       "company": "Google",
       "title": "Product Manager Intern - Summer 2027",
       "location": "SF, San Bruno, CA, NYC, Mountain View, CA",
@@ -1422,40 +1420,6 @@
       "category": "Product"
     },
     {
-      "company": "Momentive",
-      "title": "Product Management Intern - Specialty Additives",
-      "location": "Friendly, WV",
-      "date": "2026-09-11",
-      "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-WV-Friendly/Summer-2027-Product-Management-Intern_R9816",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "Momentive",
-      "title": "Summer 2027 Product Management Intern",
-      "location": "Friendly, WV",
-      "date": "2026-09-11",
-      "url": "https://applyguy.ai/jobs?company=Momentive&job=7c9be29a-277e-4c74-8343-9bb64869bdee&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
       "company": "NVIDIA",
       "title": "Product Management MBA Intern, Data Center GPU - Summer 2027",
       "location": "Santa Clara, CA",
@@ -1484,40 +1448,6 @@
       "reasons": [
         "product match",
         "Summer 2027",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "The Friedkin Group",
-      "title": "Product Analyst Intern",
-      "location": "Houston, TX",
-      "date": "2026-09-11",
-      "url": "https://external-careers-friedkin.icims.com/jobs/6762/job?mobile=true&needsRedirect=false",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Texas",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "USAA",
-      "title": "Product Management Analyst Intern - Property and Casualty",
-      "location": "San Antonio, TX",
-      "date": "2026-09-11",
-      "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/P-C-Product-Management-Analyst-Intern_R0120949",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Texas",
         "NEW: posted <=14 days",
         "product secondary-lane penalty"
       ],
@@ -1585,21 +1515,6 @@
         "generic data-role penalty"
       ],
       "category": "Corporate It"
-    },
-    {
-      "company": "Eight Sleep",
-      "title": "Hardware Support & Test Intern",
-      "location": "SF",
-      "date": "2026-08-26",
-      "url": "https://jobs.ashbyhq.com/eightsleep/f8de63e3-605e-404a-98b4-5b58d9fe7bc5/application?embed=true",
-      "description": "Hardware",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 42,
-      "reasons": [
-        "qa testing match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Qa Testing"
     },
     {
       "company": "Enact Mortgage Insurance",
@@ -1904,6 +1819,83 @@
         "recent: posted <=30 days"
       ],
       "category": "Corporate It"
+    },
+    {
+      "company": "Demco Products",
+      "title": "IT Intern",
+      "location": "Boyden, IA",
+      "date": "2026-09-10",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4492652",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Eaton",
+      "title": "Engineering Technology Intern - Embedded Systems - Research & Development Engineering",
+      "location": "Moon Twp, PA",
+      "date": "2026-09-01",
+      "url": "https://eaton.eightfold.ai/careers/job/687238043804",
+      "description": "Hardware",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Equifax",
+      "title": "Technology Intern - Software Development - Site Reliability Engineering",
+      "location": "Alpharetta, GA",
+      "date": "2026-08-30",
+      "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/USIS-Technology-Intern_J00178784",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Federated Insurance",
+      "title": "IT Intern",
+      "location": "Owatonna, MN",
+      "date": "2026-09-09",
+      "url": "https://careers-federatedinsurance.icims.com/jobs/5718/job?mobile=true&needsRedirect=false",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Hewlett Packard",
+      "title": "Personal Systems Product Management Intern",
+      "location": "Austin, TX",
+      "date": "2026-09-02",
+      "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Austin-Texas-United-States-of-America/Personal-Systems-Product-Management-Intern_UNI4755-1",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "product match",
+        "Texas",
+        "recent: posted <=30 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
     }
   ],
   "errors": []
