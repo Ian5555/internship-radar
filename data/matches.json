@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T17:11:48.144296+00:00",
+  "generated_at": "2026-09-27T17:45:06.766123+00:00",
   "count": 120,
   "matches": [
     {
@@ -53,22 +53,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "Air Products",
-      "title": "Information Technology/Digital Technology Intern - Infrastructure Services",
-      "location": "Allentown, PA",
-      "date": "2026-08-27",
-      "url": "https://airproducts.wd5.myworkdayjobs.com/en-US/AP0001/job/Allentown-Pennsylvania/Summer-Intern--IT-Digital-Technology--2027-_JR-2026-21953",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 76,
-      "reasons": [
-        "corporate it match",
-        "DFW / North Texas",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "Ernst & Young",
       "title": "Data and Technology Intern - Multiple Teams",
       "location": "Miami, FL, Dallas, TX, Chicago, IL, NYC",
@@ -97,6 +81,21 @@
         "corporate it match",
         "DFW / North Texas",
         "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Air Products",
+      "title": "Information Technology/Digital Technology Intern - Infrastructure Services",
+      "location": "Allentown, PA",
+      "date": "2026-08-27",
+      "url": "https://airproducts.wd5.myworkdayjobs.com/en-US/AP0001/job/Allentown-Pennsylvania/Summer-Intern--IT-Digital-Technology--2027-_JR-2026-21953",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 70,
+      "reasons": [
+        "corporate it match",
+        "DFW / North Texas"
       ],
       "category": "Corporate It"
     },
@@ -451,22 +450,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "Commerce Bank",
-      "title": "IT Intern - Summer 2027",
-      "location": "Kansas City, MO",
-      "date": "2026-08-27",
-      "url": "https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern---IT--Summer-2027-_38395",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 58,
-      "reasons": [
-        "corporate it match",
-        "Summer 2027",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "Copart",
       "title": "Technology Product Analyst Intern",
       "location": "Dallas, TX",
@@ -756,24 +739,6 @@
       "category": "Product"
     },
     {
-      "company": "Workiva",
-      "title": "Spring & Summer 2027 Intern - Product Management",
-      "location": "Remote, U.S.",
-      "date": "2026-08-27",
-      "url": "https://applyguy.ai/jobs?company=Workiva&job=1f576f00-4bad-4892-9149-bafe34f2eaeb&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 54,
-      "reasons": [
-        "product match",
-        "Remote",
-        "Summer 2027",
-        "recent: posted <=30 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
       "company": "Auto Club Group",
       "title": "Business Technology Intern",
       "location": "Remote in USA",
@@ -804,6 +769,21 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
+    },
+    {
+      "company": "Commerce Bank",
+      "title": "IT Intern - Summer 2027",
+      "location": "Kansas City, MO",
+      "date": "2026-08-27",
+      "url": "https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern---IT--Summer-2027-_38395",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 52,
+      "reasons": [
+        "corporate it match",
+        "Summer 2027"
+      ],
+      "category": "Corporate It"
     },
     {
       "company": "HNTB",
@@ -1094,37 +1074,6 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
-    },
-    {
-      "company": "Cisco",
-      "title": "Product Management Engineer 2  Intern - United States",
-      "location": "Seattle, WA, Milpitas, CA, SF, San Jose, CA, Research Triangle, Durham, NC, Richardson, TX",
-      "date": "2026-01-29",
-      "url": "https://careers.cisco.com/global/en/job/2007508",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "product match",
-        "DFW / North Texas",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "Constellation Energy",
-      "title": "Information Technology Software Development Intern",
-      "location": "Baltimore, MD",
-      "date": "2026-09-12",
-      "url": "https://jobs.constellationenergy.com/jobs/138708?icims=1",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
     },
     {
       "company": "Digital Realty",
@@ -1791,6 +1740,21 @@
       "category": "Corporate It"
     },
     {
+      "company": "Constellation Energy",
+      "title": "Information Technology Software Development Intern",
+      "location": "Baltimore, MD",
+      "date": "2026-09-12",
+      "url": "https://jobs.constellationenergy.com/jobs/138708?icims=1",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "COUNTRY Financial",
       "title": "Information Technology Services Intern",
       "location": "Bloomington, IL",
@@ -1896,6 +1860,38 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
+    },
+    {
+      "company": "HP",
+      "title": "Personal Systems Product Management Intern",
+      "location": "Austin, TX",
+      "date": "2026-09-02",
+      "url": "https://applyguy.ai/jobs?company=HP&job=0e007c4d-74af-4f40-9ba7-c4a4b0f92a54&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "product match",
+        "Texas",
+        "recent: posted <=30 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "Schonfeld",
+      "title": "Technology Intern - DMFI",
+      "location": "NYC",
+      "date": "2026-09-04",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171772",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
     }
   ],
   "errors": []
