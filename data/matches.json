@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T17:45:06.766123+00:00",
+  "generated_at": "2026-09-28T20:07:51.213965+00:00",
   "count": 120,
   "matches": [
     {
@@ -112,36 +112,6 @@
         "corporate it match",
         "Texas",
         "Summer 2027"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Alo Yoga",
-      "title": "Engineering Intern - Business Technology Operations - Foundational PIM",
-      "location": "Culver City, CA",
-      "date": "2026-01-31",
-      "url": "https://boards.greenhouse.io/aloyoga/jobs/5781907004",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 68,
-      "reasons": [
-        "corporate it match",
-        "support ops match"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Alo Yoga",
-      "title": "Engineering Intern - Business Technology Operations - Operations Data & Visibility",
-      "location": "Culver City, CA",
-      "date": "2026-01-31",
-      "url": "https://boards.greenhouse.io/aloyoga/jobs/5781932004",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 68,
-      "reasons": [
-        "corporate it match",
-        "support ops match"
       ],
       "category": "Corporate It"
     },
@@ -1386,6 +1356,23 @@
       "category": "Product"
     },
     {
+      "company": "Philips",
+      "title": "Intern \u2013 Digital Healthtech Product Management \u2013 Bothell, WA \u2013 Summer 2027",
+      "location": "Bothell, WA",
+      "date": "2026-09-28",
+      "url": "https://applyguy.ai/jobs?company=Philips&job=09a6b78d-058f-448b-a9c3-bfd777bef03e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
       "company": "Synnex",
       "title": "Summer 2027 Internship Program | Commercial, High Growth Track: \u2022 Sales \u2022 Marketing \u2022 Vendor Management \u2022 Business Development  \u2022 Product Management  \u2022 Data Analytics",
       "location": "Greenville, SC",
@@ -1650,21 +1637,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "Anheuser-Busch",
-      "title": "Technology Intern",
-      "location": "St. Louis, MO",
-      "date": "2026-08-28",
-      "url": "https://abinbev.wd1.myworkdayjobs.com/en-US/USA/job/St-Louis-Missouri/Technology-Internship_30102525",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 40,
-      "reasons": [
-        "corporate it match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "Barnes & Thornburg",
       "title": "Information Technology AI Intern",
       "location": "Indianapolis, IN",
@@ -1761,21 +1733,6 @@
       "date": "2026-09-08",
       "url": "https://countryfinancial.wd5.myworkdayjobs.com/COUNTRYCorporateInternships/job/Bloomington-IL/Information-Technology-Services-Intern_R26_0000000977",
       "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 40,
-      "reasons": [
-        "corporate it match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "CSX",
-      "title": "Technology Intern - Paid",
-      "location": "Jacksonville, FL",
-      "date": "2026-08-28",
-      "url": "https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54806",
-      "description": "AI/ML/Data",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 40,
       "reasons": [
@@ -1884,6 +1841,53 @@
       "location": "NYC",
       "date": "2026-09-04",
       "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171772",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Shure",
+      "title": "Unified Communications Technology Intern",
+      "location": "Skokie, IL",
+      "date": "2026-09-03",
+      "url": "https://careersus-shure.icims.com/jobs/5002/job?mobile=true&needsRedirect=false",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "USAA",
+      "title": "Digital Technical Product Management Intern",
+      "location": "San Antonio, TX",
+      "date": "2026-09-09",
+      "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Digital-Technical-Product-Management-Intern_R0120759",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "product match",
+        "Texas",
+        "recent: posted <=30 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "Verisk",
+      "title": "Technology Intern - Summer Internship Program",
+      "location": "Holmdel, NJ, Jersey City, NJ, Lehi, UT",
+      "date": "2026-09-01",
+      "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4722",
       "description": "Software",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 40,
