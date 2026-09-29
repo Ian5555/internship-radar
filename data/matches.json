@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T20:07:51.213965+00:00",
+  "generated_at": "2026-09-29T18:39:01.096056+00:00",
   "count": 120,
   "matches": [
     {
@@ -164,25 +164,9 @@
     {
       "company": "CoStar Group",
       "title": "Technology Intern",
-      "location": "Arlington County, Arlington, VA",
-      "date": "2026-09-14",
-      "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Arlington/Technology-Intern---Arlington--VA--Summer-2027-_R39666",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 64,
-      "reasons": [
-        "corporate it match",
-        "Summer 2027",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "FNBO",
-      "title": "Technology Intern",
-      "location": "Omaha, NE",
-      "date": "2026-09-14",
-      "url": "https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Summer-2027---Technology-Intern_R-20261653",
+      "location": "Irvine, CA",
+      "date": "2026-09-16",
+      "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Irvine-US/Summer-2027-Technology-Intern---Irvine--CA_R39673",
       "description": "Software",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 64,
@@ -469,6 +453,22 @@
       "category": "Corporate It"
     },
     {
+      "company": "FNBO",
+      "title": "Technology Intern",
+      "location": "Omaha, NE",
+      "date": "2026-09-14",
+      "url": "https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Summer-2027---Technology-Intern_R-20261653",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 58,
+      "reasons": [
+        "corporate it match",
+        "Summer 2027",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "Grow Financial Federal Credit Union",
       "title": "Systems Analyst Intern",
       "location": "Remote in USA",
@@ -531,23 +531,6 @@
         "recent: posted <=30 days"
       ],
       "category": "Corporate It"
-    },
-    {
-      "company": "State Farm",
-      "title": "Technology Product Analyst Intern - Innovation Group",
-      "location": "Tempe, AZ, Dunwoody, GA, Richardson, TX, Bloomington, IL",
-      "date": "2026-09-14",
-      "url": "https://jobs.statefarm.com/jobs/45986?icims=1",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 58,
-      "reasons": [
-        "product match",
-        "DFW / North Texas",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
     },
     {
       "company": "Cox",
@@ -865,6 +848,23 @@
       "category": "Analyst"
     },
     {
+      "company": "State Farm",
+      "title": "Technology Product Analyst Intern - Innovation Group",
+      "location": "Tempe, AZ, Dunwoody, GA, Richardson, TX, Bloomington, IL",
+      "date": "2026-09-14",
+      "url": "https://jobs.statefarm.com/jobs/45986?icims=1",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 52,
+      "reasons": [
+        "product match",
+        "DFW / North Texas",
+        "recent: posted <=30 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
       "company": "University of Texas at Austin",
       "title": "Technology Intern - Texas Immersive Institute - Moody College of Communication",
       "location": "Austin, TX",
@@ -1078,36 +1078,6 @@
       "category": "Product"
     },
     {
-      "company": "Guardian Life",
-      "title": "Summer Intern - Digital & Technology - AI & Machine Learning",
-      "location": "Holmdel, NJ, NYC, Bethlehem, PA",
-      "date": "2026-09-14",
-      "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---AI---Machine-Learning_R000110205",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Hudson River Trading",
-      "title": "Trading and Technology Internship - Witti",
-      "location": "NYC",
-      "date": "2026-09-14",
-      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8188637",
-      "description": "Quant",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "Rheem",
       "title": "Commercial Product Management Intern",
       "location": "Lewisville, TX, Fort Smith, AR",
@@ -1305,23 +1275,6 @@
       "category": "Qa Testing"
     },
     {
-      "company": "Intuit",
-      "title": "Product Manager Intern",
-      "location": "Mountain View, CA, San Diego, CA",
-      "date": "2026-09-14",
-      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
       "company": "Mastercard",
       "title": "Product Management Intern",
       "location": "Harrison, NY, Arlington County, Arlington, VA",
@@ -1407,21 +1360,6 @@
       "category": "Product"
     },
     {
-      "company": "3M",
-      "title": "Business Analyst Intern - Consumer Business Group",
-      "location": "Maplewood, MN",
-      "date": "2026-09-14",
-      "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 42,
-      "reasons": [
-        "analyst match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Analyst"
-    },
-    {
       "company": "Dairyland Power Cooperative",
       "title": "Business Analyst Intern",
       "location": "La Crosse, WI",
@@ -1451,36 +1389,6 @@
         "generic data-role penalty"
       ],
       "category": "Corporate It"
-    },
-    {
-      "company": "Enact Mortgage Insurance",
-      "title": "Process Improvement Analyst Intern",
-      "location": "Raleigh, NC",
-      "date": "2026-09-14",
-      "url": "https://gnw.wd1.myworkdayjobs.com/enact_mi/job/Raleigh-North-Carolina/Process-Improvement-Analyst-Intern_REQ-260360",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 42,
-      "reasons": [
-        "analyst match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Analyst"
-    },
-    {
-      "company": "Genworth Financial",
-      "title": "Process Improvement Analyst Intern",
-      "location": "Raleigh, NC",
-      "date": "2026-09-14",
-      "url": "https://gnw.wd1.myworkdayjobs.com/GNW/job/Raleigh-North-Carolina/Process-Improvement-Analyst-Intern_REQ-260360-1",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 42,
-      "reasons": [
-        "analyst match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Analyst"
     },
     {
       "company": "IEX Group",
@@ -1528,23 +1436,6 @@
       "category": "Qa Testing"
     },
     {
-      "company": "Stirista LLC",
-      "title": "Product Management Intern",
-      "location": "Remote, U.S.",
-      "date": "2026-09-14",
-      "url": "https://applyguy.ai/jobs?company=Stirista+LLC&job=6b65a23b-e709-4201-a1d4-c37001b20ea2&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 42,
-      "reasons": [
-        "product match",
-        "Remote",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
       "company": "The Toro Company",
       "title": "Robotics System Test Intern",
       "location": "Frederick, CO",
@@ -1588,6 +1479,21 @@
         "recent: posted <=30 days"
       ],
       "category": "Qa Testing"
+    },
+    {
+      "company": "W.W. Grainger",
+      "title": "Business Analyst Intern",
+      "location": "Green Bay, WI",
+      "date": "2026-09-29",
+      "url": "https://jobs.grainger.com/ImperialSupplies/job/GREEN-BAY-Business-Analyst-Intern-WI-54301-5160/1434550000/?ats=successfactors",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 42,
+      "reasons": [
+        "analyst match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Analyst"
     },
     {
       "company": "Zimmer Biomet Holdings",
@@ -1802,6 +1708,21 @@
       "category": "Corporate It"
     },
     {
+      "company": "Guardian Life",
+      "title": "Summer Intern - Digital & Technology - AI & Machine Learning",
+      "location": "Holmdel, NJ, NYC, Bethlehem, PA",
+      "date": "2026-09-14",
+      "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---AI---Machine-Learning_R000110205",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "Hewlett Packard",
       "title": "Personal Systems Product Management Intern",
       "location": "Austin, TX",
@@ -1834,6 +1755,21 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
+    },
+    {
+      "company": "Hudson River Trading",
+      "title": "Trading and Technology Internship - Witti",
+      "location": "NYC",
+      "date": "2026-09-14",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8188637",
+      "description": "Quant",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
     },
     {
       "company": "Schonfeld",
@@ -1896,6 +1832,72 @@
         "recent: posted <=30 days"
       ],
       "category": "Corporate It"
+    },
+    {
+      "company": "ZS",
+      "title": "Business Technology Solutions Intern - North America - University Students",
+      "location": "Boston, MA, South SF, Philadelphia, PA, Thousand Oaks, CA, Chicago, IL, Princeton, NJ, NYC, Bellevue, WA, Evanston, IL",
+      "date": "2026-09-01",
+      "url": "https://jobs.zs.com/jobs/63472?icims=1",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Atlassian",
+      "title": "Product Management Intern",
+      "location": "SF",
+      "date": "2026-09-02",
+      "url": "https://careers-americas.icims.com/jobs/26274/product-management-intern%2c-2027-summer-u.s./job",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 38,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "recent: posted <=30 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "Charles Schwab",
+      "title": "Product Management Intern - Thinkorswim",
+      "location": "Austin, TX",
+      "date": "2026-09-10",
+      "url": "https://career-schwab.icims.com/jobs/126266/job?mobile=true&needsRedirect=false",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 38,
+      "reasons": [
+        "product match",
+        "Texas",
+        "recent: posted <=30 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "Cox",
+      "title": "Product Management Intern - Summer 2027 (Atlanta, GA)",
+      "location": "Atlanta, GA",
+      "date": "2026-09-08",
+      "url": "https://applyguy.ai/jobs?company=Cox&job=88e01a12-6ce1-4102-8650-684a75e2819b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 38,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "recent: posted <=30 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
     }
   ],
   "errors": []
