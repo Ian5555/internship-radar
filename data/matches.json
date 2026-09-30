@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T18:39:01.096056+00:00",
+  "generated_at": "2026-09-30T18:27:24.641368+00:00",
   "count": 120,
   "matches": [
     {
@@ -162,6 +162,22 @@
       "category": "Qa Testing"
     },
     {
+      "company": "Acuity",
+      "title": "Product Management Technology Intern",
+      "location": "Conyers, GA",
+      "date": "2026-09-29",
+      "url": "https://careers.acuityinc.com/job/Conyers-Intern-Product-Management-Technology-GA-30012/1435075400/?ats=successfactors",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 64,
+      "reasons": [
+        "corporate it match",
+        "product match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "CoStar Group",
       "title": "Technology Intern",
       "location": "Irvine, CA",
@@ -200,22 +216,6 @@
       "date": "2026-09-18",
       "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Wealth-Management-Technology-Internship_R-0000187852",
       "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 64,
-      "reasons": [
-        "corporate it match",
-        "Summer 2027",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Verizon Communications",
-      "title": "Marketing Technology Intern - Consumer Group",
-      "location": "Basking Ridge, Bernards, NJ",
-      "date": "2026-09-15",
-      "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Marketing-Technology-Summer-2027-Internship_R-1100887",
-      "description": "AI/ML/Data",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 64,
       "reasons": [
@@ -528,6 +528,22 @@
       "reasons": [
         "corporate it match",
         "Texas",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Verizon Communications",
+      "title": "Marketing Technology Intern - Consumer Group",
+      "location": "Basking Ridge, Bernards, NJ",
+      "date": "2026-09-15",
+      "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Marketing-Technology-Summer-2027-Internship_R-1100887",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 58,
+      "reasons": [
+        "corporate it match",
+        "Summer 2027",
         "recent: posted <=30 days"
       ],
       "category": "Corporate It"
@@ -1360,21 +1376,6 @@
       "category": "Product"
     },
     {
-      "company": "Dairyland Power Cooperative",
-      "title": "Business Analyst Intern",
-      "location": "La Crosse, WI",
-      "date": "2026-09-15",
-      "url": "https://dairynet.wd1.myworkdayjobs.com/DPCcareers/job/La-Crosse-Wisconsin/Business-Analyst-Intern_JR101065",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 42,
-      "reasons": [
-        "analyst match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Analyst"
-    },
-    {
       "company": "Devon Energy",
       "title": "Technology Intern - Data Engineering",
       "location": "Houston, TX, Oklahoma City, OK",
@@ -1678,21 +1679,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "Equifax",
-      "title": "Technology Intern - Software Development - Site Reliability Engineering",
-      "location": "Alpharetta, GA",
-      "date": "2026-08-30",
-      "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/USIS-Technology-Intern_J00178784",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 40,
-      "reasons": [
-        "corporate it match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "Federated Insurance",
       "title": "IT Intern",
       "location": "Owatonna, MN",
@@ -1888,6 +1874,23 @@
       "location": "Atlanta, GA",
       "date": "2026-09-08",
       "url": "https://applyguy.ai/jobs?company=Cox&job=88e01a12-6ce1-4102-8650-684a75e2819b&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 38,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "recent: posted <=30 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "Cox",
+      "title": "Product Management Intern - Summer 2027 (Burlington, VT)",
+      "location": "Burlington, VT",
+      "date": "2026-09-08",
+      "url": "https://applyguy.ai/jobs?company=Cox&job=f10a9ff5-ae49-4886-ba60-43f9258fee70&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Product",
       "source": "ApplyGuy 2027 Internships",
       "score": 38,
