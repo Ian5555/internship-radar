@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T17:18:37.238519+00:00",
+  "generated_at": "2026-10-04T17:35:46.273471+00:00",
   "count": 120,
   "matches": [
     {
@@ -112,6 +112,22 @@
         "Summer 2027"
       ],
       "category": "Corporate It"
+    },
+    {
+      "company": "McKesson",
+      "title": "Business Analyst Intern - Product Performance",
+      "location": "Irving, TX",
+      "date": "2026-09-16",
+      "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Irving-TX-USA---6555-North-State-Highway-161-P001/Business-Analyst-Intern--Product-Performance---Summer-2027_JR0153111",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 68,
+      "reasons": [
+        "analyst match",
+        "DFW / North Texas",
+        "recent: posted <=30 days"
+      ],
+      "category": "Analyst"
     },
     {
       "company": "Capital One",
@@ -388,12 +404,12 @@
     },
     {
       "company": "Cox",
-      "title": "Product Management Intern - Summer 2027 (Austin, TX)",
+      "title": "Product Management Intern",
       "location": "Austin, TX",
       "date": "2026-09-08",
-      "url": "https://applyguy.ai/jobs?company=Cox&job=b1e58588-1476-403d-94e4-4c659275e579&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Product-Management-Intern---Summer-2027--Austin--TX-_R202682189",
       "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
+      "source": "SimplifyJobs Summer 2027 Internships",
       "score": 56,
       "reasons": [
         "product match",
@@ -666,6 +682,21 @@
       "category": "Corporate It"
     },
     {
+      "company": "Gartner",
+      "title": "IT Intern",
+      "location": "Stamford, CT",
+      "date": "2026-08-13",
+      "url": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Summer-2027-IT-Intern--May-2028-Graduates-_113095",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 52,
+      "reasons": [
+        "corporate it match",
+        "Summer 2027"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "HNTB",
       "title": "Strategic Technology Intern - SED Division",
       "location": "Tampa, FL, Tallahassee, FL",
@@ -906,6 +937,21 @@
         "Remote"
       ],
       "category": "Analyst"
+    },
+    {
+      "company": "Diversified Energy",
+      "title": "Information Technology Intern",
+      "location": "Birmingham, AL",
+      "date": "2026-10-04",
+      "url": "https://careers.div.energy/jobs/2734?icims=1",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 48,
+      "reasons": [
+        "corporate it match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Corporate It"
     },
     {
       "company": "First National Bank",
@@ -1554,21 +1600,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "Shure",
-      "title": "Unified Communications Technology Intern",
-      "location": "Skokie, IL",
-      "date": "2026-09-03",
-      "url": "https://careersus-shure.icims.com/jobs/5002/job?mobile=true&needsRedirect=false",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 40,
-      "reasons": [
-        "corporate it match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "USAA",
       "title": "Digital Technical Product Management Intern",
       "location": "San Antonio, TX",
@@ -1631,74 +1662,6 @@
       "reasons": [
         "product match",
         "Texas",
-        "recent: posted <=30 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "Cox",
-      "title": "Product Management Intern - Summer 2027 (Atlanta, GA)",
-      "location": "Atlanta, GA",
-      "date": "2026-09-08",
-      "url": "https://applyguy.ai/jobs?company=Cox&job=88e01a12-6ce1-4102-8650-684a75e2819b&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 38,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "recent: posted <=30 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "Cox",
-      "title": "Product Management Intern - Summer 2027 (Burlington, VT)",
-      "location": "Burlington, VT",
-      "date": "2026-09-08",
-      "url": "https://applyguy.ai/jobs?company=Cox&job=f10a9ff5-ae49-4886-ba60-43f9258fee70&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 38,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "recent: posted <=30 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "Cox",
-      "title": "Product Management Intern - Summer 2027 (Draper, UT)",
-      "location": "Draper, UT",
-      "date": "2026-09-08",
-      "url": "https://applyguy.ai/jobs?company=Cox&job=6e662f9d-1a0e-4dd3-82c9-b3e7e877c3cd&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 38,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "recent: posted <=30 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "Cox",
-      "title": "Product Management Intern - Summer 2027 (North Hills, NY)",
-      "location": "Long Island, NY",
-      "date": "2026-09-08",
-      "url": "https://applyguy.ai/jobs?company=Cox&job=32da9492-8479-424b-904f-aabfa8c36174&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 38,
-      "reasons": [
-        "product match",
-        "Summer 2027",
         "recent: posted <=30 days",
         "product secondary-lane penalty"
       ],
@@ -1902,6 +1865,40 @@
         "SWE-heavy penalty"
       ],
       "category": "Analyst"
+    },
+    {
+      "company": "The Friedkin Group",
+      "title": "Product Analyst Intern",
+      "location": "Houston, TX",
+      "date": "2026-09-11",
+      "url": "https://external-careers-friedkin.icims.com/jobs/6762/job?mobile=true&needsRedirect=false",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 38,
+      "reasons": [
+        "product match",
+        "Texas",
+        "recent: posted <=30 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "USAA",
+      "title": "Product Management Analyst Intern - Property and Casualty",
+      "location": "San Antonio, TX",
+      "date": "2026-09-11",
+      "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/P-C-Product-Management-Analyst-Intern_R0120949",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 38,
+      "reasons": [
+        "product match",
+        "Texas",
+        "recent: posted <=30 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
     }
   ],
   "errors": []
