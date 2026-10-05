@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T17:35:46.273471+00:00",
+  "generated_at": "2026-10-05T21:17:10.286572+00:00",
   "count": 120,
   "matches": [
     {
@@ -47,22 +47,6 @@
         "corporate it match",
         "DFW / North Texas",
         "Summer 2027"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Ernst & Young",
-      "title": "Data and Technology Intern - Multiple Teams",
-      "location": "Miami, FL, Dallas, TX, Chicago, IL, NYC",
-      "date": "2026-09-04",
-      "url": "https://eyglobal.yello.co/jobs/gqy0pJfAkXrlECgDBjqcIw?job_board_id=c1riT--B2O-KySgYWsZO1Q",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 72,
-      "reasons": [
-        "corporate it match",
-        "DFW / North Texas",
-        "recent: posted <=30 days"
       ],
       "category": "Corporate It"
     },
@@ -136,6 +120,21 @@
       "date": "2026-08-03",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Internship-Program---Summer-2027_R244387-1",
       "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 66,
+      "reasons": [
+        "corporate it match",
+        "DFW / North Texas"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Ernst & Young",
+      "title": "Data and Technology Intern - Multiple Teams",
+      "location": "Miami, FL, Dallas, TX, Chicago, IL, NYC",
+      "date": "2026-09-04",
+      "url": "https://eyglobal.yello.co/jobs/gqy0pJfAkXrlECgDBjqcIw?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+      "description": "AI/ML/Data",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 66,
       "reasons": [
@@ -528,22 +527,6 @@
         "Summer 2027"
       ],
       "category": "Corporate It"
-    },
-    {
-      "company": "Nationwide",
-      "title": "Personal Lines Sales Business Analyst Intern",
-      "location": "Columbus, OH",
-      "date": "2026-09-04",
-      "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-Personal-Lines-Sales-Business-Analyst-Intern_100038",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 54,
-      "reasons": [
-        "analyst match",
-        "Summer 2027",
-        "recent: posted <=30 days"
-      ],
-      "category": "Analyst"
     },
     {
       "company": "Saronic",
@@ -969,6 +952,21 @@
       "category": "Analyst"
     },
     {
+      "company": "Nationwide",
+      "title": "Personal Lines Sales Business Analyst Intern",
+      "location": "Columbus, OH",
+      "date": "2026-09-04",
+      "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-Personal-Lines-Sales-Business-Analyst-Intern_100038",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 48,
+      "reasons": [
+        "analyst match",
+        "Summer 2027"
+      ],
+      "category": "Analyst"
+    },
+    {
       "company": "Procter & Gamble",
       "title": "Information Technology Intern",
       "location": "Weybridge, UK, Newcastle upon Tyne, UK, West Thurrock, Grays, UK",
@@ -1085,6 +1083,21 @@
       "date": "2026-09-30",
       "url": "https://metlife.avature.net/en_US/ml/JobDetail/20701",
       "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 46,
+      "reasons": [
+        "corporate it match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Data Processing Developer Technology Intern",
+      "location": "Courbevoie, France, Bristol, UK, W\u00fcrselen, Germany, Berlin, Germany, Munich, Germany",
+      "date": "2026-10-04",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708",
+      "description": "AI/ML/Data",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 46,
       "reasons": [
@@ -1291,6 +1304,23 @@
       "category": "Product"
     },
     {
+      "company": "Mohawk",
+      "title": "Product Management Intern",
+      "location": "Calhoun, GA",
+      "date": "2026-10-05",
+      "url": "https://careers.mohawkind.com/mohawk/job/Calhoun-Product-Management-Intern-Summer-2027-Geor-30701/1436568500/?ats=successfactors",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
       "company": "Philips",
       "title": "Intern \u2013 Digital Healthtech Product Management \u2013 Bothell, WA \u2013 Summer 2027",
       "location": "Bothell, WA",
@@ -1465,21 +1495,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "CNA Insurance",
-      "title": "Technology Intern - Agile Product Design",
-      "location": "Chicago, IL",
-      "date": "2026-09-04",
-      "url": "https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--Agile-Product-Design-_R-8125",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 40,
-      "reasons": [
-        "corporate it match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "Coinbase",
       "title": "Product Manager (HR Technology) Intern",
       "location": "New York City, NY",
@@ -1576,21 +1591,6 @@
       "date": "2026-09-14",
       "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8188637",
       "description": "Quant",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 40,
-      "reasons": [
-        "corporate it match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Schonfeld",
-      "title": "Technology Intern - DMFI",
-      "location": "NYC",
-      "date": "2026-09-04",
-      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171772",
-      "description": "Software",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 40,
       "reasons": [
