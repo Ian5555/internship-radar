@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T21:17:10.286572+00:00",
+  "generated_at": "2026-10-06T18:54:55.762790+00:00",
   "count": 120,
   "matches": [
     {
@@ -320,22 +320,6 @@
         "recent: posted <=30 days"
       ],
       "category": "Corporate It"
-    },
-    {
-      "company": "Grow Financial Federal Credit Union",
-      "title": "Systems Analyst Intern",
-      "location": "Remote in USA",
-      "date": "2026-09-21",
-      "url": "https://careers-growfinancial.icims.com/jobs/2754/job?mobile=true&needsRedirect=false",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 58,
-      "reasons": [
-        "analyst match",
-        "Remote",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Analyst"
     },
     {
       "company": "Insperity",
@@ -680,6 +664,22 @@
       "category": "Corporate It"
     },
     {
+      "company": "Grow Financial Federal Credit Union",
+      "title": "Systems Analyst Intern",
+      "location": "Remote in USA",
+      "date": "2026-09-21",
+      "url": "https://careers-growfinancial.icims.com/jobs/2754/job?mobile=true&needsRedirect=false",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 52,
+      "reasons": [
+        "analyst match",
+        "Remote",
+        "recent: posted <=30 days"
+      ],
+      "category": "Analyst"
+    },
+    {
       "company": "HNTB",
       "title": "Strategic Technology Intern - SED Division",
       "location": "Tampa, FL, Tallahassee, FL",
@@ -877,21 +877,6 @@
       "category": "Qa Testing"
     },
     {
-      "company": "AutoZone",
-      "title": "Information Technology Intern",
-      "location": "Memphis, TN",
-      "date": "2026-09-21",
-      "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155451",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 48,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "Cook Group",
       "title": "Information Technology Intern - Artificial Intelligence",
       "location": "Spencer, IN, Ellettsville, IN, Bloomington, IN",
@@ -996,6 +981,21 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
+    },
+    {
+      "company": "Astera Labs",
+      "title": "ATE Engineer Intern - Engineering Ops Technology Intern",
+      "location": "San Jose, CA",
+      "date": "2026-10-06",
+      "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731409005",
+      "description": "Hardware",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 46,
+      "reasons": [
+        "corporate it match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Corporate It"
     },
     {
       "company": "Blackhawk Network Holdings",
@@ -1155,43 +1155,11 @@
       "category": "Product"
     },
     {
-      "company": "Vialto Partners",
-      "title": "Client Technology Intern",
-      "location": "Campbell, CA, NYC",
-      "date": "2026-09-21",
-      "url": "https://vialto.wd107.myworkdayjobs.com/vialtoexternalcareers/job/Manhattan/Client-Technology-Services---Intern_REQ908939",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "Abb",
       "title": "Product Management Intern - Summer 2027",
       "location": "New Berlin, WI",
       "date": "2026-09-24",
       "url": "https://applyguy.ai/jobs?company=Abb&job=9bb4e31e-4881-42af-9054-5f98b6a39af3&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "Bound",
-      "title": "Product Management Intern (Summer 2027)",
-      "location": "Ames, IA",
-      "date": "2026-09-21",
-      "url": "https://applyguy.ai/jobs?company=Bound&job=401ec484-9b16-4ceb-af7b-e9886bb1ca6e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Product",
       "source": "ApplyGuy 2027 Internships",
       "score": 44,
@@ -1288,10 +1256,10 @@
     },
     {
       "company": "Mastercard",
-      "title": "Product Management Intern",
-      "location": "Harrison, NY, Arlington County, Arlington, VA",
-      "date": "2026-09-21",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Product-Management-Intern--Summer-2027---United-States_R-287624-1",
+      "title": "Product Management Intern - Summer 2027",
+      "location": "O'Fallon, MO",
+      "date": "2026-09-22",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Product-Management-Intern--Summer-2027---St-Louis--MO--US-_R-287625",
       "description": "Product",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 44,
@@ -1338,23 +1306,6 @@
       "category": "Product"
     },
     {
-      "company": "Synnex",
-      "title": "Summer 2027 Internship Program | Commercial, High Growth Track: \u2022 Sales \u2022 Marketing \u2022 Vendor Management \u2022 Business Development  \u2022 Product Management  \u2022 Data Analytics",
-      "location": "Greenville, SC",
-      "date": "2026-09-21",
-      "url": "https://applyguy.ai/jobs?company=Synnex&job=97edb332-9c35-4e30-bcac-135ce7307ae3&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
       "company": "Vertiv",
       "title": "Product Management Intern - Summer 2027",
       "location": "Lincoln, NE",
@@ -1366,6 +1317,38 @@
       "reasons": [
         "product match",
         "Summer 2027",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "AutoZone",
+      "title": "Information Technology Intern",
+      "location": "Memphis, TN",
+      "date": "2026-09-21",
+      "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155451",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 42,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Cadence Solutions",
+      "title": "Product Management Intern",
+      "location": "Remote in USA",
+      "date": "2026-10-06",
+      "url": "https://job-boards.greenhouse.io/solutions/jobs/4715294006",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 42,
+      "reasons": [
+        "product match",
+        "Remote",
         "NEW: posted <=14 days",
         "product secondary-lane penalty"
       ],
@@ -1431,23 +1414,6 @@
         "NEW: posted <=14 days"
       ],
       "category": "Analyst"
-    },
-    {
-      "company": "Zimmer Biomet Holdings",
-      "title": "Product Management Intern - Artificial Intelligence Product Management",
-      "location": "Remote in USA",
-      "date": "2026-09-21",
-      "url": "https://careers.zimmerbiomet.com/us/en/job/12745",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 42,
-      "reasons": [
-        "product match",
-        "Remote",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
     },
     {
       "company": "American Equity",
@@ -1634,6 +1600,21 @@
       "category": "Product"
     },
     {
+      "company": "Vialto Partners",
+      "title": "Client Technology Intern",
+      "location": "Campbell, CA, NYC",
+      "date": "2026-09-21",
+      "url": "https://vialto.wd107.myworkdayjobs.com/vialtoexternalcareers/job/Manhattan/Client-Technology-Services---Intern_REQ908939",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "AspenTech",
       "title": "Product Owner Intern - Product Management",
       "location": "Houston, TX, Bedford, MA",
@@ -1645,6 +1626,23 @@
       "reasons": [
         "product match",
         "Texas",
+        "recent: posted <=30 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "Bound",
+      "title": "Product Management Intern (Summer 2027)",
+      "location": "Ames, IA",
+      "date": "2026-09-21",
+      "url": "https://applyguy.ai/jobs?company=Bound&job=401ec484-9b16-4ceb-af7b-e9886bb1ca6e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 38,
+      "reasons": [
+        "product match",
+        "Summer 2027",
         "recent: posted <=30 days",
         "product secondary-lane penalty"
       ],
@@ -1867,29 +1865,29 @@
       "category": "Analyst"
     },
     {
-      "company": "The Friedkin Group",
-      "title": "Product Analyst Intern",
-      "location": "Houston, TX",
-      "date": "2026-09-11",
-      "url": "https://external-careers-friedkin.icims.com/jobs/6762/job?mobile=true&needsRedirect=false",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
+      "company": "Synnex",
+      "title": "Summer 2027 Internship Program | Commercial, High Growth Track: \u2022 Sales \u2022 Marketing \u2022 Vendor Management \u2022 Business Development  \u2022 Product Management  \u2022 Data Analytics",
+      "location": "Greenville, SC",
+      "date": "2026-09-21",
+      "url": "https://applyguy.ai/jobs?company=Synnex&job=97edb332-9c35-4e30-bcac-135ce7307ae3&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
       "score": 38,
       "reasons": [
         "product match",
-        "Texas",
+        "Summer 2027",
         "recent: posted <=30 days",
         "product secondary-lane penalty"
       ],
       "category": "Product"
     },
     {
-      "company": "USAA",
-      "title": "Product Management Analyst Intern - Property and Casualty",
-      "location": "San Antonio, TX",
+      "company": "The Friedkin Group",
+      "title": "Product Analyst Intern",
+      "location": "Houston, TX",
       "date": "2026-09-11",
-      "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/P-C-Product-Management-Analyst-Intern_R0120949",
-      "description": "Product",
+      "url": "https://external-careers-friedkin.icims.com/jobs/6762/job?mobile=true&needsRedirect=false",
+      "description": "AI/ML/Data",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 38,
       "reasons": [
