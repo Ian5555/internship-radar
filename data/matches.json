@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T18:54:55.762790+00:00",
+  "generated_at": "2026-10-07T19:21:12.422296+00:00",
   "count": 120,
   "matches": [
     {
@@ -222,6 +222,24 @@
         "generic data-role penalty"
       ],
       "category": "Corporate It"
+    },
+    {
+      "company": "Electronic Arts",
+      "title": "Product Management Intern",
+      "location": "Austin, TX",
+      "date": "2026-10-06",
+      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern-Fan-Care-Community-Care-Summer-2027/216182",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 62,
+      "reasons": [
+        "product match",
+        "Texas",
+        "Summer 2027",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
     },
     {
       "company": "Assurant",
@@ -1189,45 +1207,11 @@
       "category": "Product"
     },
     {
-      "company": "Danaher",
-      "title": "Product Management & Marketing Intern (Summer 2027 Intern)",
-      "location": "Logan, UT",
-      "date": "2026-09-22",
-      "url": "https://applyguy.ai/jobs?company=Danaher&job=e3704efe-90f5-44e6-be7f-2f238b2dea94&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
       "company": "Electronic Arts",
       "title": "Product Manager Intern",
       "location": "LA",
       "date": "2026-10-03",
       "url": "https://jobs.ea.com/en_US/careers/JobDetail/Product-Manager-Intern-MBA-Level-Summer-2027-Apex-Legends/216272",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "Google",
-      "title": "Product Manager Intern - Summer 2027",
-      "location": "SF, San Bruno, CA, NYC, Mountain View, CA",
-      "date": "2026-09-22",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/134770032394543814",
       "description": "Product",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 44,
@@ -1256,12 +1240,12 @@
     },
     {
       "company": "Mastercard",
-      "title": "Product Management Intern - Summer 2027",
+      "title": "Product Management Intern, Summer 2027 - St. Louis, MO (US)",
       "location": "O'Fallon, MO",
-      "date": "2026-09-22",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Product-Management-Intern--Summer-2027---St-Louis--MO--US-_R-287625",
+      "date": "2026-09-23",
+      "url": "https://applyguy.ai/jobs?company=Mastercard&job=2e985600-835d-4887-92e7-49bc5d901a1d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
+      "source": "ApplyGuy 2027 Internships",
       "score": 44,
       "reasons": [
         "product match",
@@ -1666,6 +1650,23 @@
       "category": "Product"
     },
     {
+      "company": "Danaher",
+      "title": "Product Management & Marketing Intern (Summer 2027 Intern)",
+      "location": "Logan, UT",
+      "date": "2026-09-22",
+      "url": "https://applyguy.ai/jobs?company=Danaher&job=e3704efe-90f5-44e6-be7f-2f238b2dea94&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 38,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "recent: posted <=30 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
       "company": "Dick's Sporting Goods",
       "title": "Product Management Intern - Corporate Internship",
       "location": "Pittsburgh, PA",
@@ -1740,6 +1741,23 @@
       "url": "https://applyguy.ai/jobs?company=Gevernova&job=169dfc7b-3728-4c2e-afc6-0c61334e9a75&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Product",
       "source": "ApplyGuy 2027 Internships",
+      "score": 38,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "recent: posted <=30 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "Google",
+      "title": "Product Manager Intern - Summer 2027",
+      "location": "SF, San Bruno, CA, NYC, Mountain View, CA",
+      "date": "2026-09-22",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/134770032394543814",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
       "score": 38,
       "reasons": [
         "product match",
@@ -1876,23 +1894,6 @@
       "reasons": [
         "product match",
         "Summer 2027",
-        "recent: posted <=30 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "The Friedkin Group",
-      "title": "Product Analyst Intern",
-      "location": "Houston, TX",
-      "date": "2026-09-11",
-      "url": "https://external-careers-friedkin.icims.com/jobs/6762/job?mobile=true&needsRedirect=false",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 38,
-      "reasons": [
-        "product match",
-        "Texas",
         "recent: posted <=30 days",
         "product secondary-lane penalty"
       ],
