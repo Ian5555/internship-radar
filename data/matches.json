@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T19:21:12.422296+00:00",
+  "generated_at": "2026-10-08T19:17:17.408403+00:00",
   "count": 120,
   "matches": [
     {
@@ -49,6 +49,22 @@
         "Summer 2027"
       ],
       "category": "Corporate It"
+    },
+    {
+      "company": "HCSC",
+      "title": "Systems Analyst Intern",
+      "location": "Chicago, IL, Richardson, TX",
+      "date": "2026-10-07",
+      "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Systems-Analyst-Intern_R0059498",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 74,
+      "reasons": [
+        "analyst match",
+        "DFW / North Texas",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Analyst"
     },
     {
       "company": "USAA",
@@ -880,21 +896,6 @@
       "category": "Analyst"
     },
     {
-      "company": "Astranis",
-      "title": "Reliability Test Intern",
-      "location": "SF",
-      "date": "2026-09-23",
-      "url": "https://job-boards.greenhouse.io/astranis/jobs/4705626006",
-      "description": "Hardware",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 48,
-      "reasons": [
-        "qa testing match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Qa Testing"
-    },
-    {
       "company": "Cook Group",
       "title": "Information Technology Intern - Artificial Intelligence",
       "location": "Spencer, IN, Ellettsville, IN, Bloomington, IN",
@@ -1111,6 +1112,21 @@
     },
     {
       "company": "NVIDIA",
+      "title": "AI Developer Technology Intern",
+      "location": "Bristol, UK, Munich, Germany",
+      "date": "2026-10-08",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 46,
+      "reasons": [
+        "corporate it match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "NVIDIA",
       "title": "Data Processing Developer Technology Intern",
       "location": "Courbevoie, France, Bristol, UK, W\u00fcrselen, Germany, Berlin, Germany, Munich, Germany",
       "date": "2026-10-04",
@@ -1224,6 +1240,23 @@
       "category": "Product"
     },
     {
+      "company": "Hewlett Packard",
+      "title": "Software Product Manager Intern",
+      "location": "Austin, TX, Fort Collins, CO",
+      "date": "2026-10-07",
+      "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Austin-Texas-United-States-of-America/Software-Product-Management-Intern_UNI4516-1",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "product match",
+        "Texas",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
       "company": "Hudl",
       "title": "Software Quality Assurance Engineering Intern",
       "location": "Lincoln, NE",
@@ -1237,23 +1270,6 @@
         "recent: posted <=30 days"
       ],
       "category": "Qa Testing"
-    },
-    {
-      "company": "Mastercard",
-      "title": "Product Management Intern, Summer 2027 - St. Louis, MO (US)",
-      "location": "O'Fallon, MO",
-      "date": "2026-09-23",
-      "url": "https://applyguy.ai/jobs?company=Mastercard&job=2e985600-835d-4887-92e7-49bc5d901a1d&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
     },
     {
       "company": "Mohawk",
@@ -1276,7 +1292,7 @@
       "company": "Philips",
       "title": "Intern \u2013 Digital Healthtech Product Management \u2013 Bothell, WA \u2013 Summer 2027",
       "location": "Bothell, WA",
-      "date": "2026-09-28",
+      "date": "2026-10-07",
       "url": "https://applyguy.ai/jobs?company=Philips&job=09a6b78d-058f-448b-a9c3-bfd777bef03e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Product",
       "source": "ApplyGuy 2027 Internships",
@@ -1290,21 +1306,19 @@
       "category": "Product"
     },
     {
-      "company": "Vertiv",
-      "title": "Product Management Intern - Summer 2027",
-      "location": "Lincoln, NE",
+      "company": "Astranis",
+      "title": "Reliability Test Intern",
+      "location": "SF",
       "date": "2026-09-23",
-      "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278558",
-      "description": "Product",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4705626006",
+      "description": "Hardware",
       "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 44,
+      "score": 42,
       "reasons": [
-        "product match",
-        "Summer 2027",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
+        "qa testing match",
+        "recent: posted <=30 days"
       ],
-      "category": "Product"
+      "category": "Qa Testing"
     },
     {
       "company": "AutoZone",
@@ -1734,23 +1748,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "Gevernova",
-      "title": "GE Vernova Gas Power Controls Product Management Intern - Summer 2027",
-      "location": "Longmont, CO",
-      "date": "2026-09-08",
-      "url": "https://applyguy.ai/jobs?company=Gevernova&job=169dfc7b-3728-4c2e-afc6-0c61334e9a75&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 38,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "recent: posted <=30 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
       "company": "Google",
       "title": "Product Manager Intern - Summer 2027",
       "location": "SF, San Bruno, CA, NYC, Mountain View, CA",
@@ -1773,6 +1770,23 @@
       "location": "Mountain View, CA, San Diego, CA",
       "date": "2026-09-14",
       "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 38,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "recent: posted <=30 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "Mastercard",
+      "title": "Product Management Intern",
+      "location": "Harrison, NY, Arlington County, Arlington, VA",
+      "date": "2026-09-21",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Product-Management-Intern--Summer-2027---United-States_R-287624-1",
       "description": "Product",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 38,
@@ -1881,23 +1895,6 @@
         "SWE-heavy penalty"
       ],
       "category": "Analyst"
-    },
-    {
-      "company": "Synnex",
-      "title": "Summer 2027 Internship Program | Commercial, High Growth Track: \u2022 Sales \u2022 Marketing \u2022 Vendor Management \u2022 Business Development  \u2022 Product Management  \u2022 Data Analytics",
-      "location": "Greenville, SC",
-      "date": "2026-09-21",
-      "url": "https://applyguy.ai/jobs?company=Synnex&job=97edb332-9c35-4e30-bcac-135ce7307ae3&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 38,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "recent: posted <=30 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
     }
   ],
   "errors": []
