@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T17:52:13.294025+00:00",
+  "generated_at": "2026-10-11T18:05:34.119262+00:00",
   "count": 120,
   "matches": [
     {
@@ -1395,21 +1395,6 @@
       "category": "Analyst"
     },
     {
-      "company": "The Toro Company",
-      "title": "Robotics System Test Intern",
-      "location": "Frederick, CO",
-      "date": "2026-09-10",
-      "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Frederick-CO/Robotics-System-Test-Intern---The-Toro-Company_JR17004",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 42,
-      "reasons": [
-        "qa testing match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Qa Testing"
-    },
-    {
       "company": "W.W. Grainger",
       "title": "Business Analyst Intern",
       "location": "Green Bay, WI",
@@ -1445,21 +1430,6 @@
       "location": "Baltimore, MD",
       "date": "2026-09-12",
       "url": "https://jobs.constellationenergy.com/jobs/138708?icims=1",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 40,
-      "reasons": [
-        "corporate it match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Demco Products",
-      "title": "IT Intern",
-      "location": "Boyden, IA",
-      "date": "2026-09-10",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4492652",
       "description": "Software",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 40,
@@ -1577,23 +1547,6 @@
       "reasons": [
         "product match",
         "Summer 2027",
-        "recent: posted <=30 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "Charles Schwab",
-      "title": "Product Management Intern - Thinkorswim",
-      "location": "Austin, TX",
-      "date": "2026-09-10",
-      "url": "https://career-schwab.icims.com/jobs/126266/job?mobile=true&needsRedirect=false",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 38,
-      "reasons": [
-        "product match",
-        "Texas",
         "recent: posted <=30 days",
         "product secondary-lane penalty"
       ],
@@ -1889,6 +1842,48 @@
       "date": "2026-05-13",
       "url": "https://amazon.jobs/en/jobs/10419265/software-development-engineer-test-intern-fall",
       "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 36,
+      "reasons": [
+        "qa testing match"
+      ],
+      "category": "Qa Testing"
+    },
+    {
+      "company": "Ambi Robotics",
+      "title": "Robotics QA Intern",
+      "location": "Berkeley, CA",
+      "date": "2026-08-21",
+      "url": "https://jobs.lever.co/ambirobotics/35f5b149-b7ee-458a-b84c-1073b723798f/apply",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 36,
+      "reasons": [
+        "qa testing match"
+      ],
+      "category": "Qa Testing"
+    },
+    {
+      "company": "Astranis",
+      "title": "Assembly and Test Intern - Integration",
+      "location": "SF",
+      "date": "2026-05-12",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4679080006",
+      "description": "Hardware",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 36,
+      "reasons": [
+        "qa testing match"
+      ],
+      "category": "Qa Testing"
+    },
+    {
+      "company": "Boston Dynamics",
+      "title": "Electrical Testing Intern",
+      "location": "Waltham, MA",
+      "date": "2026-05-11",
+      "url": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/R-D-Electrical-Testing-Intern_R2752",
+      "description": "Hardware",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 36,
       "reasons": [

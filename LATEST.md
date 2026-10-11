@@ -1,6 +1,6 @@
 # Latest Internship Radar
 
-Last refreshed: **2026-10-10 17:52 UTC**
+Last refreshed: **2026-10-11 18:05 UTC**
 
 Strict Summer 2027 feed. DFW/North Texas, Texas, and remote roles receive location boosts; corporate IT, QA/testing, systems/support, analyst, IT risk/audit, and consulting roles outrank generic product/data roles.
 
@@ -95,11 +95,9 @@ Strict Summer 2027 feed. DFW/North Texas, Texas, and remote roles receive locati
 | **42** | Cadence Solutions | Product Management Intern | Remote in USA | Product | 2026-10-06 | NEW | [Apply](https://job-boards.greenhouse.io/solutions/jobs/4715294006) | SimplifyJobs Summer 2027 Internships |
 | **42** | Devon Energy | Technology Intern - Data Engineering | Houston, TX, Oklahoma City, OK | Corporate It | 2026-08-20 | — | [Apply](https://wd5.myworkdaysite.com/en-US/recruiting/devonenergy/Careers/job/Oklahoma-City-OK/Technology-Summer-Intern-2027_R26264-1) | SimplifyJobs Summer 2027 Internships |
 | **42** | Standard Aero | IT Analyst Intern | Cincinnati, OH | Analyst | 2026-10-09 | NEW | [Apply](https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10479) | SimplifyJobs Summer 2027 Internships |
-| **42** | The Toro Company | Robotics System Test Intern | Frederick, CO | Qa Testing | 2026-09-10 | Recent | [Apply](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Frederick-CO/Robotics-System-Test-Intern---The-Toro-Company_JR17004) | SimplifyJobs Summer 2027 Internships |
 | **42** | W.W. Grainger | Business Analyst Intern | Green Bay, WI | Analyst | 2026-09-29 | NEW | [Apply](https://jobs.grainger.com/ImperialSupplies/job/GREEN-BAY-Business-Analyst-Intern-WI-54301-5160/1434550000/?ats=successfactors) | SimplifyJobs Summer 2027 Internships |
 | **40** | Cerity Partners | Investment Data & Technology Intern - Central Solutions | NYC | Corporate It | 2026-09-25 | Recent | [Apply](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Investment-Data---Technology-Analyst-Internship_R929) | SimplifyJobs Summer 2027 Internships |
 | **40** | Constellation Energy | Information Technology Software Development Intern | Baltimore, MD | Corporate It | 2026-09-12 | Recent | [Apply](https://jobs.constellationenergy.com/jobs/138708?icims=1) | SimplifyJobs Summer 2027 Internships |
-| **40** | Demco Products | IT Intern | Boyden, IA | Corporate It | 2026-09-10 | Recent | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4492652) | SimplifyJobs Summer 2027 Internships |
 | **40** | Guardian Life | Summer Intern - Digital & Technology - AI & Machine Learning | Holmdel, NJ, NYC, Bethlehem, PA | Corporate It | 2026-09-14 | Recent | [Apply](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---AI---Machine-Learning_R000110205) | SimplifyJobs Summer 2027 Internships |
 | **40** | Hudson River Trading | Trading and Technology Internship - Witti | NYC | Corporate It | 2026-09-14 | Recent | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8188637) | SimplifyJobs Summer 2027 Internships |
 | **40** | USAA | Digital/Technical Product Manager Intern - Digital and Omnichannel Servicing | San Antonio, TX | Product | 2026-09-18 | Recent | [Apply](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Operations---Digital-Technical-Product-Manager-Intern_R0121101) | SimplifyJobs Summer 2027 Internships |
@@ -107,7 +105,6 @@ Strict Summer 2027 feed. DFW/North Texas, Texas, and remote roles receive locati
 | **38** | Abb | Product Management Intern - Summer 2027 | New Berlin, WI | Product | 2026-09-24 | Recent | [Apply](https://applyguy.ai/jobs?company=Abb&job=9bb4e31e-4881-42af-9054-5f98b6a39af3&utm_source=github&utm_medium=listing&utm_campaign=internships) | ApplyGuy 2027 Internships |
 | **38** | AspenTech | Product Owner Intern - Product Management | Houston, TX, Bedford, MA | Product | 2026-09-16 | Recent | [Apply](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Product-Owner-Intern---Product-Management----Summer-2027_R9471) | SimplifyJobs Summer 2027 Internships |
 | **38** | Bound | Product Management Intern (Summer 2027) | Ames, IA | Product | 2026-09-21 | Recent | [Apply](https://applyguy.ai/jobs?company=Bound&job=401ec484-9b16-4ceb-af7b-e9886bb1ca6e&utm_source=github&utm_medium=listing&utm_campaign=internships) | ApplyGuy 2027 Internships |
-| **38** | Charles Schwab | Product Management Intern - Thinkorswim | Austin, TX | Product | 2026-09-10 | Recent | [Apply](https://career-schwab.icims.com/jobs/126266/job?mobile=true&needsRedirect=false) | SimplifyJobs Summer 2027 Internships |
 | **38** | Danaher | Product Management & Marketing Intern (Summer 2027 Intern) | Logan, UT | Product | 2026-09-22 | Recent | [Apply](https://applyguy.ai/jobs?company=Danaher&job=e3704efe-90f5-44e6-be7f-2f238b2dea94&utm_source=github&utm_medium=listing&utm_campaign=internships) | ApplyGuy 2027 Internships |
 | **38** | Elkay | Product Management Intern (Summer 2027) | Paso Robles, CA | Product | 2026-09-17 | Recent | [Apply](https://applyguy.ai/jobs?company=Elkay&job=fb195867-4176-49a5-a0e5-56a7aca66dde&utm_source=github&utm_medium=listing&utm_campaign=internships) | ApplyGuy 2027 Internships |
 | **38** | Emerson Electric | Software Product Management Intern | Austin, TX | Product | 2026-09-11 | Recent | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010799) | SimplifyJobs Summer 2027 Internships |
@@ -126,5 +123,8 @@ Strict Summer 2027 feed. DFW/North Texas, Texas, and remote roles receive locati
 | **36** | 3M | Business Analyst Intern - Consumer Business Group | Maplewood, MN | Analyst | 2026-09-14 | Recent | [Apply](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01171049) | SimplifyJobs Summer 2027 Internships |
 | **36** | AARP | Information Technology Intern | Washington, DC | Corporate It | 2026-08-14 | — | [Apply](https://careers.aarp.org/jobs/7424?icims=1) | SimplifyJobs Summer 2027 Internships |
 | **36** | Amazon | Software Development Engineer Test Intern | Sunnyvale, CA | Qa Testing | 2026-05-13 | — | [Apply](https://amazon.jobs/en/jobs/10419265/software-development-engineer-test-intern-fall) | SimplifyJobs Summer 2027 Internships |
+| **36** | Ambi Robotics | Robotics QA Intern | Berkeley, CA | Qa Testing | 2026-08-21 | — | [Apply](https://jobs.lever.co/ambirobotics/35f5b149-b7ee-458a-b84c-1073b723798f/apply) | SimplifyJobs Summer 2027 Internships |
+| **36** | Astranis | Assembly and Test Intern - Integration | SF | Qa Testing | 2026-05-12 | — | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4679080006) | SimplifyJobs Summer 2027 Internships |
+| **36** | Boston Dynamics | Electrical Testing Intern | Waltham, MA | Qa Testing | 2026-05-11 | — | [Apply](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/R-D-Electrical-Testing-Intern_R2752) | SimplifyJobs Summer 2027 Internships |
 
 > Discovery feed only. Verify that the employer posting is still open and that you meet its requirements before applying.
