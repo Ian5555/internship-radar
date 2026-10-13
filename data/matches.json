@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T21:44:45.610369+00:00",
+  "generated_at": "2026-10-13T19:52:35.392279+00:00",
   "count": 120,
   "matches": [
     {
@@ -571,10 +571,10 @@
       "company": "Copart",
       "title": "Technology Product Analyst Intern",
       "location": "Dallas, TX",
-      "date": "2026-09-25",
-      "url": "https://applyguy.ai/jobs?company=Copart&job=c67f699e-d152-4d8f-96da-55583ee915ab&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "date": "2026-09-17",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR111532",
       "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
+      "source": "SimplifyJobs Summer 2027 Internships",
       "score": 52,
       "reasons": [
         "product match",
@@ -1041,6 +1041,21 @@
       "category": "Corporate It"
     },
     {
+      "company": "Azul Systems",
+      "title": "IT Intern \u2013 AI and Operations",
+      "location": "Sunnyvale, CA",
+      "date": "2026-10-13",
+      "url": "https://jobs.lever.co/azul/8f41ceaf-8835-4fc7-ba57-9384487d59db/apply",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 46,
+      "reasons": [
+        "corporate it match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "Blackhawk Network Holdings",
       "title": "Product Management Intern",
       "location": "Coppell, TX",
@@ -1105,6 +1120,21 @@
       "category": "Product"
     },
     {
+      "company": "Koch Industries",
+      "title": "Digital Technology & Data Intern",
+      "location": "Auburn Hills, MI",
+      "date": "2026-10-12",
+      "url": "https://koch.avature.net/en_US/careers/JobDetail/195465",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 46,
+      "reasons": [
+        "corporate it match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "MetLife",
       "title": "Global Technology Intern",
       "location": "Tampa, FL, Hanover, NJ, Cary, NC, NYC",
@@ -1164,6 +1194,21 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
+    },
+    {
+      "company": "Realty Income",
+      "title": "Technology Intern",
+      "location": "San Diego, CA",
+      "date": "2026-10-12",
+      "url": "https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers/job/San-Diego-California/Technology-Intern---Multiple-Opportunities_R-100339",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 46,
+      "reasons": [
+        "corporate it match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Corporate It"
     },
     {
       "company": "Rheem",
@@ -1393,6 +1438,21 @@
       "category": "Analyst"
     },
     {
+      "company": "The Toro Company",
+      "title": "IT Business Analyst Intern",
+      "location": "Perry, OK",
+      "date": "2026-10-13",
+      "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/IT-Business-Analyst-Intern---Ditch-Witch_JR17608",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 42,
+      "reasons": [
+        "analyst match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Analyst"
+    },
+    {
       "company": "W.W. Grainger",
       "title": "Business Analyst Intern",
       "location": "Green Bay, WI",
@@ -1414,21 +1474,6 @@
       "date": "2026-09-25",
       "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Investment-Data---Technology-Analyst-Internship_R929",
       "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 40,
-      "reasons": [
-        "corporate it match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Constellation Energy",
-      "title": "Information Technology Software Development Intern",
-      "location": "Baltimore, MD",
-      "date": "2026-09-12",
-      "url": "https://jobs.constellationenergy.com/jobs/138708?icims=1",
-      "description": "Software",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 40,
       "reasons": [
@@ -1498,23 +1543,6 @@
         "recent: posted <=30 days"
       ],
       "category": "Corporate It"
-    },
-    {
-      "company": "Abb",
-      "title": "Product Management Intern - Summer 2027",
-      "location": "New Berlin, WI",
-      "date": "2026-09-24",
-      "url": "https://applyguy.ai/jobs?company=Abb&job=9bb4e31e-4881-42af-9054-5f98b6a39af3&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 38,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "recent: posted <=30 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
     },
     {
       "company": "AspenTech",
@@ -1839,34 +1867,6 @@
       "date": "2026-04-14",
       "url": "https://www.chargepoint.com/about/opportunities/job/?gh_jid=8502231002",
       "description": "Hardware",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 36,
-      "reasons": [
-        "qa testing match"
-      ],
-      "category": "Qa Testing"
-    },
-    {
-      "company": "CNO Financial Group",
-      "title": "Artificial Intelligence Information Technology Intern - AI",
-      "location": "Carmel, IN",
-      "date": "2026-08-03",
-      "url": "https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Artificial-Intelligence--AI--IT-Intern-2027---REMOTE_JR170389",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 36,
-      "reasons": [
-        "corporate it match"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Commonwealth of Massachusetts",
-      "title": "Intern - Quality Assurance",
-      "location": "Massachusetts",
-      "date": "2026-03-18",
-      "url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=2600023O",
-      "description": "AI/ML/Data",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 36,
       "reasons": [
