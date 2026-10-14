@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T19:52:35.392279+00:00",
+  "generated_at": "2026-10-14T18:01:32.715221+00:00",
   "count": 120,
   "matches": [
     {
@@ -174,20 +174,20 @@
       "category": "Corporate It"
     },
     {
-      "company": "Acuity",
-      "title": "Product Management Technology Intern",
-      "location": "Conyers, GA",
-      "date": "2026-09-29",
-      "url": "https://careers.acuityinc.com/job/Conyers-Intern-Product-Management-Technology-GA-30012/1435075400/?ats=successfactors",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 64,
+      "company": "Wing",
+      "title": "Manufacturing Software Test Intern, Summer 2027",
+      "location": "Palo Alto, CA",
+      "date": "2026-10-13",
+      "url": "https://applyguy.ai/jobs?company=Wing&job=47a9b4d1-5a0c-49a9-a2fa-86afa32c48a3&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Software Engineering",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 66,
       "reasons": [
-        "corporate it match",
-        "product match",
+        "qa testing match",
+        "Summer 2027",
         "NEW: posted <=14 days"
       ],
-      "category": "Corporate It"
+      "category": "Qa Testing"
     },
     {
       "company": "CoStar Group",
@@ -288,6 +288,22 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
+    },
+    {
+      "company": "Acuity",
+      "title": "Product Management Technology Intern",
+      "location": "Conyers, GA",
+      "date": "2026-09-29",
+      "url": "https://careers.acuityinc.com/job/Conyers-Intern-Product-Management-Technology-GA-30012/1435075400/?ats=successfactors",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 58,
+      "reasons": [
+        "corporate it match",
+        "product match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
     },
     {
       "company": "FNBO",
@@ -1026,6 +1042,21 @@
       "category": "Product"
     },
     {
+      "company": "American Century Investments",
+      "title": "Systematic Credit Intern",
+      "location": "NYC",
+      "date": "2026-10-13",
+      "url": "https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/New-York-New-York/Systematic-Credit-Intern_R0005759",
+      "description": "Quant",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 46,
+      "reasons": [
+        "corporate it match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "Astera Labs",
       "title": "ATE Engineer Intern - Engineering Ops Technology Intern",
       "location": "San Jose, CA",
@@ -1453,21 +1484,6 @@
       "category": "Analyst"
     },
     {
-      "company": "W.W. Grainger",
-      "title": "Business Analyst Intern",
-      "location": "Green Bay, WI",
-      "date": "2026-09-29",
-      "url": "https://jobs.grainger.com/ImperialSupplies/job/GREEN-BAY-Business-Analyst-Intern-WI-54301-5160/1434550000/?ats=successfactors",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 42,
-      "reasons": [
-        "analyst match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Analyst"
-    },
-    {
       "company": "Cerity Partners",
       "title": "Investment Data & Technology Intern - Central Solutions",
       "location": "NYC",
@@ -1853,20 +1869,6 @@
       "date": "2026-04-20",
       "url": "https://www.chargepoint.com/about/opportunities/software-qa-engineering-intern?gh_jid=8505201002",
       "description": "Software Engineering",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 36,
-      "reasons": [
-        "qa testing match"
-      ],
-      "category": "Qa Testing"
-    },
-    {
-      "company": "ChargePoint",
-      "title": "Systems Integration and Test \u2013 Intern",
-      "location": "Los Gatos, CA",
-      "date": "2026-04-14",
-      "url": "https://www.chargepoint.com/about/opportunities/job/?gh_jid=8502231002",
-      "description": "Hardware",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 36,
       "reasons": [
