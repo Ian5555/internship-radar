@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T17:46:43.383492+00:00",
+  "generated_at": "2026-10-16T17:25:23.510482+00:00",
   "count": 120,
   "matches": [
     {
@@ -143,22 +143,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "SAS",
-      "title": "Summer 2027 - Software Development and Testing Intern",
-      "location": "Cary, NC",
-      "date": "2026-10-01",
-      "url": "https://applyguy.ai/jobs?company=SAS&job=be913ab3-5bff-4907-8ed5-3f10bf0ce90c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Software Engineering",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 66,
-      "reasons": [
-        "qa testing match",
-        "Summer 2027",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Qa Testing"
-    },
-    {
       "company": "USAA",
       "title": "Technology Intern",
       "location": "Plano, TX, San Antonio, TX, Phoenix, AZ",
@@ -188,22 +172,6 @@
         "NEW: posted <=14 days"
       ],
       "category": "Qa Testing"
-    },
-    {
-      "company": "CoStar Group",
-      "title": "Technology Intern",
-      "location": "Sunnyvale, CA",
-      "date": "2026-10-01",
-      "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Summer-2027-Technology-Intern---Sunnyvale--CA_R39945",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 64,
-      "reasons": [
-        "corporate it match",
-        "Summer 2027",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
     },
     {
       "company": "Humana",
@@ -255,6 +223,22 @@
       "category": "Consulting"
     },
     {
+      "company": "SAS",
+      "title": "Summer 2027 - Software Development and Testing Intern",
+      "location": "Cary, NC",
+      "date": "2026-10-01",
+      "url": "https://applyguy.ai/jobs?company=SAS&job=be913ab3-5bff-4907-8ed5-3f10bf0ce90c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Software Engineering",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 60,
+      "reasons": [
+        "qa testing match",
+        "Summer 2027",
+        "recent: posted <=30 days"
+      ],
+      "category": "Qa Testing"
+    },
+    {
       "company": "Together AI",
       "title": "Software Development In Test Intern (Summer 2027)",
       "location": "San Francisco, CA",
@@ -304,6 +288,22 @@
       "category": "Corporate It"
     },
     {
+      "company": "CoStar Group",
+      "title": "Technology Intern",
+      "location": "Irvine, CA",
+      "date": "2026-09-16",
+      "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Irvine-US/Summer-2027-Technology-Intern---Irvine--CA_R39673",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 58,
+      "reasons": [
+        "corporate it match",
+        "Summer 2027",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "Insperity",
       "title": "Rotational Technology Intern",
       "location": "Kingwood, Houston, TX",
@@ -326,22 +326,6 @@
       "date": "2026-09-18",
       "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Wealth-Management-Technology-Internship_R-0000187852",
       "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 58,
-      "reasons": [
-        "corporate it match",
-        "Summer 2027",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Verizon Communications",
-      "title": "Marketing Technology Intern - Consumer Group",
-      "location": "Basking Ridge, Bernards, NJ",
-      "date": "2026-09-15",
-      "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Marketing-Technology-Summer-2027-Internship_R-1100887",
-      "description": "AI/ML/Data",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 58,
       "reasons": [
@@ -812,6 +796,21 @@
       "category": "Corporate It"
     },
     {
+      "company": "Verizon Communications",
+      "title": "Marketing Technology Intern - Consumer Group",
+      "location": "Basking Ridge, Bernards, NJ",
+      "date": "2026-09-15",
+      "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Marketing-Technology-Summer-2027-Internship_R-1100887",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 52,
+      "reasons": [
+        "corporate it match",
+        "Summer 2027"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "Cloudflare",
       "title": "Business Systems Analyst Intern",
       "location": "Austin, TX",
@@ -902,21 +901,6 @@
         "Texas"
       ],
       "category": "Analyst"
-    },
-    {
-      "company": "Cook Group",
-      "title": "Information Technology Intern - Artificial Intelligence",
-      "location": "Spencer, IN, Ellettsville, IN, Bloomington, IN",
-      "date": "2026-10-01",
-      "url": "https://americas-cookmedical.icims.com/jobs/19426/job?mobile=true&needsRedirect=false",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 48,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
     },
     {
       "company": "Cotiviti",
@@ -1132,6 +1116,21 @@
       "category": "Product"
     },
     {
+      "company": "CoverMyMeds",
+      "title": "CMM Technology Intern",
+      "location": "Columbus, OH",
+      "date": "2026-10-15",
+      "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/CoverMyMeds_External_Careers/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979-2",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 46,
+      "reasons": [
+        "corporate it match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "Digital Realty",
       "title": "Product Analyst Intern",
       "location": "Dallas, TX",
@@ -1177,6 +1176,21 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
+    },
+    {
+      "company": "J.M. Smucker",
+      "title": "Finance Technology Intern",
+      "location": "Orrville, OH",
+      "date": "2026-10-16",
+      "url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Finance-Technology-Intern--Spring-2027_116016",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 46,
+      "reasons": [
+        "corporate it match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Corporate It"
     },
     {
       "company": "Jain Global",
@@ -1348,6 +1362,23 @@
       "category": "Corporate It"
     },
     {
+      "company": "Blue Origin",
+      "title": "Terawave Product Management Intern - MBA",
+      "location": "Kent, WA",
+      "date": "2026-10-15",
+      "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Kent-WA/Summer-2027-Terawave-Product-Management-Internship---MBA_R74200",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
       "company": "C3.ai",
       "title": "AI Product Manager Intern - Summer 2027",
       "location": "Redwood City, CA",
@@ -1433,11 +1464,11 @@
       "category": "Product"
     },
     {
-      "company": "Philips",
-      "title": "Intern \u2013 Digital Healthtech Product Management \u2013 Bothell, WA \u2013 Summer 2027",
-      "location": "Bothell, WA",
-      "date": "2026-10-07",
-      "url": "https://applyguy.ai/jobs?company=Philips&job=09a6b78d-058f-448b-a9c3-bfd777bef03e&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "company": "NVIDIA",
+      "title": "Product Management MBA Intern, Laptop - Summer 2027",
+      "location": "Santa Clara, CA",
+      "date": "2026-10-15",
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=cc6b07c7-a6b3-400c-82a3-cb74fcf0ab0f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Product",
       "source": "ApplyGuy 2027 Internships",
       "score": 44,
@@ -1450,11 +1481,11 @@
       "category": "Product"
     },
     {
-      "company": "Synnex",
-      "title": "Summer 2027 Internship Program | Commercial, High Growth Track: \u2022 Sales \u2022 Marketing \u2022 Vendor Management \u2022 Business Development  \u2022 Product Management  \u2022 Data Analytics",
-      "location": "Greenville, SC",
-      "date": "2026-10-01",
-      "url": "https://applyguy.ai/jobs?company=Synnex&job=97edb332-9c35-4e30-bcac-135ce7307ae3&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "company": "Philips",
+      "title": "Intern \u2013 Digital Healthtech Product Management \u2013 Bothell, WA \u2013 Summer 2027",
+      "location": "Bothell, WA",
+      "date": "2026-10-07",
+      "url": "https://applyguy.ai/jobs?company=Philips&job=09a6b78d-058f-448b-a9c3-bfd777bef03e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Product",
       "source": "ApplyGuy 2027 Internships",
       "score": 44,
@@ -1529,6 +1560,21 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
+    },
+    {
+      "company": "Cook Group",
+      "title": "Information Technology Intern - Artificial Intelligence",
+      "location": "Spencer, IN, Ellettsville, IN, Bloomington, IN",
+      "date": "2026-10-01",
+      "url": "https://americas-cookmedical.icims.com/jobs/19426/job?mobile=true&needsRedirect=false",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 42,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
     },
     {
       "company": "Devon Energy",
@@ -1774,6 +1820,23 @@
       "category": "Analyst"
     },
     {
+      "company": "Synnex",
+      "title": "Summer 2027 Internship Program | Commercial, High Growth Track: \u2022 Sales \u2022 Marketing \u2022 Vendor Management \u2022 Business Development  \u2022 Product Management  \u2022 Data Analytics",
+      "location": "Greenville, SC",
+      "date": "2026-10-01",
+      "url": "https://applyguy.ai/jobs?company=Synnex&job=97edb332-9c35-4e30-bcac-135ce7307ae3&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 38,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "recent: posted <=30 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
       "company": "Vertiv",
       "title": "Product Management Intern - Summer 2027",
       "location": "Lincoln, NE",
@@ -1811,62 +1874,6 @@
       "date": "2026-05-13",
       "url": "https://amazon.jobs/en/jobs/10419265/software-development-engineer-test-intern-fall",
       "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 36,
-      "reasons": [
-        "qa testing match"
-      ],
-      "category": "Qa Testing"
-    },
-    {
-      "company": "Ambi Robotics",
-      "title": "Robotics QA Intern",
-      "location": "Berkeley, CA",
-      "date": "2026-08-21",
-      "url": "https://jobs.lever.co/ambirobotics/35f5b149-b7ee-458a-b84c-1073b723798f/apply",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 36,
-      "reasons": [
-        "qa testing match"
-      ],
-      "category": "Qa Testing"
-    },
-    {
-      "company": "Astranis",
-      "title": "Assembly and Test Intern - Integration",
-      "location": "SF",
-      "date": "2026-05-12",
-      "url": "https://job-boards.greenhouse.io/astranis/jobs/4679080006",
-      "description": "Hardware",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 36,
-      "reasons": [
-        "qa testing match"
-      ],
-      "category": "Qa Testing"
-    },
-    {
-      "company": "Boston Dynamics",
-      "title": "Electrical Testing Intern",
-      "location": "Waltham, MA",
-      "date": "2026-05-11",
-      "url": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/R-D-Electrical-Testing-Intern_R2752",
-      "description": "Hardware",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 36,
-      "reasons": [
-        "qa testing match"
-      ],
-      "category": "Qa Testing"
-    },
-    {
-      "company": "Calyxo",
-      "title": "Systems Integration and Test Intern",
-      "location": "Pleasanton, CA",
-      "date": "2026-02-23",
-      "url": "https://job-boards.greenhouse.io/calyxo/jobs/5058527007",
-      "description": "Hardware",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 36,
       "reasons": [
