@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T17:25:23.510482+00:00",
+  "generated_at": "2026-10-17T16:25:49.947899+00:00",
   "count": 120,
   "matches": [
     {
@@ -80,22 +80,6 @@
         "Summer 2027"
       ],
       "category": "Corporate It"
-    },
-    {
-      "company": "McKesson",
-      "title": "Business Analyst Intern - Product Performance",
-      "location": "Irving, TX",
-      "date": "2026-09-16",
-      "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Irving-TX-USA---6555-North-State-Highway-161-P001/Business-Analyst-Intern--Product-Performance---Summer-2027_JR0153111",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 68,
-      "reasons": [
-        "analyst match",
-        "DFW / North Texas",
-        "recent: posted <=30 days"
-      ],
-      "category": "Analyst"
     },
     {
       "company": "Capital One",
@@ -208,6 +192,21 @@
       "category": "Product"
     },
     {
+      "company": "McKesson",
+      "title": "Business Analyst Intern - Product Performance",
+      "location": "Irving, TX",
+      "date": "2026-09-16",
+      "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Irving-TX-USA---6555-North-State-Highway-161-P001/Business-Analyst-Intern--Product-Performance---Summer-2027_JR0153111",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 62,
+      "reasons": [
+        "analyst match",
+        "DFW / North Texas"
+      ],
+      "category": "Analyst"
+    },
+    {
       "company": "Protiviti",
       "title": "Technology Consulting Intern",
       "location": "Dallas, TX",
@@ -290,9 +289,9 @@
     {
       "company": "CoStar Group",
       "title": "Technology Intern",
-      "location": "Irvine, CA",
-      "date": "2026-09-16",
-      "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Irvine-US/Summer-2027-Technology-Intern---Irvine--CA_R39673",
+      "location": "Sunnyvale, CA",
+      "date": "2026-10-01",
+      "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Summer-2027-Technology-Intern---Sunnyvale--CA_R39945",
       "description": "Software",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 58,
@@ -963,21 +962,6 @@
       "category": "Analyst"
     },
     {
-      "company": "Procter & Gamble",
-      "title": "Information Technology Intern",
-      "location": "Weybridge, UK, Newcastle upon Tyne, UK, West Thurrock, Grays, UK",
-      "date": "2026-10-02",
-      "url": "https://pg.wd5.myworkdayjobs.com/1000/job/NEWCASTLE-INNOVATION-CENTRE/Information-Technology-Industrial-Placement-2027_R000160019",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 48,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "Renesas Electronics",
       "title": "Memory Server System Testing Intern",
       "location": "San Jose, CA",
@@ -1379,23 +1363,6 @@
       "category": "Product"
     },
     {
-      "company": "C3.ai",
-      "title": "AI Product Manager Intern - Summer 2027",
-      "location": "Redwood City, CA",
-      "date": "2026-10-02",
-      "url": "https://c3.ai/job-description/8860563002?gh_jid=8860563002",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
       "company": "Electronic Arts",
       "title": "Product Manager Intern",
       "location": "LA",
@@ -1451,7 +1418,7 @@
       "title": "Product Management MBA Intern, Data Center GPU - Summer 2027",
       "location": "Santa Clara, CA",
       "date": "2026-10-13",
-      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=9996a19b-d129-4160-981f-82874362a15f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=de062b86-0280-4e13-84ef-04b3f857305d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Product",
       "source": "ApplyGuy 2027 Internships",
       "score": 44,
@@ -1593,6 +1560,21 @@
       "category": "Corporate It"
     },
     {
+      "company": "Procter & Gamble",
+      "title": "Information Technology Intern",
+      "location": "Weybridge, UK, Newcastle upon Tyne, UK, West Thurrock, Grays, UK",
+      "date": "2026-10-02",
+      "url": "https://pg.wd5.myworkdayjobs.com/1000/job/NEWCASTLE-INNOVATION-CENTRE/Information-Technology-Industrial-Placement-2027_R000160019",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 42,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "Standard Aero",
       "title": "IT Analyst Intern",
       "location": "Cincinnati, OH",
@@ -1685,23 +1667,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "AspenTech",
-      "title": "Product Owner Intern - Product Management",
-      "location": "Houston, TX, Bedford, MA",
-      "date": "2026-09-16",
-      "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Product-Owner-Intern---Product-Management----Summer-2027_R9471",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 38,
-      "reasons": [
-        "product match",
-        "Texas",
-        "recent: posted <=30 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
       "company": "Bound",
       "title": "Product Management Intern (Summer 2027)",
       "location": "Ames, IA",
@@ -1709,6 +1674,23 @@
       "url": "https://applyguy.ai/jobs?company=Bound&job=401ec484-9b16-4ceb-af7b-e9886bb1ca6e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Product",
       "source": "ApplyGuy 2027 Internships",
+      "score": 38,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "recent: posted <=30 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "C3.ai",
+      "title": "AI Product Manager Intern - Summer 2027",
+      "location": "Redwood City, CA",
+      "date": "2026-10-02",
+      "url": "https://c3.ai/job-description/8860563002?gh_jid=8860563002",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
       "score": 38,
       "reasons": [
         "product match",
@@ -1737,10 +1719,10 @@
     },
     {
       "company": "Elkay",
-      "title": "Product Management Intern (Summer 2027)",
-      "location": "Paso Robles, CA",
-      "date": "2026-09-17",
-      "url": "https://applyguy.ai/jobs?company=Elkay&job=fb195867-4176-49a5-a0e5-56a7aca66dde&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "title": "Product Management Intern - Summer 2027",
+      "location": "Erie, PA",
+      "date": "2026-09-23",
+      "url": "https://applyguy.ai/jobs?company=Elkay&job=5802d6c1-6c7d-4a1c-b9ec-cbe4224b2a2d&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Product",
       "source": "ApplyGuy 2027 Internships",
       "score": 38,
@@ -1793,6 +1775,23 @@
       "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Product-Management-Intern--Summer-2027---United-States_R-287624-1",
       "description": "Product",
       "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 38,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "recent: posted <=30 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "Pentair",
+      "title": "Product Management Leadership Development Internship Program - Summer 2027",
+      "location": "Golden Valley, MN",
+      "date": "2026-10-02",
+      "url": "https://applyguy.ai/jobs?company=Pentair&job=f1fb475a-6dd0-4b33-8b34-9266680c269d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
       "score": 38,
       "reasons": [
         "product match",
