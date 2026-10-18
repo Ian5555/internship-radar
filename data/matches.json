@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T16:25:49.947899+00:00",
+  "generated_at": "2026-10-18T16:33:09.985481+00:00",
   "count": 120,
   "matches": [
     {
@@ -238,22 +238,6 @@
       "category": "Qa Testing"
     },
     {
-      "company": "Together AI",
-      "title": "Software Development In Test Intern (Summer 2027)",
-      "location": "San Francisco, CA",
-      "date": "2026-09-18",
-      "url": "https://applyguy.ai/jobs?company=Together+AI&job=77dd38cb-0d58-41d2-9a33-24eb684a0437&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Software Engineering",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 60,
-      "reasons": [
-        "qa testing match",
-        "Summer 2027",
-        "recent: posted <=30 days"
-      ],
-      "category": "Qa Testing"
-    },
-    {
       "company": "7-Eleven",
       "title": "Digital Product Manager Intern",
       "location": "Irving, TX",
@@ -298,22 +282,6 @@
       "reasons": [
         "corporate it match",
         "Summer 2027",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Insperity",
-      "title": "Rotational Technology Intern",
-      "location": "Kingwood, Houston, TX",
-      "date": "2026-09-17",
-      "url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-Technology-Intern_JR103296",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 58,
-      "reasons": [
-        "corporate it match",
-        "Texas",
         "recent: posted <=30 days"
       ],
       "category": "Corporate It"
@@ -570,8 +538,8 @@
       "company": "Copart",
       "title": "Technology Product Analyst Intern",
       "location": "Dallas, TX",
-      "date": "2026-09-17",
-      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR111532",
+      "date": "2026-09-25",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107937",
       "description": "Product",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 52,
@@ -701,6 +669,21 @@
       "reasons": [
         "corporate it match",
         "Summer 2027"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Insperity",
+      "title": "Rotational Technology Intern",
+      "location": "Kingwood, Houston, TX",
+      "date": "2026-09-17",
+      "url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-Technology-Intern_JR103296",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 52,
+      "reasons": [
+        "corporate it match",
+        "Texas"
       ],
       "category": "Corporate It"
     },
@@ -1363,23 +1346,6 @@
       "category": "Product"
     },
     {
-      "company": "Electronic Arts",
-      "title": "Product Manager Intern",
-      "location": "LA",
-      "date": "2026-10-03",
-      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Product-Manager-Intern-MBA-Level-Summer-2027-Apex-Legends/216272",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
       "company": "Hewlett Packard",
       "title": "Software Product Manager Intern",
       "location": "Austin, TX, Fort Collins, CO",
@@ -1718,6 +1684,23 @@
       "category": "Product"
     },
     {
+      "company": "Electronic Arts",
+      "title": "Product Manager Intern",
+      "location": "LA",
+      "date": "2026-10-03",
+      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Product-Manager-Intern-MBA-Level-Summer-2027-Apex-Legends/216272",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 38,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "recent: posted <=30 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
       "company": "Elkay",
       "title": "Product Management Intern - Summer 2027",
       "location": "Erie, PA",
@@ -1873,6 +1856,20 @@
       "date": "2026-05-13",
       "url": "https://amazon.jobs/en/jobs/10419265/software-development-engineer-test-intern-fall",
       "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 36,
+      "reasons": [
+        "qa testing match"
+      ],
+      "category": "Qa Testing"
+    },
+    {
+      "company": "Ambi Robotics",
+      "title": "Robotics QA Intern",
+      "location": "Berkeley, CA",
+      "date": "2026-08-21",
+      "url": "https://jobs.lever.co/ambirobotics/35f5b149-b7ee-458a-b84c-1073b723798f/apply",
+      "description": "AI/ML/Data",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 36,
       "reasons": [
