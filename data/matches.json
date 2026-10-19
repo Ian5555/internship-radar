@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T16:33:09.985481+00:00",
+  "generated_at": "2026-10-19T19:20:36.478404+00:00",
   "count": 120,
   "matches": [
     {
@@ -287,22 +287,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "Royal Bank of Canada",
-      "title": "Wealth Management Technology Intern",
-      "location": "Minneapolis, MN",
-      "date": "2026-09-18",
-      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Wealth-Management-Technology-Internship_R-0000187852",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 58,
-      "reasons": [
-        "corporate it match",
-        "Summer 2027",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "Citizens Financial Group",
       "title": "Data Engineer Intern - Enterprise Technology & Security",
       "location": "Plano, TX, Johnston, RI, Phoenix, AZ",
@@ -317,24 +301,6 @@
         "generic data-role penalty"
       ],
       "category": "Corporate It"
-    },
-    {
-      "company": "General Motors",
-      "title": "Product Management Intern - Digital Product",
-      "location": "Austin, TX, Warren, MI",
-      "date": "2026-09-18",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Product-Management--MBA-_JR-202620538",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 56,
-      "reasons": [
-        "product match",
-        "Texas",
-        "Summer 2027",
-        "recent: posted <=30 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
     },
     {
       "company": "Assurant",
@@ -733,6 +699,21 @@
       "category": "Corporate It"
     },
     {
+      "company": "Royal Bank of Canada",
+      "title": "Wealth Management Technology Intern",
+      "location": "Minneapolis, MN",
+      "date": "2026-09-18",
+      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Wealth-Management-Technology-Internship_R-0000187852",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 52,
+      "reasons": [
+        "corporate it match",
+        "Summer 2027"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "RTX",
       "title": "Systems Technology Intern",
       "location": "Tucson, AZ",
@@ -825,6 +806,23 @@
       "category": "Product"
     },
     {
+      "company": "General Motors",
+      "title": "Product Management Intern - Digital Product",
+      "location": "Austin, TX, Warren, MI",
+      "date": "2026-09-18",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Product-Management--MBA-_JR-202620538",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 50,
+      "reasons": [
+        "product match",
+        "Texas",
+        "Summer 2027",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
       "company": "LabCorp",
       "title": "Financial Analytics & Technology Intern - Financial Analytics Team",
       "location": "Remote in USA",
@@ -898,21 +896,6 @@
         "Remote"
       ],
       "category": "Analyst"
-    },
-    {
-      "company": "Diversified Energy",
-      "title": "Information Technology Intern",
-      "location": "Birmingham, AL",
-      "date": "2026-10-04",
-      "url": "https://careers.div.energy/jobs/2734?icims=1",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 48,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
     },
     {
       "company": "First National Bank",
@@ -1222,9 +1205,9 @@
     {
       "company": "NVIDIA",
       "title": "Data Processing Developer Technology Intern",
-      "location": "Courbevoie, France, Bristol, UK, W\u00fcrselen, Germany, Berlin, Germany, Munich, Germany",
-      "date": "2026-10-04",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708",
+      "location": "Bristol, UK",
+      "date": "2026-10-14",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948",
       "description": "AI/ML/Data",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 46,
@@ -1526,6 +1509,21 @@
       "category": "Corporate It"
     },
     {
+      "company": "Diversified Energy",
+      "title": "Information Technology Intern",
+      "location": "Birmingham, AL",
+      "date": "2026-10-04",
+      "url": "https://careers.div.energy/jobs/2734?icims=1",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 42,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "Procter & Gamble",
       "title": "Information Technology Intern",
       "location": "Weybridge, UK, Newcastle upon Tyne, UK, West Thurrock, Grays, UK",
@@ -1599,23 +1597,6 @@
         "recent: posted <=30 days"
       ],
       "category": "Corporate It"
-    },
-    {
-      "company": "USAA",
-      "title": "Digital/Technical Product Manager Intern - Digital and Omnichannel Servicing",
-      "location": "San Antonio, TX",
-      "date": "2026-09-18",
-      "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Operations---Digital-Technical-Product-Manager-Intern_R0121101",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 40,
-      "reasons": [
-        "product match",
-        "Texas",
-        "recent: posted <=30 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
     },
     {
       "company": "Vialto Partners",
@@ -1870,6 +1851,20 @@
       "date": "2026-08-21",
       "url": "https://jobs.lever.co/ambirobotics/35f5b149-b7ee-458a-b84c-1073b723798f/apply",
       "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 36,
+      "reasons": [
+        "qa testing match"
+      ],
+      "category": "Qa Testing"
+    },
+    {
+      "company": "Astranis",
+      "title": "Assembly and Test Intern - Integration",
+      "location": "SF",
+      "date": "2026-05-12",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4679080006",
+      "description": "Hardware",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 36,
       "reasons": [
