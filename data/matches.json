@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T19:20:36.478404+00:00",
+  "generated_at": "2026-10-20T17:59:16.536406+00:00",
   "count": 120,
   "matches": [
     {
@@ -205,6 +205,24 @@
         "DFW / North Texas"
       ],
       "category": "Analyst"
+    },
+    {
+      "company": "Amplify",
+      "title": "Summer 2027: Product Management Intern",
+      "location": "Remote, U.S.",
+      "date": "2026-10-19",
+      "url": "https://applyguy.ai/jobs?company=Amplify&job=fe39aa7b-b3e5-45d9-8105-c3ba4291355c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 60,
+      "reasons": [
+        "product match",
+        "Remote",
+        "Summer 2027",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
     },
     {
       "company": "Protiviti",
@@ -1329,6 +1347,23 @@
       "category": "Product"
     },
     {
+      "company": "Elkay",
+      "title": "Product Management Intern - Summer 2027",
+      "location": "Downers Grove, IL",
+      "date": "2026-10-19",
+      "url": "https://applyguy.ai/jobs?company=Elkay&job=8ca84f74-49c8-4783-8b89-44d07f0e62be&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
       "company": "Hewlett Packard",
       "title": "Software Product Manager Intern",
       "location": "Austin, TX, Fort Collins, CO",
@@ -1340,23 +1375,6 @@
       "reasons": [
         "product match",
         "Texas",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "Mohawk",
-      "title": "Product Management Intern",
-      "location": "Calhoun, GA",
-      "date": "2026-10-05",
-      "url": "https://careers.mohawkind.com/mohawk/job/Calhoun-Product-Management-Intern-Summer-2027-Geor-30701/1436568500/?ats=successfactors",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Summer 2027",
         "NEW: posted <=14 days",
         "product secondary-lane penalty"
       ],
@@ -1524,6 +1542,21 @@
       "category": "Corporate It"
     },
     {
+      "company": "National Information Solutions Cooperative (NISC)",
+      "title": "Intern - Application Analyst (Financials Software)",
+      "location": "Mandan, ND",
+      "date": "2026-10-19",
+      "url": "https://applyguy.ai/jobs?company=National+Information+Solutions+Cooperative+%28NISC%29&job=ffeba7c0-84fa-42c3-a858-14c10f742a95&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Software Engineering",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 42,
+      "reasons": [
+        "analyst match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Analyst"
+    },
+    {
       "company": "Procter & Gamble",
       "title": "Information Technology Intern",
       "location": "Weybridge, UK, Newcastle upon Tyne, UK, West Thurrock, Grays, UK",
@@ -1682,23 +1715,6 @@
       "category": "Product"
     },
     {
-      "company": "Elkay",
-      "title": "Product Management Intern - Summer 2027",
-      "location": "Erie, PA",
-      "date": "2026-09-23",
-      "url": "https://applyguy.ai/jobs?company=Elkay&job=5802d6c1-6c7d-4a1c-b9ec-cbe4224b2a2d&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 38,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "recent: posted <=30 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
       "company": "Fiserv",
       "title": "Technology Intern Program - Application Development",
       "location": "Frisco, TX",
@@ -1737,6 +1753,23 @@
       "location": "Harrison, NY, Arlington County, Arlington, VA",
       "date": "2026-09-21",
       "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Product-Management-Intern--Summer-2027---United-States_R-287624-1",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 38,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "recent: posted <=30 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "Mohawk",
+      "title": "Product Management Intern",
+      "location": "Calhoun, GA",
+      "date": "2026-10-05",
+      "url": "https://careers.mohawkind.com/mohawk/job/Calhoun-Product-Management-Intern-Summer-2027-Geor-30701/1436568500/?ats=successfactors",
       "description": "Product",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 38,
@@ -1837,34 +1870,6 @@
       "date": "2026-05-13",
       "url": "https://amazon.jobs/en/jobs/10419265/software-development-engineer-test-intern-fall",
       "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 36,
-      "reasons": [
-        "qa testing match"
-      ],
-      "category": "Qa Testing"
-    },
-    {
-      "company": "Ambi Robotics",
-      "title": "Robotics QA Intern",
-      "location": "Berkeley, CA",
-      "date": "2026-08-21",
-      "url": "https://jobs.lever.co/ambirobotics/35f5b149-b7ee-458a-b84c-1073b723798f/apply",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 36,
-      "reasons": [
-        "qa testing match"
-      ],
-      "category": "Qa Testing"
-    },
-    {
-      "company": "Astranis",
-      "title": "Assembly and Test Intern - Integration",
-      "location": "SF",
-      "date": "2026-05-12",
-      "url": "https://job-boards.greenhouse.io/astranis/jobs/4679080006",
-      "description": "Hardware",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 36,
       "reasons": [
