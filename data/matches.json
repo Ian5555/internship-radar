@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T17:59:16.536406+00:00",
+  "generated_at": "2026-10-21T18:03:44.486614+00:00",
   "count": 120,
   "matches": [
     {
@@ -174,24 +174,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "Electronic Arts",
-      "title": "Product Management Intern",
-      "location": "Austin, TX",
-      "date": "2026-10-06",
-      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern-Fan-Care-Community-Care-Summer-2027/216182",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 62,
-      "reasons": [
-        "product match",
-        "Texas",
-        "Summer 2027",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
       "company": "McKesson",
       "title": "Business Analyst Intern - Product Performance",
       "location": "Irving, TX",
@@ -223,21 +205,6 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
-    },
-    {
-      "company": "Protiviti",
-      "title": "Technology Consulting Intern",
-      "location": "Dallas, TX",
-      "date": "2026-02-23",
-      "url": "https://roberthalf.wd1.myworkdayjobs.com/protivitiexperiencedcareers/job/DALLAS/Dallas-Technology-Consulting-Intern---2027_JR-258911-3",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 60,
-      "reasons": [
-        "consulting match",
-        "DFW / North Texas"
-      ],
-      "category": "Consulting"
     },
     {
       "company": "SAS",
@@ -319,6 +286,24 @@
         "generic data-role penalty"
       ],
       "category": "Corporate It"
+    },
+    {
+      "company": "Electronic Arts",
+      "title": "Product Management Intern",
+      "location": "Austin, TX",
+      "date": "2026-10-06",
+      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern-Fan-Care-Community-Care-Summer-2027/216182",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 56,
+      "reasons": [
+        "product match",
+        "Texas",
+        "Summer 2027",
+        "recent: posted <=30 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
     },
     {
       "company": "Assurant",
@@ -1007,21 +992,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "Astera Labs",
-      "title": "ATE Engineer Intern - Engineering Ops Technology Intern",
-      "location": "San Jose, CA",
-      "date": "2026-10-06",
-      "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731409005",
-      "description": "Hardware",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "Azul Systems",
       "title": "IT Intern \u2013 AI and Operations",
       "location": "Sunnyvale, CA",
@@ -1364,6 +1334,23 @@
       "category": "Product"
     },
     {
+      "company": "GoFundMe",
+      "title": "MBA Product Management Internship, Summer 2027",
+      "location": "San Francisco, CA",
+      "date": "2026-10-21",
+      "url": "https://applyguy.ai/jobs?company=GoFundMe&job=16c43773-06b5-4f18-8439-1fc73c97d3fd&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
       "company": "Hewlett Packard",
       "title": "Software Product Manager Intern",
       "location": "Austin, TX, Fort Collins, CO",
@@ -1449,6 +1436,23 @@
       "category": "Product"
     },
     {
+      "company": "Zebra Technologies",
+      "title": "Supplies & Sensors Product Manager Intern - US",
+      "location": "Lincolnshire, IL",
+      "date": "2026-10-20",
+      "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Supplies---Sensors-Product-Manager_JR103640",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
       "company": "Astranis",
       "title": "Reliability Test Intern",
       "location": "SF",
@@ -1477,23 +1481,6 @@
         "recent: posted <=30 days"
       ],
       "category": "Corporate It"
-    },
-    {
-      "company": "Cadence Solutions",
-      "title": "Product Management Intern",
-      "location": "Remote in USA",
-      "date": "2026-10-06",
-      "url": "https://job-boards.greenhouse.io/solutions/jobs/4715294006",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 42,
-      "reasons": [
-        "product match",
-        "Remote",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
     },
     {
       "company": "Cook Group",
@@ -1540,6 +1527,21 @@
         "recent: posted <=30 days"
       ],
       "category": "Corporate It"
+    },
+    {
+      "company": "DP World",
+      "title": "Application Analyst Intern",
+      "location": "Itasca, IL",
+      "date": "2026-10-21",
+      "url": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27400",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 42,
+      "reasons": [
+        "analyst match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Analyst"
     },
     {
       "company": "National Information Solutions Cooperative (NISC)",
@@ -1600,6 +1602,21 @@
         "NEW: posted <=14 days"
       ],
       "category": "Analyst"
+    },
+    {
+      "company": "Astera Labs",
+      "title": "ATE Engineer Intern - Engineering Ops Technology Intern",
+      "location": "San Jose, CA",
+      "date": "2026-10-06",
+      "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731409005",
+      "description": "Hardware",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
     },
     {
       "company": "Cerity Partners",
@@ -1862,20 +1879,6 @@
         "corporate it match"
       ],
       "category": "Corporate It"
-    },
-    {
-      "company": "Amazon",
-      "title": "Software Development Engineer Test Intern",
-      "location": "Sunnyvale, CA",
-      "date": "2026-05-13",
-      "url": "https://amazon.jobs/en/jobs/10419265/software-development-engineer-test-intern-fall",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 36,
-      "reasons": [
-        "qa testing match"
-      ],
-      "category": "Qa Testing"
     }
   ],
   "errors": []
