@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T18:03:44.486614+00:00",
+  "generated_at": "2026-10-22T17:59:32.047363+00:00",
   "count": 120,
   "matches": [
     {
@@ -35,22 +35,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "HCSC",
-      "title": "Systems Analyst Intern",
-      "location": "Chicago, IL, Richardson, TX",
-      "date": "2026-10-07",
-      "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Systems-Analyst-Intern_R0059498",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 74,
-      "reasons": [
-        "analyst match",
-        "DFW / North Texas",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Analyst"
-    },
-    {
       "company": "Air Products",
       "title": "Information Technology/Digital Technology Intern - Infrastructure Services",
       "location": "Allentown, PA",
@@ -80,6 +64,22 @@
         "Summer 2027"
       ],
       "category": "Corporate It"
+    },
+    {
+      "company": "HCSC",
+      "title": "Systems Analyst Intern",
+      "location": "Chicago, IL, Richardson, TX",
+      "date": "2026-10-07",
+      "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Systems-Analyst-Intern_R0059498",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 68,
+      "reasons": [
+        "analyst match",
+        "DFW / North Texas",
+        "recent: posted <=30 days"
+      ],
+      "category": "Analyst"
     },
     {
       "company": "Capital One",
@@ -221,6 +221,22 @@
         "recent: posted <=30 days"
       ],
       "category": "Qa Testing"
+    },
+    {
+      "company": "Zebra Technologies",
+      "title": "Business Analyst Intern",
+      "location": "Lincolnshire, IL",
+      "date": "2026-10-21",
+      "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Business-Analyst_JR103646",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 60,
+      "reasons": [
+        "analyst match",
+        "Summer 2027",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Analyst"
     },
     {
       "company": "7-Eleven",
@@ -594,22 +610,6 @@
         "Summer 2027"
       ],
       "category": "Corporate It"
-    },
-    {
-      "company": "Grow Financial Federal Credit Union",
-      "title": "Systems Analyst Intern",
-      "location": "Remote in USA",
-      "date": "2026-09-21",
-      "url": "https://careers-growfinancial.icims.com/jobs/2754/job?mobile=true&needsRedirect=false",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 52,
-      "reasons": [
-        "analyst match",
-        "Remote",
-        "recent: posted <=30 days"
-      ],
-      "category": "Analyst"
     },
     {
       "company": "HNTB",
@@ -1116,6 +1116,21 @@
       "category": "Product"
     },
     {
+      "company": "Grow Financial Federal Credit Union",
+      "title": "Systems Analyst Intern",
+      "location": "Remote in USA",
+      "date": "2026-09-21",
+      "url": "https://careers-growfinancial.icims.com/jobs/2754/job?mobile=true&needsRedirect=false",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 46,
+      "reasons": [
+        "analyst match",
+        "Remote"
+      ],
+      "category": "Analyst"
+    },
+    {
       "company": "J.M. Smucker",
       "title": "Finance Technology Intern",
       "location": "Orrville, OH",
@@ -1351,23 +1366,6 @@
       "category": "Product"
     },
     {
-      "company": "Hewlett Packard",
-      "title": "Software Product Manager Intern",
-      "location": "Austin, TX, Fort Collins, CO",
-      "date": "2026-10-07",
-      "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Austin-Texas-United-States-of-America/Software-Product-Management-Intern_UNI4516-1",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Texas",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
       "company": "NVIDIA",
       "title": "Product Management MBA Intern, Data Center GPU - Summer 2027",
       "location": "Santa Clara, CA",
@@ -1390,23 +1388,6 @@
       "location": "Santa Clara, CA",
       "date": "2026-10-15",
       "url": "https://applyguy.ai/jobs?company=NVIDIA&job=cc6b07c7-a6b3-400c-82a3-cb74fcf0ab0f&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "Philips",
-      "title": "Intern \u2013 Digital Healthtech Product Management \u2013 Bothell, WA \u2013 Summer 2027",
-      "location": "Bothell, WA",
-      "date": "2026-10-07",
-      "url": "https://applyguy.ai/jobs?company=Philips&job=09a6b78d-058f-448b-a9c3-bfd777bef03e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Product",
       "source": "ApplyGuy 2027 Internships",
       "score": 44,
@@ -1466,21 +1447,6 @@
         "recent: posted <=30 days"
       ],
       "category": "Qa Testing"
-    },
-    {
-      "company": "AutoZone",
-      "title": "Information Technology Intern",
-      "location": "Memphis, TN",
-      "date": "2026-09-21",
-      "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155451",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 42,
-      "reasons": [
-        "corporate it match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
     },
     {
       "company": "Cook Group",
@@ -1649,38 +1615,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "Vialto Partners",
-      "title": "Client Technology Intern",
-      "location": "Campbell, CA, NYC",
-      "date": "2026-09-21",
-      "url": "https://vialto.wd107.myworkdayjobs.com/vialtoexternalcareers/job/Manhattan/Client-Technology-Services---Intern_REQ908939",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 40,
-      "reasons": [
-        "corporate it match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Bound",
-      "title": "Product Management Intern (Summer 2027)",
-      "location": "Ames, IA",
-      "date": "2026-09-21",
-      "url": "https://applyguy.ai/jobs?company=Bound&job=401ec484-9b16-4ceb-af7b-e9886bb1ca6e&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 38,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "recent: posted <=30 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
       "company": "C3.ai",
       "title": "AI Product Manager Intern - Summer 2027",
       "location": "Redwood City, CA",
@@ -1765,11 +1699,28 @@
       "category": "Product"
     },
     {
+      "company": "Hewlett Packard",
+      "title": "Software Product Manager Intern",
+      "location": "Austin, TX, Fort Collins, CO",
+      "date": "2026-10-07",
+      "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Austin-Texas-United-States-of-America/Software-Product-Management-Intern_UNI4516-1",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 38,
+      "reasons": [
+        "product match",
+        "Texas",
+        "recent: posted <=30 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
       "company": "Mastercard",
-      "title": "Product Management Intern",
-      "location": "Harrison, NY, Arlington County, Arlington, VA",
-      "date": "2026-09-21",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Product-Management-Intern--Summer-2027---United-States_R-287624-1",
+      "title": "Product Management Intern - Summer 2027",
+      "location": "O'Fallon, MO",
+      "date": "2026-09-22",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Product-Management-Intern--Summer-2027---St-Louis--MO--US-_R-287625",
       "description": "Product",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 38,
@@ -1804,6 +1755,23 @@
       "location": "Golden Valley, MN",
       "date": "2026-10-02",
       "url": "https://applyguy.ai/jobs?company=Pentair&job=f1fb475a-6dd0-4b33-8b34-9266680c269d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 38,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "recent: posted <=30 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "Philips",
+      "title": "Intern \u2013 Digital Healthtech Product Management \u2013 Bothell, WA \u2013 Summer 2027",
+      "location": "Bothell, WA",
+      "date": "2026-10-07",
+      "url": "https://applyguy.ai/jobs?company=Philips&job=09a6b78d-058f-448b-a9c3-bfd777bef03e&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Product",
       "source": "ApplyGuy 2027 Internships",
       "score": 38,
@@ -1879,6 +1847,34 @@
         "corporate it match"
       ],
       "category": "Corporate It"
+    },
+    {
+      "company": "Amazon",
+      "title": "Software Development Engineer Test Intern",
+      "location": "Sunnyvale, CA",
+      "date": "2026-05-13",
+      "url": "https://amazon.jobs/en/jobs/10419265/software-development-engineer-test-intern-fall",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 36,
+      "reasons": [
+        "qa testing match"
+      ],
+      "category": "Qa Testing"
+    },
+    {
+      "company": "Ambi Robotics",
+      "title": "Robotics QA Intern",
+      "location": "Berkeley, CA",
+      "date": "2026-08-21",
+      "url": "https://jobs.lever.co/ambirobotics/35f5b149-b7ee-458a-b84c-1073b723798f/apply",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 36,
+      "reasons": [
+        "qa testing match"
+      ],
+      "category": "Qa Testing"
     }
   ],
   "errors": []
