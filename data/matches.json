@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T17:52:50.060284+00:00",
+  "generated_at": "2026-10-24T16:35:46.661953+00:00",
   "count": 120,
   "matches": [
     {
@@ -1372,21 +1372,6 @@
       "category": "Product"
     },
     {
-      "company": "Wawa",
-      "title": "Information Technology Development Intern",
-      "location": "Media, PA",
-      "date": "2026-10-09",
-      "url": "https://wawa.wd1.myworkdayjobs.com/careers/job/WAWA---Wawa-Inc---Corporate-Office/Information-Technology-Development-Internship_JR122392",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "Blue Origin",
       "title": "Terawave Product Management Intern - MBA",
       "location": "Kent, WA",
@@ -1506,21 +1491,6 @@
       "category": "Product"
     },
     {
-      "company": "Astranis",
-      "title": "Reliability Test Intern",
-      "location": "SF",
-      "date": "2026-09-23",
-      "url": "https://job-boards.greenhouse.io/astranis/jobs/4705626006",
-      "description": "Hardware",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 42,
-      "reasons": [
-        "qa testing match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Qa Testing"
-    },
-    {
       "company": "Cook Group",
       "title": "Information Technology Intern - Artificial Intelligence",
       "location": "Spencer, IN, Ellettsville, IN, Bloomington, IN",
@@ -1550,6 +1520,23 @@
         "generic data-role penalty"
       ],
       "category": "Corporate It"
+    },
+    {
+      "company": "DIRECTV",
+      "title": "Customer Operations Product Management Intern",
+      "location": "Remote in USA",
+      "date": "2026-10-23",
+      "url": "https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/Customer-Operations-Product-Management--MBA-Opportunity-_R260333",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 42,
+      "reasons": [
+        "product match",
+        "Remote",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
     },
     {
       "company": "Diversified Energy",
@@ -1610,21 +1597,6 @@
         "recent: posted <=30 days"
       ],
       "category": "Corporate It"
-    },
-    {
-      "company": "Standard Aero",
-      "title": "IT Analyst Intern",
-      "location": "Cincinnati, OH",
-      "date": "2026-10-09",
-      "url": "https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10479",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 42,
-      "reasons": [
-        "analyst match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Analyst"
     },
     {
       "company": "The Toro Company",
@@ -1722,6 +1694,21 @@
       "location": "Stamford, CT",
       "date": "2026-09-24",
       "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/UConn-Stamford-Digital-Technology-Center-Intern---Summer-2027_2602661",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Wawa",
+      "title": "Information Technology Development Intern",
+      "location": "Media, PA",
+      "date": "2026-10-09",
+      "url": "https://wawa.wd1.myworkdayjobs.com/careers/job/WAWA---Wawa-Inc---Corporate-Office/Information-Technology-Development-Internship_JR122392",
       "description": "Software",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 40,
@@ -1878,6 +1865,23 @@
       "reasons": [
         "product match",
         "Summer 2027",
+        "recent: posted <=30 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "USAA",
+      "title": "Product Management Advisor Intern",
+      "location": "San Antonio, TX",
+      "date": "2026-10-08",
+      "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Product-Management-Advisor-Intern_R0121653",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 38,
+      "reasons": [
+        "product match",
+        "Texas",
         "recent: posted <=30 days",
         "product secondary-lane penalty"
       ],
