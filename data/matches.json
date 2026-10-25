@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T16:35:46.661953+00:00",
+  "generated_at": "2026-10-25T17:03:55.188109+00:00",
   "count": 120,
   "matches": [
     {
@@ -1689,21 +1689,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "Synchrony Financial",
-      "title": "Digital Technology Center Intern",
-      "location": "Stamford, CT",
-      "date": "2026-09-24",
-      "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/UConn-Stamford-Digital-Technology-Center-Intern---Summer-2027_2602661",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 40,
-      "reasons": [
-        "corporate it match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "Wawa",
       "title": "Information Technology Development Intern",
       "location": "Media, PA",
@@ -1886,6 +1871,20 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
+    },
+    {
+      "company": "AARP",
+      "title": "Information Technology Intern",
+      "location": "Washington, DC",
+      "date": "2026-08-14",
+      "url": "https://careers.aarp.org/jobs/7424?icims=1",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 36,
+      "reasons": [
+        "corporate it match"
+      ],
+      "category": "Corporate It"
     }
   ],
   "errors": []

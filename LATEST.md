@@ -1,6 +1,6 @@
 # Latest Internship Radar
 
-Last refreshed: **2026-10-24 16:35 UTC**
+Last refreshed: **2026-10-25 17:03 UTC**
 
 Strict Summer 2027 feed. DFW/North Texas, Texas, and remote roles receive location boosts; corporate IT, QA/testing, systems/support, analyst, IT risk/audit, and consulting roles outrank generic product/data roles.
 
@@ -114,7 +114,6 @@ Strict Summer 2027 feed. DFW/North Texas, Texas, and remote roles receive locati
 | **40** | Freestone Capital Management | Technology & Operations Intern | Seattle, WA | Support Ops | 2026-09-25 | Recent | [Apply](https://job-boards.greenhouse.io/freestonecapitalmanagement/jobs/5430136008) | SimplifyJobs Summer 2027 Internships |
 | **40** | MetLife | Global Technology Intern | Tampa, FL, Hanover, NJ, Cary, NC, NYC | Corporate It | 2026-09-30 | Recent | [Apply](https://metlife.avature.net/en_US/ml/JobDetail/20701) | SimplifyJobs Summer 2027 Internships |
 | **40** | NVIDIA | AI Developer Technology Intern | Bristol, UK, Munich, Germany | Corporate It | 2026-10-08 | Recent | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497) | SimplifyJobs Summer 2027 Internships |
-| **40** | Synchrony Financial | Digital Technology Center Intern | Stamford, CT | Corporate It | 2026-09-24 | Recent | [Apply](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/UConn-Stamford-Digital-Technology-Center-Intern---Summer-2027_2602661) | SimplifyJobs Summer 2027 Internships |
 | **40** | Wawa | Information Technology Development Intern | Media, PA | Corporate It | 2026-10-09 | Recent | [Apply](https://wawa.wd1.myworkdayjobs.com/careers/job/WAWA---Wawa-Inc---Corporate-Office/Information-Technology-Development-Internship_JR122392) | SimplifyJobs Summer 2027 Internships |
 | **38** | C3.ai | AI Product Manager Intern - Summer 2027 | Redwood City, CA | Product | 2026-10-02 | Recent | [Apply](https://c3.ai/job-description/8860563002?gh_jid=8860563002) | SimplifyJobs Summer 2027 Internships |
 | **38** | Electronic Arts | Product Manager Intern | LA | Product | 2026-10-03 | Recent | [Apply](https://jobs.ea.com/en_US/careers/JobDetail/Product-Manager-Intern-MBA-Level-Summer-2027-Apex-Legends/216272) | SimplifyJobs Summer 2027 Internships |
@@ -126,5 +125,6 @@ Strict Summer 2027 feed. DFW/North Texas, Texas, and remote roles receive locati
 | **38** | PIMCO | Software Engineering Intern - Technology Analyst | Austin, TX | Analyst | 2026-08-18 | — | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745) | SimplifyJobs Summer 2027 Internships |
 | **38** | Synnex | Summer 2027 Internship Program \| Commercial, High Growth Track: • Sales • Marketing • Vendor Management • Business Development  • Product Management  • Data Analytics | Greenville, SC | Product | 2026-10-01 | Recent | [Apply](https://applyguy.ai/jobs?company=Synnex&job=97edb332-9c35-4e30-bcac-135ce7307ae3&utm_source=github&utm_medium=listing&utm_campaign=internships) | ApplyGuy 2027 Internships |
 | **38** | USAA | Product Management Advisor Intern | San Antonio, TX | Product | 2026-10-08 | Recent | [Apply](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Product-Management-Advisor-Intern_R0121653) | SimplifyJobs Summer 2027 Internships |
+| **36** | AARP | Information Technology Intern | Washington, DC | Corporate It | 2026-08-14 | — | [Apply](https://careers.aarp.org/jobs/7424?icims=1) | SimplifyJobs Summer 2027 Internships |
 
 > Discovery feed only. Verify that the employer posting is still open and that you meet its requirements before applying.
