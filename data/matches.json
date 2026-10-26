@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T17:03:55.188109+00:00",
+  "generated_at": "2026-10-26T19:20:41.571503+00:00",
   "count": 120,
   "matches": [
     {
@@ -16,6 +16,24 @@
         "DFW / North Texas",
         "Summer 2027",
         "NEW: posted <=14 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "CVS Health",
+      "title": "Innovation & Technology Intern - Data Engineering",
+      "location": "Irving, TX",
+      "date": "2026-10-26",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Undergraduate-_R1084831-1",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 86,
+      "reasons": [
+        "corporate it match",
+        "DFW / North Texas",
+        "Summer 2027",
+        "NEW: posted <=14 days",
+        "generic data-role penalty"
       ],
       "category": "Corporate It"
     },
@@ -97,6 +115,23 @@
         "recent: posted <=30 days"
       ],
       "category": "Analyst"
+    },
+    {
+      "company": "Wells Fargo",
+      "title": "Technology Intern - Early Careers - Data Engineering",
+      "location": "Iselin, Woodbridge Township, NJ, Charlotte, NC, Irving, TX",
+      "date": "2026-10-26",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Data-Engineering-_R-583066",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 68,
+      "reasons": [
+        "corporate it match",
+        "DFW / North Texas",
+        "NEW: posted <=14 days",
+        "generic data-role penalty"
+      ],
+      "category": "Corporate It"
     },
     {
       "company": "Capital One",
@@ -603,23 +638,6 @@
         "Summer 2027"
       ],
       "category": "Corporate It"
-    },
-    {
-      "company": "Copart",
-      "title": "Technology Product Analyst Intern",
-      "location": "Dallas, TX",
-      "date": "2026-09-25",
-      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107937",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 52,
-      "reasons": [
-        "product match",
-        "DFW / North Texas",
-        "recent: posted <=30 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
     },
     {
       "company": "Corning",
@@ -1141,6 +1159,22 @@
       "category": "Product"
     },
     {
+      "company": "Copart",
+      "title": "Technology Product Analyst Intern",
+      "location": "Dallas, TX",
+      "date": "2026-03-23",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 46,
+      "reasons": [
+        "product match",
+        "DFW / North Texas",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
       "company": "CoverMyMeds",
       "title": "CMM Technology Intern",
       "location": "Columbus, OH",
@@ -1627,36 +1661,6 @@
         "recent: posted <=30 days"
       ],
       "category": "Corporate It"
-    },
-    {
-      "company": "Cerity Partners",
-      "title": "Investment Data & Technology Intern - Central Solutions",
-      "location": "NYC",
-      "date": "2026-09-25",
-      "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Investment-Data---Technology-Analyst-Internship_R929",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 40,
-      "reasons": [
-        "corporate it match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Freestone Capital Management",
-      "title": "Technology & Operations Intern",
-      "location": "Seattle, WA",
-      "date": "2026-09-25",
-      "url": "https://job-boards.greenhouse.io/freestonecapitalmanagement/jobs/5430136008",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 40,
-      "reasons": [
-        "support ops match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Support Ops"
     },
     {
       "company": "MetLife",
