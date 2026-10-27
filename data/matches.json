@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T19:20:41.571503+00:00",
+  "generated_at": "2026-10-27T18:41:49.062786+00:00",
   "count": 120,
   "matches": [
     {
@@ -1282,21 +1282,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "Koch Industries",
-      "title": "Digital Technology & Data Intern",
-      "location": "Auburn Hills, MI",
-      "date": "2026-10-12",
-      "url": "https://koch.avature.net/en_US/careers/JobDetail/195465",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "Marsh",
       "title": "Finance Innovation & Technology Intern - Master's Finance Innovation & Technology",
       "location": "NYC",
@@ -1341,21 +1326,6 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
-    },
-    {
-      "company": "Realty Income",
-      "title": "Technology Intern",
-      "location": "San Diego, CA",
-      "date": "2026-10-12",
-      "url": "https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers/job/San-Diego-California/Technology-Intern---Multiple-Opportunities_R-100339",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
     },
     {
       "company": "Rheem",
@@ -1481,6 +1451,23 @@
       "url": "https://applyguy.ai/jobs?company=NVIDIA&job=cc6b07c7-a6b3-400c-82a3-cb74fcf0ab0f&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Product",
       "source": "ApplyGuy 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "Zebra Technologies",
+      "title": "Product Management Intern",
+      "location": "Lincolnshire, IL",
+      "date": "2026-10-26",
+      "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
       "score": 44,
       "reasons": [
         "product match",
@@ -1663,6 +1650,36 @@
       "category": "Corporate It"
     },
     {
+      "company": "Koch Industries",
+      "title": "Digital Technology & Data Intern",
+      "location": "Auburn Hills, MI",
+      "date": "2026-10-12",
+      "url": "https://koch.avature.net/en_US/careers/JobDetail/195465",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Lawrence Livermore National Laboratory (LLNL)",
+      "title": "Defense Science and Technology Intern",
+      "location": "Livermore, CA",
+      "date": "2026-09-28",
+      "url": "https://jobs.smartrecruiters.com/LLNL/3743990015740565",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "MetLife",
       "title": "Global Technology Intern",
       "location": "Tampa, FL, Hanover, NJ, Cary, NC, NYC",
@@ -1683,6 +1700,21 @@
       "location": "Bristol, UK, Munich, Germany",
       "date": "2026-10-08",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Realty Income",
+      "title": "Technology Intern",
+      "location": "San Diego, CA",
+      "date": "2026-10-12",
+      "url": "https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers/job/San-Diego-California/Technology-Intern---Multiple-Opportunities_R-100339",
       "description": "AI/ML/Data",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 40,
@@ -1858,37 +1890,6 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
-    },
-    {
-      "company": "USAA",
-      "title": "Product Management Advisor Intern",
-      "location": "San Antonio, TX",
-      "date": "2026-10-08",
-      "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Product-Management-Advisor-Intern_R0121653",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 38,
-      "reasons": [
-        "product match",
-        "Texas",
-        "recent: posted <=30 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "AARP",
-      "title": "Information Technology Intern",
-      "location": "Washington, DC",
-      "date": "2026-08-14",
-      "url": "https://careers.aarp.org/jobs/7424?icims=1",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 36,
-      "reasons": [
-        "corporate it match"
-      ],
-      "category": "Corporate It"
     }
   ],
   "errors": []
