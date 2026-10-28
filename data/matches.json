@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T18:41:49.062786+00:00",
+  "generated_at": "2026-10-28T18:52:18.417391+00:00",
   "count": 120,
   "matches": [
     {
@@ -194,22 +194,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "Wing",
-      "title": "Manufacturing Software Test Intern, Summer 2027",
-      "location": "Palo Alto, CA",
-      "date": "2026-10-13",
-      "url": "https://applyguy.ai/jobs?company=Wing&job=47a9b4d1-5a0c-49a9-a2fa-86afa32c48a3&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Software Engineering",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 66,
-      "reasons": [
-        "qa testing match",
-        "Summer 2027",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Qa Testing"
-    },
-    {
       "company": "Humana",
       "title": "Technology Intern - Society of Women Engineers Conference",
       "location": "Louisville, KY",
@@ -298,6 +282,22 @@
       "location": "Cary, NC",
       "date": "2026-10-01",
       "url": "https://applyguy.ai/jobs?company=SAS&job=be913ab3-5bff-4907-8ed5-3f10bf0ce90c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Software Engineering",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 60,
+      "reasons": [
+        "qa testing match",
+        "Summer 2027",
+        "recent: posted <=30 days"
+      ],
+      "category": "Qa Testing"
+    },
+    {
+      "company": "Wing",
+      "title": "Manufacturing Software Test Intern, Summer 2027",
+      "location": "Palo Alto, CA",
+      "date": "2026-10-13",
+      "url": "https://applyguy.ai/jobs?company=Wing&job=47a9b4d1-5a0c-49a9-a2fa-86afa32c48a3&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Software Engineering",
       "source": "ApplyGuy 2027 Internships",
       "score": 60,
@@ -625,6 +625,21 @@
       "category": "Corporate It"
     },
     {
+      "company": "BP",
+      "title": "Seismic Imaging Technology Intern",
+      "location": "Houston, TX",
+      "date": "2026-09-03",
+      "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Summer-Intern---Seismic-Imaging-Technology---Houston--TX_RQ115638",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 52,
+      "reasons": [
+        "corporate it match",
+        "Texas"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "Commerce Bank",
       "title": "IT Intern - Summer 2027",
       "location": "Kansas City, MO",
@@ -865,6 +880,21 @@
       "category": "Corporate It"
     },
     {
+      "company": "Asml",
+      "title": "Internship - Software Quality Assurance",
+      "location": "San Jose, CA",
+      "date": "2026-10-24",
+      "url": "https://applyguy.ai/jobs?company=Asml&job=c62b14d8-ff34-4cb0-80ed-1d552f8374ff&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Software Engineering",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 50,
+      "reasons": [
+        "qa testing match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Qa Testing"
+    },
+    {
       "company": "Cloudflare",
       "title": "Business Systems Analyst Intern",
       "location": "Austin, TX",
@@ -974,6 +1004,21 @@
       "category": "Analyst"
     },
     {
+      "company": "Asml",
+      "title": "Internship - Application Software QA Engineer",
+      "location": "San Jose, CA",
+      "date": "2026-10-24",
+      "url": "https://applyguy.ai/jobs?company=Asml&job=c24e7daa-dfab-456e-a529-b0e901c8283c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Software Engineering",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 48,
+      "reasons": [
+        "qa testing match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Qa Testing"
+    },
+    {
       "company": "Cotiviti",
       "title": "Temporary Intern - Business Systems Analyst",
       "location": "Remote in USA",
@@ -1002,6 +1047,21 @@
         "Summer 2027"
       ],
       "category": "Analyst"
+    },
+    {
+      "company": "Intercontinental Exchange, Inc.",
+      "title": "Summer Internship Program 2027 - Software Development Engineer in Test Intern",
+      "location": "Atlanta, GA",
+      "date": "2026-10-25",
+      "url": "https://applyguy.ai/jobs?company=Intercontinental+Exchange%2C+Inc.&job=a48fdd86-6049-46ed-9653-88e019b20bcd&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Software Engineering",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 48,
+      "reasons": [
+        "qa testing match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Qa Testing"
     },
     {
       "company": "Nationwide",
@@ -1065,6 +1125,21 @@
       "category": "Product"
     },
     {
+      "company": "Allstate",
+      "title": "Technology Internship",
+      "location": "Illinois",
+      "date": "2026-10-27",
+      "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Allstate-Technology-Solutions-Internship---Summer-2027_R36378",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 46,
+      "reasons": [
+        "corporate it match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "Amazon",
       "title": "Technical Product Manager Intern",
       "location": "Seattle, WA, Arlington County, Arlington, VA",
@@ -1080,36 +1155,6 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
-    },
-    {
-      "company": "American Century Investments",
-      "title": "Systematic Credit Intern",
-      "location": "NYC",
-      "date": "2026-10-13",
-      "url": "https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/New-York-New-York/Systematic-Credit-Intern_R0005759",
-      "description": "Quant",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Azul Systems",
-      "title": "IT Intern \u2013 AI and Operations",
-      "location": "Sunnyvale, CA",
-      "date": "2026-10-13",
-      "url": "https://jobs.lever.co/azul/8f41ceaf-8835-4fc7-ba57-9384487d59db/apply",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
     },
     {
       "company": "Blackhawk Network Holdings",
@@ -1235,6 +1280,21 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
+    },
+    {
+      "company": "Great American Insurance Company",
+      "title": "Emerging Technology Intern",
+      "location": "Cincinnati, OH",
+      "date": "2026-10-27",
+      "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Emerging-Technology-Intern---Summer-2027_R9801",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 46,
+      "reasons": [
+        "corporate it match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Corporate It"
     },
     {
       "company": "Grow Financial Federal Credit Union",
@@ -1428,10 +1488,10 @@
     },
     {
       "company": "NVIDIA",
-      "title": "Product Management MBA Intern, Data Center GPU - Summer 2027",
+      "title": "Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027",
       "location": "Santa Clara, CA",
-      "date": "2026-10-13",
-      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=de062b86-0280-4e13-84ef-04b3f857305d&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "date": "2026-10-22",
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=ab8f936d-6a76-41da-9cf6-dd0725361fa9&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Product",
       "source": "ApplyGuy 2027 Internships",
       "score": 44,
@@ -1447,8 +1507,59 @@
       "company": "NVIDIA",
       "title": "Product Management MBA Intern, Laptop - Summer 2027",
       "location": "Santa Clara, CA",
-      "date": "2026-10-15",
-      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=cc6b07c7-a6b3-400c-82a3-cb74fcf0ab0f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "date": "2026-10-16",
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=f4cc79f5-fa26-4e17-8eff-9da33303db3f&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "Patreon",
+      "title": "Product Manager Intern - Summer 2027",
+      "location": "New York",
+      "date": "2026-10-22",
+      "url": "https://applyguy.ai/jobs?company=Patreon&job=16f79a09-784e-417a-9305-6a38370ebeb8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "Visa",
+      "title": "Product Management Intern, Data and AI Team - Summer 2027",
+      "location": "Foster City, CA",
+      "date": "2026-10-27",
+      "url": "https://applyguy.ai/jobs?company=Visa&job=622de105-0e2c-4b33-ac3a-f4e9df58add1&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "zebra",
+      "title": "2027 Summer Internship (US) - Product Management",
+      "location": "Lincolnshire, IL",
+      "date": "2026-10-26",
+      "url": "https://applyguy.ai/jobs?company=zebra&job=dabf2c95-dcb3-4d50-a100-e29fc0ff23ad&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Product",
       "source": "ApplyGuy 2027 Internships",
       "score": 44,
@@ -1502,6 +1613,23 @@
       "url": "https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003/application?embed=true",
       "description": "Product",
       "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 42,
+      "reasons": [
+        "product match",
+        "Remote",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "Allstate",
+      "title": "Arity - Product Management Advertising Intern",
+      "location": "Remote, U.S.",
+      "date": "2026-10-21",
+      "url": "https://applyguy.ai/jobs?company=Allstate&job=fcb232a1-5067-40a7-b24e-205f9111bf91&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
       "score": 42,
       "reasons": [
         "product match",
@@ -1620,19 +1748,19 @@
       "category": "Corporate It"
     },
     {
-      "company": "The Toro Company",
-      "title": "IT Business Analyst Intern",
-      "location": "Perry, OK",
+      "company": "American Century Investments",
+      "title": "Systematic Credit Intern",
+      "location": "NYC",
       "date": "2026-10-13",
-      "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/IT-Business-Analyst-Intern---Ditch-Witch_JR17608",
-      "description": "AI/ML/Data",
+      "url": "https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/New-York-New-York/Systematic-Credit-Intern_R0005759",
+      "description": "Quant",
       "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 42,
+      "score": 40,
       "reasons": [
-        "analyst match",
-        "NEW: posted <=14 days"
+        "corporate it match",
+        "recent: posted <=30 days"
       ],
-      "category": "Analyst"
+      "category": "Corporate It"
     },
     {
       "company": "Astera Labs",
@@ -1641,6 +1769,21 @@
       "date": "2026-10-06",
       "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731409005",
       "description": "Hardware",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Azul Systems",
+      "title": "IT Intern \u2013 AI and Operations",
+      "location": "Sunnyvale, CA",
+      "date": "2026-10-13",
+      "url": "https://jobs.lever.co/azul/8f41ceaf-8835-4fc7-ba57-9384487d59db/apply",
+      "description": "AI/ML/Data",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 40,
       "reasons": [
@@ -1738,158 +1881,6 @@
         "recent: posted <=30 days"
       ],
       "category": "Corporate It"
-    },
-    {
-      "company": "C3.ai",
-      "title": "AI Product Manager Intern - Summer 2027",
-      "location": "Redwood City, CA",
-      "date": "2026-10-02",
-      "url": "https://c3.ai/job-description/8860563002?gh_jid=8860563002",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 38,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "recent: posted <=30 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "Electronic Arts",
-      "title": "Product Manager Intern",
-      "location": "LA",
-      "date": "2026-10-03",
-      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Product-Manager-Intern-MBA-Level-Summer-2027-Apex-Legends/216272",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 38,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "recent: posted <=30 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "Fiserv",
-      "title": "Technology Intern Program - Application Development",
-      "location": "Frisco, TX",
-      "date": "2026-03-13",
-      "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Frisco-Texas/Technology-Summer-Internship-Program---Application-Development--Frisco--TX-_R-10389522",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 38,
-      "reasons": [
-        "corporate it match",
-        "DFW / North Texas",
-        "SWE-heavy penalty"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Hewlett Packard",
-      "title": "Software Product Manager Intern",
-      "location": "Austin, TX, Fort Collins, CO",
-      "date": "2026-10-07",
-      "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Austin-Texas-United-States-of-America/Software-Product-Management-Intern_UNI4516-1",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 38,
-      "reasons": [
-        "product match",
-        "Texas",
-        "recent: posted <=30 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "Mohawk",
-      "title": "Product Management Intern",
-      "location": "Calhoun, GA",
-      "date": "2026-10-05",
-      "url": "https://careers.mohawkind.com/mohawk/job/Calhoun-Product-Management-Intern-Summer-2027-Geor-30701/1436568500/?ats=successfactors",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 38,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "recent: posted <=30 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "Pentair",
-      "title": "Product Management Leadership Development Internship Program - Summer 2027",
-      "location": "Golden Valley, MN",
-      "date": "2026-10-02",
-      "url": "https://applyguy.ai/jobs?company=Pentair&job=f1fb475a-6dd0-4b33-8b34-9266680c269d&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 38,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "recent: posted <=30 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "Philips",
-      "title": "Intern \u2013 Digital Healthtech Product Management \u2013 Bothell, WA \u2013 Summer 2027",
-      "location": "Bothell, WA",
-      "date": "2026-10-07",
-      "url": "https://applyguy.ai/jobs?company=Philips&job=09a6b78d-058f-448b-a9c3-bfd777bef03e&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 38,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "recent: posted <=30 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "PIMCO",
-      "title": "Software Engineering Intern - Technology Analyst",
-      "location": "Austin, TX",
-      "date": "2026-08-18",
-      "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 38,
-      "reasons": [
-        "analyst match",
-        "Texas",
-        "Summer 2027",
-        "SWE-heavy penalty"
-      ],
-      "category": "Analyst"
-    },
-    {
-      "company": "Synnex",
-      "title": "Summer 2027 Internship Program | Commercial, High Growth Track: \u2022 Sales \u2022 Marketing \u2022 Vendor Management \u2022 Business Development  \u2022 Product Management  \u2022 Data Analytics",
-      "location": "Greenville, SC",
-      "date": "2026-10-01",
-      "url": "https://applyguy.ai/jobs?company=Synnex&job=97edb332-9c35-4e30-bcac-135ce7307ae3&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 38,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "recent: posted <=30 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
     }
   ],
   "errors": []
