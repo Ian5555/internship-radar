@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T18:52:18.417391+00:00",
+  "generated_at": "2026-10-29T18:58:18.059616+00:00",
   "count": 120,
   "matches": [
     {
@@ -194,17 +194,17 @@
       "category": "Corporate It"
     },
     {
-      "company": "Humana",
-      "title": "Technology Intern - Society of Women Engineers Conference",
-      "location": "Louisville, KY",
-      "date": "2026-10-14",
-      "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027---Society-of-Women-Engineers-Conference-2026_R-433228",
+      "company": "Clean Harbors",
+      "title": "Software & Field Technology Intern IS",
+      "location": "Deer Park, TX",
+      "date": "2026-10-28",
+      "url": "https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167672",
       "description": "Software",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 64,
       "reasons": [
         "corporate it match",
-        "Summer 2027",
+        "Texas",
         "NEW: posted <=14 days"
       ],
       "category": "Corporate It"
@@ -221,6 +221,22 @@
       "reasons": [
         "corporate it match",
         "Texas",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "TD Bank",
+      "title": "Technology Intern",
+      "location": "Belfast, UK",
+      "date": "2026-10-28",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Belfast-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518241",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 64,
+      "reasons": [
+        "corporate it match",
+        "Summer 2027",
         "NEW: posted <=14 days"
       ],
       "category": "Corporate It"
@@ -346,6 +362,22 @@
       "location": "Sunnyvale, CA",
       "date": "2026-10-01",
       "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Summer-2027-Technology-Intern---Sunnyvale--CA_R39945",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 58,
+      "reasons": [
+        "corporate it match",
+        "Summer 2027",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Humana",
+      "title": "Technology Intern - Society of Women Engineers Conference",
+      "location": "Louisville, KY",
+      "date": "2026-10-14",
+      "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027---Society-of-Women-Engineers-Conference-2026_R-433228",
       "description": "Software",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 58,
@@ -944,6 +976,21 @@
       "category": "Product"
     },
     {
+      "company": "HP",
+      "title": "Software Quality Assurance Intern",
+      "location": "San Francisco, CA",
+      "date": "2026-10-28",
+      "url": "https://applyguy.ai/jobs?company=HP&job=9ba7c06a-36b0-4c90-823f-8a139fcd5f50&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Software Engineering",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 50,
+      "reasons": [
+        "qa testing match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Qa Testing"
+    },
+    {
       "company": "LabCorp",
       "title": "Financial Analytics & Technology Intern - Financial Analytics Team",
       "location": "Remote in USA",
@@ -1125,6 +1172,21 @@
       "category": "Product"
     },
     {
+      "company": "Adobe",
+      "title": "Technical Support Consultant Intern",
+      "location": "San Jose, CA",
+      "date": "2026-10-29",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Technical-Support-Consultant_R172785",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 46,
+      "reasons": [
+        "support ops match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Support Ops"
+    },
+    {
       "company": "Allstate",
       "title": "Technology Internship",
       "location": "Illinois",
@@ -1171,21 +1233,6 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
-    },
-    {
-      "company": "BP",
-      "title": "Subsurface Technology Intern",
-      "location": "Sunbury-on-Thames, UK",
-      "date": "2026-10-14",
-      "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-Kingdom---Sunbury/Summer-Internship---Subsurface-Technology---Reservoir-Engineering_RQ117086",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
     },
     {
       "company": "Cisco",
@@ -1327,51 +1374,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "Jain Global",
-      "title": "Compliance Technology Intern",
-      "location": "NYC",
-      "date": "2026-10-14",
-      "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Compliance-Technology-Intern_JR100607",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Marsh",
-      "title": "Finance Innovation & Technology Intern - Master's Finance Innovation & Technology",
-      "location": "NYC",
-      "date": "2026-10-14",
-      "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/New-York---1166/Summer-Intern--Master-s-Finance-Innovation---Technology--FIT---New-York--2027_R_369586",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Data Processing Developer Technology Intern",
-      "location": "Bristol, UK",
-      "date": "2026-10-14",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "Qorvo",
       "title": "Product Management Engineer Intern - High Performance Analog",
       "location": "Richardson, TX",
@@ -1386,6 +1388,21 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
+    },
+    {
+      "company": "Qube Research & Technologies",
+      "title": "Technology Intern",
+      "location": "Chicago, IL, NYC",
+      "date": "2026-10-26",
+      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8870423002",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 46,
+      "reasons": [
+        "corporate it match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Corporate It"
     },
     {
       "company": "Rheem",
@@ -1733,6 +1750,23 @@
       "category": "Analyst"
     },
     {
+      "company": "OneEthos",
+      "title": "Product Management Intern",
+      "location": "Remote in USA",
+      "date": "2026-10-21",
+      "url": "https://job-boards.greenhouse.io/oneethos/jobs/4459298009",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 42,
+      "reasons": [
+        "product match",
+        "Remote",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
       "company": "Procter & Gamble",
       "title": "Information Technology Intern",
       "location": "Weybridge, UK, Newcastle upon Tyne, UK, West Thurrock, Grays, UK",
@@ -1793,11 +1827,11 @@
       "category": "Corporate It"
     },
     {
-      "company": "Koch Industries",
-      "title": "Digital Technology & Data Intern",
-      "location": "Auburn Hills, MI",
-      "date": "2026-10-12",
-      "url": "https://koch.avature.net/en_US/careers/JobDetail/195465",
+      "company": "BP",
+      "title": "Subsurface Technology Intern",
+      "location": "Sunbury-on-Thames, UK",
+      "date": "2026-10-14",
+      "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-Kingdom---Sunbury/Summer-Internship---Subsurface-Technology---Reservoir-Engineering_RQ117086",
       "description": "AI/ML/Data",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 40,
@@ -1808,11 +1842,11 @@
       "category": "Corporate It"
     },
     {
-      "company": "Lawrence Livermore National Laboratory (LLNL)",
-      "title": "Defense Science and Technology Intern",
-      "location": "Livermore, CA",
-      "date": "2026-09-28",
-      "url": "https://jobs.smartrecruiters.com/LLNL/3743990015740565",
+      "company": "HPS Investment Partners",
+      "title": "Technology Intern - App Dev",
+      "location": "NYC",
+      "date": "2026-10-06",
+      "url": "https://job-boards.greenhouse.io/hpsinterns/jobs/4739898005",
       "description": "Software",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 40,
@@ -1823,26 +1857,11 @@
       "category": "Corporate It"
     },
     {
-      "company": "MetLife",
-      "title": "Global Technology Intern",
-      "location": "Tampa, FL, Hanover, NJ, Cary, NC, NYC",
-      "date": "2026-09-30",
-      "url": "https://metlife.avature.net/en_US/ml/JobDetail/20701",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 40,
-      "reasons": [
-        "corporate it match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "AI Developer Technology Intern",
-      "location": "Bristol, UK, Munich, Germany",
-      "date": "2026-10-08",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497",
+      "company": "HPS Investment Partners",
+      "title": "Technology Intern - IT Data & Analytics",
+      "location": "NYC",
+      "date": "2026-10-06",
+      "url": "https://job-boards.greenhouse.io/hpsinterns/jobs/4739903005",
       "description": "AI/ML/Data",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 40,
@@ -1853,26 +1872,11 @@
       "category": "Corporate It"
     },
     {
-      "company": "Realty Income",
-      "title": "Technology Intern",
-      "location": "San Diego, CA",
-      "date": "2026-10-12",
-      "url": "https://realtyincome.wd108.myworkdayjobs.com/realty_income_careers/job/San-Diego-California/Technology-Intern---Multiple-Opportunities_R-100339",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 40,
-      "reasons": [
-        "corporate it match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Wawa",
-      "title": "Information Technology Development Intern",
-      "location": "Media, PA",
-      "date": "2026-10-09",
-      "url": "https://wawa.wd1.myworkdayjobs.com/careers/job/WAWA---Wawa-Inc---Corporate-Office/Information-Technology-Development-Internship_JR122392",
+      "company": "Jain Global",
+      "title": "Compliance Technology Intern",
+      "location": "NYC",
+      "date": "2026-10-14",
+      "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Compliance-Technology-Intern_JR100607",
       "description": "Software",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 40,
