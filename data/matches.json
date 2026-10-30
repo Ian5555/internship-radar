@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T18:58:18.059616+00:00",
+  "generated_at": "2026-10-30T18:38:10.801204+00:00",
   "count": 120,
   "matches": [
     {
@@ -341,22 +341,6 @@
       "category": "Analyst"
     },
     {
-      "company": "Acuity",
-      "title": "Product Management Technology Intern",
-      "location": "Conyers, GA",
-      "date": "2026-09-29",
-      "url": "https://careers.acuityinc.com/job/Conyers-Intern-Product-Management-Technology-GA-30012/1435075400/?ats=successfactors",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 58,
-      "reasons": [
-        "corporate it match",
-        "product match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "CoStar Group",
       "title": "Technology Intern",
       "location": "Sunnyvale, CA",
@@ -625,6 +609,21 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
+    },
+    {
+      "company": "Acuity",
+      "title": "Product Management Technology Intern",
+      "location": "Conyers, GA",
+      "date": "2026-09-29",
+      "url": "https://careers.acuityinc.com/job/Conyers-Intern-Product-Management-Technology-GA-30012/1435075400/?ats=successfactors",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 52,
+      "reasons": [
+        "corporate it match",
+        "product match"
+      ],
+      "category": "Corporate It"
     },
     {
       "company": "American Express",
@@ -915,7 +914,7 @@
       "company": "Asml",
       "title": "Internship - Software Quality Assurance",
       "location": "San Jose, CA",
-      "date": "2026-10-24",
+      "date": "2026-10-23",
       "url": "https://applyguy.ai/jobs?company=Asml&job=c62b14d8-ff34-4cb0-80ed-1d552f8374ff&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Software Engineering",
       "source": "ApplyGuy 2027 Internships",
@@ -1054,7 +1053,7 @@
       "company": "Asml",
       "title": "Internship - Application Software QA Engineer",
       "location": "San Jose, CA",
-      "date": "2026-10-24",
+      "date": "2026-10-23",
       "url": "https://applyguy.ai/jobs?company=Asml&job=c24e7daa-dfab-456e-a529-b0e901c8283c&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Software Engineering",
       "source": "ApplyGuy 2027 Internships",
@@ -1267,21 +1266,6 @@
       "category": "Product"
     },
     {
-      "company": "CoverMyMeds",
-      "title": "CMM Technology Intern",
-      "location": "Columbus, OH",
-      "date": "2026-10-15",
-      "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/CoverMyMeds_External_Careers/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979-2",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "Digital Realty",
       "title": "Product Analyst Intern",
       "location": "Dallas, TX",
@@ -1296,21 +1280,6 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
-    },
-    {
-      "company": "Draper",
-      "title": "Integrated Circuit Intern",
-      "location": "Cambridge, MA",
-      "date": "2026-10-15",
-      "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Integrated-Circuits-Intern_JR003036",
-      "description": "Hardware",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
     },
     {
       "company": "Goldman Sachs",
@@ -1453,17 +1422,49 @@
       "category": "Product"
     },
     {
-      "company": "Blue Origin",
-      "title": "Terawave Product Management Intern - MBA",
-      "location": "Kent, WA",
-      "date": "2026-10-15",
-      "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Kent-WA/Summer-2027-Terawave-Product-Management-Internship---MBA_R74200",
+      "company": "Valeris",
+      "title": "IT Intern",
+      "location": "Kentucky",
+      "date": "2026-10-29",
+      "url": "https://valeris.wd108.myworkdayjobs.com/Valeris/job/Remote-Kentucky/Intern--IT_JR971",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 46,
+      "reasons": [
+        "corporate it match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Product Manager Intern",
+      "location": "Austin, TX",
+      "date": "2026-10-29",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8274790",
       "description": "Product",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 44,
       "reasons": [
         "product match",
-        "Summer 2027",
+        "Texas",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "Dell Technologies",
+      "title": "Product Management MBA Intern",
+      "location": "Santa Clara, CA, Round Rock, TX, Hopkinton, MA",
+      "date": "2026-10-29",
+      "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297775",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "product match",
+        "Texas",
         "NEW: posted <=14 days",
         "product secondary-lane penalty"
       ],
@@ -1508,7 +1509,7 @@
       "title": "Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027",
       "location": "Santa Clara, CA",
       "date": "2026-10-22",
-      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=ab8f936d-6a76-41da-9cf6-dd0725361fa9&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=ed0e176d-a3ac-4a66-a168-6cae64558cd8&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Product",
       "source": "ApplyGuy 2027 Internships",
       "score": 44,
@@ -1543,6 +1544,23 @@
       "location": "New York",
       "date": "2026-10-22",
       "url": "https://applyguy.ai/jobs?company=Patreon&job=16f79a09-784e-417a-9305-6a38370ebeb8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "Tmobile",
+      "title": "Summer 2027 Assoc Product Manager Internship",
+      "location": "Overland Park, KS",
+      "date": "2026-10-30",
+      "url": "https://applyguy.ai/jobs?company=Tmobile&job=dacf499e-9fa5-48e0-ae0f-7e8a2c063480&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Product",
       "source": "ApplyGuy 2027 Internships",
       "score": 44,
@@ -1842,11 +1860,11 @@
       "category": "Corporate It"
     },
     {
-      "company": "HPS Investment Partners",
-      "title": "Technology Intern - App Dev",
-      "location": "NYC",
-      "date": "2026-10-06",
-      "url": "https://job-boards.greenhouse.io/hpsinterns/jobs/4739898005",
+      "company": "CoverMyMeds",
+      "title": "CMM Technology Intern",
+      "location": "Columbus, OH",
+      "date": "2026-10-15",
+      "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/CoverMyMeds_External_Careers/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979-2",
       "description": "Software",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 40,
@@ -1857,27 +1875,12 @@
       "category": "Corporate It"
     },
     {
-      "company": "HPS Investment Partners",
-      "title": "Technology Intern - IT Data & Analytics",
-      "location": "NYC",
-      "date": "2026-10-06",
-      "url": "https://job-boards.greenhouse.io/hpsinterns/jobs/4739903005",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 40,
-      "reasons": [
-        "corporate it match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Jain Global",
-      "title": "Compliance Technology Intern",
-      "location": "NYC",
-      "date": "2026-10-14",
-      "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Compliance-Technology-Intern_JR100607",
-      "description": "Software",
+      "company": "Draper",
+      "title": "Integrated Circuit Intern",
+      "location": "Cambridge, MA",
+      "date": "2026-10-15",
+      "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Integrated-Circuits-Intern_JR003036",
+      "description": "Hardware",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 40,
       "reasons": [
