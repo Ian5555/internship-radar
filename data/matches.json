@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T17:44:49.385995+00:00",
+  "generated_at": "2026-11-01T18:25:55.404459+00:00",
   "count": 120,
   "matches": [
     {
@@ -340,22 +340,6 @@
       "category": "Analyst"
     },
     {
-      "company": "CoStar Group",
-      "title": "Technology Intern",
-      "location": "Sunnyvale, CA",
-      "date": "2026-10-01",
-      "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Summer-2027-Technology-Intern---Sunnyvale--CA_R39945",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 58,
-      "reasons": [
-        "corporate it match",
-        "Summer 2027",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "Humana",
       "title": "Technology Intern - Society of Women Engineers Conference",
       "location": "Louisville, KY",
@@ -673,6 +657,21 @@
       "date": "2026-09-02",
       "url": "https://corningjobs.corning.com/job/Corning-Digital-&-IT-Intern,-Analyst,-Agile-&-Product-Operations-Summer-2027-NY-14831/1425715600/?ats=successfactors",
       "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 52,
+      "reasons": [
+        "corporate it match",
+        "Summer 2027"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "CoStar Group",
+      "title": "Technology Intern",
+      "location": "Arlington County, Arlington, VA",
+      "date": "2026-09-14",
+      "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Arlington/Technology-Intern---Arlington--VA--Summer-2027-_R39666",
+      "description": "Software",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 52,
       "reasons": [
@@ -1505,7 +1504,7 @@
       "company": "HP",
       "title": "Product Management Intern",
       "location": "Spring, TX",
-      "date": "2026-10-31",
+      "date": "2026-10-30",
       "url": "https://applyguy.ai/jobs?company=HP&job=978587c8-7eb8-432c-9cc4-880d0697aedd&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Product",
       "source": "ApplyGuy 2027 Internships",
@@ -1573,7 +1572,7 @@
       "company": "Tmobile",
       "title": "Summer 2027 Assoc Product Manager Internship",
       "location": "Overland Park, KS",
-      "date": "2026-10-30",
+      "date": "2026-10-29",
       "url": "https://applyguy.ai/jobs?company=Tmobile&job=dacf499e-9fa5-48e0-ae0f-7e8a2c063480&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Product",
       "source": "ApplyGuy 2027 Internships",
@@ -1689,21 +1688,6 @@
       "category": "Product"
     },
     {
-      "company": "Cook Group",
-      "title": "Information Technology Intern - Artificial Intelligence",
-      "location": "Spencer, IN, Ellettsville, IN, Bloomington, IN",
-      "date": "2026-10-01",
-      "url": "https://americas-cookmedical.icims.com/jobs/19426/job?mobile=true&needsRedirect=false",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 42,
-      "reasons": [
-        "corporate it match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "Devon Energy",
       "title": "Technology Intern - Data Engineering",
       "location": "Houston, TX, Oklahoma City, OK",
@@ -1814,21 +1798,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "SAS",
-      "title": "Software Development and Testing Intern",
-      "location": "Cary, NC",
-      "date": "2026-10-01",
-      "url": "https://careers-sas.icims.com/jobs/42964/job?mobile=true&needsRedirect=false",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 42,
-      "reasons": [
-        "qa testing match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Qa Testing"
-    },
-    {
       "company": "Teamworks",
       "title": "Product Management MBA Intern",
       "location": "Remote, U.S.",
@@ -1882,6 +1851,36 @@
       "date": "2026-10-13",
       "url": "https://jobs.lever.co/azul/8f41ceaf-8835-4fc7-ba57-9384487d59db/apply",
       "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "BP",
+      "title": "Subsurface Technology Intern",
+      "location": "Sunbury-on-Thames, UK",
+      "date": "2026-10-14",
+      "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-Kingdom---Sunbury/Summer-Internship---Subsurface-Technology---Reservoir-Engineering_RQ117086",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "CoverMyMeds",
+      "title": "CMM Technology Intern",
+      "location": "Columbus, OH",
+      "date": "2026-10-15",
+      "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/CoverMyMeds_External_Careers/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979-2",
+      "description": "Software",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 40,
       "reasons": [
