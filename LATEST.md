@@ -1,6 +1,6 @@
 # Latest Internship Radar
 
-Last refreshed: **2026-11-01 18:25 UTC**
+Last refreshed: **2026-11-02 22:19 UTC**
 
 Strict Summer 2027 feed. DFW/North Texas, Texas, and remote roles receive location boosts; corporate IT, QA/testing, systems/support, analyst, IT risk/audit, and consulting roles outrank generic product/data roles.
 
@@ -119,12 +119,12 @@ Strict Summer 2027 feed. DFW/North Texas, Texas, and remote roles receive locati
 | **42** | DP World | Application Analyst Intern | Itasca, IL | Analyst | 2026-10-21 | NEW | [Apply](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27400) | SimplifyJobs Summer 2027 Internships |
 | **42** | National Information Solutions Cooperative (NISC) | Intern - Application Analyst (Financials Software) | Mandan, ND | Analyst | 2026-10-19 | NEW | [Apply](https://applyguy.ai/jobs?company=National+Information+Solutions+Cooperative+%28NISC%29&job=ffeba7c0-84fa-42c3-a858-14c10f742a95&utm_source=github&utm_medium=listing&utm_campaign=internships) | ApplyGuy 2027 Internships |
 | **42** | OneEthos | Product Management Intern | Remote in USA | Product | 2026-10-21 | NEW | [Apply](https://job-boards.greenhouse.io/oneethos/jobs/4459298009) | SimplifyJobs Summer 2027 Internships |
-| **42** | Procter & Gamble | Information Technology Intern | Weybridge, UK, Newcastle upon Tyne, UK, West Thurrock, Grays, UK | Corporate It | 2026-10-02 | Recent | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/NEWCASTLE-INNOVATION-CENTRE/Information-Technology-Industrial-Placement-2027_R000160019) | SimplifyJobs Summer 2027 Internships |
 | **42** | Teamworks | Product Management MBA Intern | Remote, U.S. | Product | 2026-10-30 | NEW | [Apply](https://applyguy.ai/jobs?company=Teamworks&job=0f7db5f9-6a38-4e17-8cb4-5fea643074a3&utm_source=github&utm_medium=listing&utm_campaign=internships) | ApplyGuy 2027 Internships |
 | **40** | American Century Investments | Systematic Credit Intern | NYC | Corporate It | 2026-10-13 | Recent | [Apply](https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/New-York-New-York/Systematic-Credit-Intern_R0005759) | SimplifyJobs Summer 2027 Internships |
 | **40** | Astera Labs | ATE Engineer Intern - Engineering Ops Technology Intern | San Jose, CA | Corporate It | 2026-10-06 | Recent | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731409005) | SimplifyJobs Summer 2027 Internships |
 | **40** | Azul Systems | IT Intern – AI and Operations | Sunnyvale, CA | Corporate It | 2026-10-13 | Recent | [Apply](https://jobs.lever.co/azul/8f41ceaf-8835-4fc7-ba57-9384487d59db/apply) | SimplifyJobs Summer 2027 Internships |
 | **40** | BP | Subsurface Technology Intern | Sunbury-on-Thames, UK | Corporate It | 2026-10-14 | Recent | [Apply](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-Kingdom---Sunbury/Summer-Internship---Subsurface-Technology---Reservoir-Engineering_RQ117086) | SimplifyJobs Summer 2027 Internships |
 | **40** | CoverMyMeds | CMM Technology Intern | Columbus, OH | Corporate It | 2026-10-15 | Recent | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/CoverMyMeds_External_Careers/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979-2) | SimplifyJobs Summer 2027 Internships |
+| **40** | Draper | Integrated Circuit Intern | Cambridge, MA | Corporate It | 2026-10-15 | Recent | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Integrated-Circuits-Intern_JR003036) | SimplifyJobs Summer 2027 Internships |
 
 > Discovery feed only. Verify that the employer posting is still open and that you meet its requirements before applying.
