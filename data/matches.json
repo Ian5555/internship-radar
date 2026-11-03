@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T22:19:52.853862+00:00",
+  "generated_at": "2026-11-03T20:07:36.541323+00:00",
   "count": 120,
   "matches": [
     {
@@ -290,24 +290,6 @@
       "category": "Product"
     },
     {
-      "company": "Amplify",
-      "title": "Summer 2027: Product Management Intern",
-      "location": "Remote, U.S.",
-      "date": "2026-10-19",
-      "url": "https://applyguy.ai/jobs?company=Amplify&job=fe39aa7b-b3e5-45d9-8105-c3ba4291355c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 60,
-      "reasons": [
-        "product match",
-        "Remote",
-        "Summer 2027",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
       "company": "Wing",
       "title": "Manufacturing Software Test Intern, Summer 2027",
       "location": "Palo Alto, CA",
@@ -383,6 +365,24 @@
       "reasons": [
         "product match",
         "Texas",
+        "Summer 2027",
+        "recent: posted <=30 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "Amplify",
+      "title": "Summer 2027: Product Management Intern",
+      "location": "Remote, U.S.",
+      "date": "2026-10-19",
+      "url": "https://applyguy.ai/jobs?company=Amplify&job=fe39aa7b-b3e5-45d9-8105-c3ba4291355c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 54,
+      "reasons": [
+        "product match",
+        "Remote",
         "Summer 2027",
         "recent: posted <=30 days",
         "product secondary-lane penalty"
@@ -1122,6 +1122,21 @@
       "category": "Qa Testing"
     },
     {
+      "company": "Marriott Vacations Worldwide",
+      "title": "Corporate Information Technology Intern",
+      "location": "Orlando, FL",
+      "date": "2026-11-02",
+      "url": "https://mymvw.wd5.myworkdayjobs.com/mvw/job/MVW-Headquarters/Corporate-Intern-Information-Technology_JR95562",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 48,
+      "reasons": [
+        "corporate it match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "Nationwide",
       "title": "Personal Lines Sales Business Analyst Intern",
       "location": "Columbus, OH",
@@ -1467,23 +1482,6 @@
       "category": "Product"
     },
     {
-      "company": "Elkay",
-      "title": "Product Management Intern - Summer 2027",
-      "location": "Downers Grove, IL",
-      "date": "2026-10-19",
-      "url": "https://applyguy.ai/jobs?company=Elkay&job=8ca84f74-49c8-4783-8b89-44d07f0e62be&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
       "company": "GoFundMe",
       "title": "MBA Product Management Internship, Summer 2027",
       "location": "San Francisco, CA",
@@ -1569,11 +1567,45 @@
       "category": "Product"
     },
     {
+      "company": "T-Mobile",
+      "title": "Product Management Intern",
+      "location": "Philadelphia, PA",
+      "date": "2026-11-02",
+      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-Product-Management-Internship_REQ380735",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
       "company": "Tmobile",
       "title": "Summer 2027 Assoc Product Manager Internship",
       "location": "Overland Park, KS",
       "date": "2026-10-29",
       "url": "https://applyguy.ai/jobs?company=Tmobile&job=dacf499e-9fa5-48e0-ae0f-7e8a2c063480&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "Tmobile",
+      "title": "Summer 2027 Product Management Internship",
+      "location": "Philadelphia, PA",
+      "date": "2026-11-03",
+      "url": "https://applyguy.ai/jobs?company=Tmobile&job=355a5351-a3b8-423e-9887-5f53f184e4ac&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Product",
       "source": "ApplyGuy 2027 Internships",
       "score": 44,
@@ -1751,21 +1783,6 @@
       "category": "Analyst"
     },
     {
-      "company": "National Information Solutions Cooperative (NISC)",
-      "title": "Intern - Application Analyst (Financials Software)",
-      "location": "Mandan, ND",
-      "date": "2026-10-19",
-      "url": "https://applyguy.ai/jobs?company=National+Information+Solutions+Cooperative+%28NISC%29&job=ffeba7c0-84fa-42c3-a858-14c10f742a95&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Software Engineering",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 42,
-      "reasons": [
-        "analyst match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Analyst"
-    },
-    {
       "company": "OneEthos",
       "title": "Product Management Intern",
       "location": "Remote in USA",
@@ -1866,21 +1883,6 @@
       "date": "2026-10-15",
       "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/CoverMyMeds_External_Careers/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979-2",
       "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 40,
-      "reasons": [
-        "corporate it match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Draper",
-      "title": "Integrated Circuit Intern",
-      "location": "Cambridge, MA",
-      "date": "2026-10-15",
-      "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Integrated-Circuits-Intern_JR003036",
-      "description": "Hardware",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 40,
       "reasons": [
