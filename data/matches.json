@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T20:25:57.587743+00:00",
+  "generated_at": "2026-11-05T20:40:53.381566+00:00",
   "count": 120,
   "matches": [
     {
@@ -70,6 +70,22 @@
       "category": "Corporate It"
     },
     {
+      "company": "Blackhawk Network Holdings",
+      "title": "Technology Intern",
+      "location": "Coppell, TX",
+      "date": "2026-11-05",
+      "url": "https://careers-blackhawknetwork.icims.com/jobs/26866/job?mobile=true&needsRedirect=false",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 78,
+      "reasons": [
+        "corporate it match",
+        "DFW / North Texas",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "Air Products",
       "title": "Information Technology/Digital Technology Intern - Infrastructure Services",
       "location": "Allentown, PA",
@@ -130,21 +146,6 @@
         "DFW / North Texas",
         "NEW: posted <=14 days",
         "generic data-role penalty"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Blackhawk Network Holdings",
-      "title": "Technology Intern",
-      "location": "Coppell, TX",
-      "date": "2026-08-31",
-      "url": "https://blackhawknetwork.jibeapply.com/jobs/26866?icims=1",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 66,
-      "reasons": [
-        "corporate it match",
-        "DFW / North Texas"
       ],
       "category": "Corporate It"
     },
@@ -304,22 +305,6 @@
         "recent: posted <=30 days"
       ],
       "category": "Qa Testing"
-    },
-    {
-      "company": "Zebra Technologies",
-      "title": "Business Analyst Intern",
-      "location": "Lincolnshire, IL",
-      "date": "2026-10-21",
-      "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Business-Analyst_JR103646",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 60,
-      "reasons": [
-        "analyst match",
-        "Summer 2027",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Analyst"
     },
     {
       "company": "Humana",
@@ -557,6 +542,22 @@
         "Summer 2027"
       ],
       "category": "Corporate It"
+    },
+    {
+      "company": "Zebra Technologies",
+      "title": "Business Analyst Intern",
+      "location": "Lincolnshire, IL",
+      "date": "2026-10-21",
+      "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Business-Analyst_JR103646",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 54,
+      "reasons": [
+        "analyst match",
+        "Summer 2027",
+        "recent: posted <=30 days"
+      ],
+      "category": "Analyst"
     },
     {
       "company": "7-Eleven",
@@ -1400,6 +1401,51 @@
       "category": "Corporate It"
     },
     {
+      "company": "Little Caesars Enterprises",
+      "title": "AI IT Intern",
+      "location": "Detroit, MI",
+      "date": "2026-11-05",
+      "url": "https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--AI-IT_R9675",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 46,
+      "reasons": [
+        "corporate it match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Little Caesars Enterprises",
+      "title": "Data IT Intern",
+      "location": "Detroit, MI",
+      "date": "2026-11-05",
+      "url": "https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--Data-IT_R9676",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 46,
+      "reasons": [
+        "corporate it match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Little Caesars Enterprises",
+      "title": "Developer IT Intern",
+      "location": "Detroit, MI",
+      "date": "2026-11-05",
+      "url": "https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--Developer-IT_R9677",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 46,
+      "reasons": [
+        "corporate it match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "Qorvo",
       "title": "Product Management Engineer Intern - High Performance Analog",
       "location": "Richardson, TX",
@@ -1527,23 +1573,6 @@
       "category": "Product"
     },
     {
-      "company": "GoFundMe",
-      "title": "MBA Product Management Internship, Summer 2027",
-      "location": "San Francisco, CA",
-      "date": "2026-10-21",
-      "url": "https://applyguy.ai/jobs?company=GoFundMe&job=16c43773-06b5-4f18-8439-1fc73c97d3fd&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
       "company": "HP",
       "title": "Product Management Intern",
       "location": "Spring, TX",
@@ -1555,23 +1584,6 @@
       "reasons": [
         "product match",
         "Texas",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027",
-      "location": "Santa Clara, CA",
-      "date": "2026-10-21",
-      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=ed0e176d-a3ac-4a66-a168-6cae64558cd8&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Summer 2027",
         "NEW: posted <=14 days",
         "product secondary-lane penalty"
       ],
@@ -1731,23 +1743,6 @@
       "category": "Product"
     },
     {
-      "company": "Allstate",
-      "title": "Arity - Product Management Advertising Intern",
-      "location": "Remote, U.S.",
-      "date": "2026-10-21",
-      "url": "https://applyguy.ai/jobs?company=Allstate&job=fcb232a1-5067-40a7-b24e-205f9111bf91&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 42,
-      "reasons": [
-        "product match",
-        "Remote",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
       "company": "Devon Energy",
       "title": "Technology Intern - Data Engineering",
       "location": "Houston, TX, Oklahoma City, OK",
@@ -1769,38 +1764,6 @@
       "location": "Remote in USA",
       "date": "2026-10-23",
       "url": "https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/Customer-Operations-Product-Management--MBA-Opportunity-_R260333",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 42,
-      "reasons": [
-        "product match",
-        "Remote",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "DP World",
-      "title": "Application Analyst Intern",
-      "location": "Itasca, IL",
-      "date": "2026-10-21",
-      "url": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27400",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 42,
-      "reasons": [
-        "analyst match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Analyst"
-    },
-    {
-      "company": "OneEthos",
-      "title": "Product Management Intern",
-      "location": "Remote in USA",
-      "date": "2026-10-21",
-      "url": "https://job-boards.greenhouse.io/oneethos/jobs/4459298009",
       "description": "Product",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 42,
@@ -1881,6 +1844,36 @@
       "date": "2026-10-14",
       "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-Kingdom---Sunbury/Summer-Internship---Subsurface-Technology---Reservoir-Engineering_RQ117086",
       "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "CoverMyMeds",
+      "title": "CMM Technology Intern",
+      "location": "Columbus, OH",
+      "date": "2026-10-15",
+      "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/CoverMyMeds_External_Careers/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979-2",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Draper",
+      "title": "Integrated Circuit Intern",
+      "location": "Cambridge, MA",
+      "date": "2026-10-15",
+      "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Integrated-Circuits-Intern_JR003036",
+      "description": "Hardware",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 40,
       "reasons": [
