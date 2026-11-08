@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T18:03:06.680776+00:00",
+  "generated_at": "2026-11-08T18:21:53.186613+00:00",
   "count": 120,
   "matches": [
     {
@@ -505,23 +505,6 @@
         "recent: posted <=30 days"
       ],
       "category": "Analyst"
-    },
-    {
-      "company": "7-Eleven",
-      "title": "Digital Product Manager Intern",
-      "location": "Irving, TX",
-      "date": "2026-10-08",
-      "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Digital-Product-Manager-Intern_R26_5991",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 52,
-      "reasons": [
-        "product match",
-        "DFW / North Texas",
-        "recent: posted <=30 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
     },
     {
       "company": "Acuity",
@@ -1199,6 +1182,22 @@
       "category": "Product"
     },
     {
+      "company": "7-Eleven",
+      "title": "Digital Product Manager Intern",
+      "location": "Irving, TX",
+      "date": "2026-10-08",
+      "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Digital-Product-Manager-Intern_R26_5991",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 46,
+      "reasons": [
+        "product match",
+        "DFW / North Texas",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
       "company": "Adobe",
       "title": "Technical Support Consultant Intern",
       "location": "San Jose, CA",
@@ -1788,8 +1787,8 @@
       "company": "Renesas Electronics",
       "title": "Memory Server System Testing Intern",
       "location": "San Jose, CA",
-      "date": "2026-10-08",
-      "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000154490303",
+      "date": "2026-10-22",
+      "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000157198610",
       "description": "Hardware",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 42,
