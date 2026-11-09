@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T18:21:53.186613+00:00",
+  "generated_at": "2026-11-09T22:59:27.201387+00:00",
   "count": 120,
   "matches": [
     {
@@ -1091,21 +1091,6 @@
       "category": "Analyst"
     },
     {
-      "company": "Intercontinental Exchange, Inc.",
-      "title": "Summer Internship Program 2027 - Software Development Engineer in Test Intern",
-      "location": "Atlanta, GA",
-      "date": "2026-10-25",
-      "url": "https://applyguy.ai/jobs?company=Intercontinental+Exchange%2C+Inc.&job=a48fdd86-6049-46ed-9653-88e019b20bcd&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Software Engineering",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 48,
-      "reasons": [
-        "qa testing match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Qa Testing"
-    },
-    {
       "company": "Keysight Technologies",
       "title": "Quality Engineer Intern",
       "location": "Roseville, CA",
@@ -1782,6 +1767,21 @@
         "generic data-role penalty"
       ],
       "category": "Corporate It"
+    },
+    {
+      "company": "Intercontinental Exchange, Inc.",
+      "title": "Summer Internship Program 2027 - Software Development Engineer in Test Intern",
+      "location": "Atlanta, GA",
+      "date": "2026-10-25",
+      "url": "https://applyguy.ai/jobs?company=Intercontinental+Exchange%2C+Inc.&job=a48fdd86-6049-46ed-9653-88e019b20bcd&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Software Engineering",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 42,
+      "reasons": [
+        "qa testing match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Qa Testing"
     },
     {
       "company": "Renesas Electronics",

@@ -1,6 +1,6 @@
 # Latest Internship Radar
 
-Last refreshed: **2026-11-08 18:21 UTC**
+Last refreshed: **2026-11-09 22:59 UTC**
 
 Strict Summer 2027 feed. DFW/North Texas, Texas, and remote roles receive location boosts; corporate IT, QA/testing, systems/support, analyst, IT risk/audit, and consulting roles outrank generic product/data roles.
 
@@ -76,7 +76,6 @@ Strict Summer 2027 feed. DFW/North Texas, Texas, and remote roles receive locati
 | **48** | CVS Health | Innovation & Technology Internship - Data Science | NYC | Corporate It | 2026-10-22 | Recent | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Graduate-_R1081038) | SimplifyJobs Summer 2027 Internships |
 | **48** | Enovation Controls | Manufacturing Engineering Test Intern | Tulsa, OK | Qa Testing | 2026-11-06 | NEW | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648371) | SimplifyJobs Summer 2027 Internships |
 | **48** | First National Bank | Systems Analyst Intern - Consumer and Commercial Banking Technology | Pittsburgh, PA | Analyst | 2026-09-01 | — | [Apply](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-Systems-Analyst-Intern_2026-02021) | SimplifyJobs Summer 2027 Internships |
-| **48** | Intercontinental Exchange, Inc. | Summer Internship Program 2027 - Software Development Engineer in Test Intern | Atlanta, GA | Qa Testing | 2026-10-25 | NEW | [Apply](https://applyguy.ai/jobs?company=Intercontinental+Exchange%2C+Inc.&job=a48fdd86-6049-46ed-9653-88e019b20bcd&utm_source=github&utm_medium=listing&utm_campaign=internships) | ApplyGuy 2027 Internships |
 | **48** | Keysight Technologies | Quality Engineer Intern | Roseville, CA | Qa Testing | 2026-10-30 | NEW | [Apply](https://jobs.keysight.com/jobs/54736?icims=1) | SimplifyJobs Summer 2027 Internships |
 | **48** | Marriott Vacations Worldwide | Corporate Information Technology Intern | Orlando, FL | Corporate It | 2026-11-02 | NEW | [Apply](https://mymvw.wd5.myworkdayjobs.com/mvw/job/MVW-Headquarters/Corporate-Intern-Information-Technology_JR95562) | SimplifyJobs Summer 2027 Internships |
 | **48** | Nationwide | Personal Lines Sales Business Analyst Intern | Columbus, OH | Analyst | 2026-09-04 | — | [Apply](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Summer-2027-Personal-Lines-Sales-Business-Analyst-Intern_100038) | SimplifyJobs Summer 2027 Internships |
@@ -120,6 +119,7 @@ Strict Summer 2027 feed. DFW/North Texas, Texas, and remote roles receive locati
 | **44** | Zebra Technologies | Product Management Intern | Lincolnshire, IL | Product | 2026-10-26 | NEW | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652) | SimplifyJobs Summer 2027 Internships |
 | **42** | Asml | Internship - Application Software QA Engineer | San Jose, CA | Qa Testing | 2026-10-23 | Recent | [Apply](https://applyguy.ai/jobs?company=Asml&job=c24e7daa-dfab-456e-a529-b0e901c8283c&utm_source=github&utm_medium=listing&utm_campaign=internships) | ApplyGuy 2027 Internships |
 | **42** | Devon Energy | Technology Intern - Data Engineering | Houston, TX, Oklahoma City, OK | Corporate It | 2026-08-20 | — | [Apply](https://wd5.myworkdaysite.com/en-US/recruiting/devonenergy/Careers/job/Oklahoma-City-OK/Technology-Summer-Intern-2027_R26264-1) | SimplifyJobs Summer 2027 Internships |
+| **42** | Intercontinental Exchange, Inc. | Summer Internship Program 2027 - Software Development Engineer in Test Intern | Atlanta, GA | Qa Testing | 2026-10-25 | Recent | [Apply](https://applyguy.ai/jobs?company=Intercontinental+Exchange%2C+Inc.&job=a48fdd86-6049-46ed-9653-88e019b20bcd&utm_source=github&utm_medium=listing&utm_campaign=internships) | ApplyGuy 2027 Internships |
 | **42** | Renesas Electronics | Memory Server System Testing Intern | San Jose, CA | Qa Testing | 2026-10-22 | Recent | [Apply](https://jobs.smartrecruiters.com/RenesasElectronics/744000157198610) | SimplifyJobs Summer 2027 Internships |
 | **42** | Teamworks | Product Management MBA Intern | Remote, U.S. | Product | 2026-10-30 | NEW | [Apply](https://applyguy.ai/jobs?company=Teamworks&job=0f7db5f9-6a38-4e17-8cb4-5fea643074a3&utm_source=github&utm_medium=listing&utm_campaign=internships) | ApplyGuy 2027 Internships |
 | **40** | Amazon | Technical Product Manager Intern | Seattle, WA, Arlington County, Arlington, VA | Product | 2026-10-23 | Recent | [Apply](https://amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027) | SimplifyJobs Summer 2027 Internships |
