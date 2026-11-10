@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T22:59:27.201387+00:00",
+  "generated_at": "2026-11-10T20:28:13.399929+00:00",
   "count": 120,
   "matches": [
     {
@@ -16,24 +16,6 @@
         "DFW / North Texas",
         "Summer 2027",
         "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "CVS Health",
-      "title": "Innovation & Technology Intern - Data Engineering",
-      "location": "Irving, TX",
-      "date": "2026-10-26",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Undergraduate-_R1084831-1",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 86,
-      "reasons": [
-        "corporate it match",
-        "DFW / North Texas",
-        "Summer 2027",
-        "NEW: posted <=14 days",
-        "generic data-role penalty"
       ],
       "category": "Corporate It"
     },
@@ -66,6 +48,24 @@
         "corporate it match",
         "DFW / North Texas",
         "Summer 2027"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "CVS Health",
+      "title": "Innovation & Technology Intern - Data Engineering",
+      "location": "Irving, TX",
+      "date": "2026-10-26",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Undergraduate-_R1084831-1",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 80,
+      "reasons": [
+        "corporate it match",
+        "DFW / North Texas",
+        "Summer 2027",
+        "recent: posted <=30 days",
+        "generic data-role penalty"
       ],
       "category": "Corporate It"
     },
@@ -113,23 +113,6 @@
         "corporate it match",
         "Texas",
         "Summer 2027"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Wells Fargo",
-      "title": "Technology Intern - Early Careers - Data Engineering",
-      "location": "Iselin, Woodbridge Township, NJ, Charlotte, NC, Irving, TX",
-      "date": "2026-10-26",
-      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Data-Engineering-_R-583066",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 68,
-      "reasons": [
-        "corporate it match",
-        "DFW / North Texas",
-        "NEW: posted <=14 days",
-        "generic data-role penalty"
       ],
       "category": "Corporate It"
     },
@@ -210,6 +193,22 @@
       "category": "Corporate It"
     },
     {
+      "company": "Constellation Brands",
+      "title": "IT Intern - Marketing Technology Product Management",
+      "location": "Rochester, NY, Chicago, IL",
+      "date": "2026-11-09",
+      "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--IT---Marketing-Technology-Product-Management_R-41678",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 64,
+      "reasons": [
+        "corporate it match",
+        "product match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "TD Bank",
       "title": "Technology Intern",
       "location": "Belfast, UK",
@@ -254,6 +253,23 @@
         "DFW / North Texas"
       ],
       "category": "Analyst"
+    },
+    {
+      "company": "Wells Fargo",
+      "title": "Technology Intern - Early Careers - Data Engineering",
+      "location": "Iselin, Woodbridge Township, NJ, Charlotte, NC, Irving, TX",
+      "date": "2026-10-26",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Data-Engineering-_R-583066",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 62,
+      "reasons": [
+        "corporate it match",
+        "DFW / North Texas",
+        "recent: posted <=30 days",
+        "generic data-role penalty"
+      ],
+      "category": "Corporate It"
     },
     {
       "company": "Wing",
@@ -1383,6 +1399,21 @@
       "category": "Analyst"
     },
     {
+      "company": "J.M. Smucker",
+      "title": "Finance Technology Intern",
+      "location": "Orrville, OH",
+      "date": "2026-11-09",
+      "url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Finance-Technology-Intern--Summer-2027_116135",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 46,
+      "reasons": [
+        "corporate it match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "Life Fitness",
       "title": "IT Intern",
       "location": "Rosemont, IL",
@@ -1457,21 +1488,6 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
-    },
-    {
-      "company": "Qube Research & Technologies",
-      "title": "Technology Intern",
-      "location": "Chicago, IL, NYC",
-      "date": "2026-10-26",
-      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8870423002",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
     },
     {
       "company": "Rheem",
@@ -1602,6 +1618,40 @@
       "category": "Product"
     },
     {
+      "company": "NVIDIA",
+      "title": "Product Management Space Compute MBA Intern - Summer 2027",
+      "location": "Santa Clara, CA",
+      "date": "2026-11-10",
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=52168f6d-2e1d-4928-bc6a-51a8cf4d4ec8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "Rubrik Job Board",
+      "title": "Product Management Intern (RCV), Summer 2027",
+      "location": "Palo Alto, CA",
+      "date": "2026-11-10",
+      "url": "https://applyguy.ai/jobs?company=Rubrik+Job+Board&job=775ab20b-04bd-4939-9bcd-a99f91ae35e4&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
       "company": "Salesforce",
       "title": "Product Management Intern - Product Management",
       "location": "SF, NYC",
@@ -1694,40 +1744,6 @@
       "url": "https://applyguy.ai/jobs?company=Visa&job=622de105-0e2c-4b33-ac3a-f4e9df58add1&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Product",
       "source": "ApplyGuy 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "zebra",
-      "title": "2027 Summer Internship (US) - Product Management",
-      "location": "Lincolnshire, IL",
-      "date": "2026-10-26",
-      "url": "https://applyguy.ai/jobs?company=zebra&job=dabf2c95-dcb3-4d50-a100-e29fc0ff23ad&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "Zebra Technologies",
-      "title": "Product Management Intern",
-      "location": "Lincolnshire, IL",
-      "date": "2026-10-26",
-      "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
       "score": 44,
       "reasons": [
         "product match",
@@ -1853,21 +1869,6 @@
       "location": "Sunnyvale, CA",
       "date": "2026-10-13",
       "url": "https://jobs.lever.co/azul/8f41ceaf-8835-4fc7-ba57-9384487d59db/apply",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 40,
-      "reasons": [
-        "corporate it match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "BP",
-      "title": "Subsurface Technology Intern",
-      "location": "Sunbury-on-Thames, UK",
-      "date": "2026-10-14",
-      "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-Kingdom---Sunbury/Summer-Internship---Subsurface-Technology---Reservoir-Engineering_RQ117086",
       "description": "AI/ML/Data",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 40,
