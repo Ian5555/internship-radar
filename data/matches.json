@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T20:28:13.399929+00:00",
+  "generated_at": "2026-11-11T20:12:14.353717+00:00",
   "count": 120,
   "matches": [
     {
@@ -183,6 +183,22 @@
       "date": "2026-10-28",
       "url": "https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167672",
       "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 64,
+      "reasons": [
+        "corporate it match",
+        "Texas",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Constellation Brands",
+      "title": "Digital Manufacturing Technology Intern",
+      "location": "Rochester, NY, San Antonio, TX",
+      "date": "2026-11-10",
+      "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/San-Antonio-Texas/Intern--Digital-Manufacturing-Technology_R-41681",
+      "description": "Product",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 64,
       "reasons": [
@@ -1214,12 +1230,12 @@
       "category": "Support Ops"
     },
     {
-      "company": "Allstate",
-      "title": "Technology Internship",
-      "location": "Illinois",
-      "date": "2026-10-27",
-      "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Allstate-Technology-Solutions-Internship---Summer-2027_R36378",
-      "description": "Product",
+      "company": "Allen Lund Company",
+      "title": "Customer Service Systems and Process Audit Intern",
+      "location": "Orlando, FL",
+      "date": "2026-11-10",
+      "url": "https://allenlundcompany.applytojob.com/apply/At334EGZh0/Customer-Service-Systems-Intern",
+      "description": "AI/ML/Data",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 46,
       "reasons": [
@@ -1367,21 +1383,6 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
-    },
-    {
-      "company": "Great American Insurance Company",
-      "title": "Emerging Technology Intern",
-      "location": "Cincinnati, OH",
-      "date": "2026-10-27",
-      "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Emerging-Technology-Intern---Summer-2027_R9801",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
     },
     {
       "company": "Grow Financial Federal Credit Union",
@@ -1622,7 +1623,7 @@
       "title": "Product Management Space Compute MBA Intern - Summer 2027",
       "location": "Santa Clara, CA",
       "date": "2026-11-10",
-      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=52168f6d-2e1d-4928-bc6a-51a8cf4d4ec8&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=d2ef43a6-13bb-45ca-8e3a-5259d2863254&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Product",
       "source": "ApplyGuy 2027 Internships",
       "score": 44,
@@ -1737,23 +1738,6 @@
       "category": "Product"
     },
     {
-      "company": "Visa",
-      "title": "Product Management Intern, Data and AI Team - Summer 2027",
-      "location": "Foster City, CA",
-      "date": "2026-10-27",
-      "url": "https://applyguy.ai/jobs?company=Visa&job=622de105-0e2c-4b33-ac3a-f4e9df58add1&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
       "company": "Asml",
       "title": "Internship - Application Software QA Engineer",
       "location": "San Jose, CA",
@@ -1767,6 +1751,23 @@
         "recent: posted <=30 days"
       ],
       "category": "Qa Testing"
+    },
+    {
+      "company": "Bask Health",
+      "title": "Product Management Intern",
+      "location": "Remote in USA",
+      "date": "2026-11-11",
+      "url": "https://apply.workable.com/bask-health-1/j/AAE5145A49/apply",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 42,
+      "reasons": [
+        "product match",
+        "Remote",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
     },
     {
       "company": "Devon Energy",
@@ -1832,6 +1833,21 @@
       "category": "Product"
     },
     {
+      "company": "Allstate",
+      "title": "Technology Internship",
+      "location": "Illinois",
+      "date": "2026-10-27",
+      "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Allstate-Technology-Solutions-Internship---Summer-2027_R36378",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "Amazon",
       "title": "Technical Product Manager Intern",
       "location": "Seattle, WA, Arlington County, Arlington, VA",
@@ -1855,21 +1871,6 @@
       "date": "2026-10-13",
       "url": "https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/New-York-New-York/Systematic-Credit-Intern_R0005759",
       "description": "Quant",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 40,
-      "reasons": [
-        "corporate it match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Azul Systems",
-      "title": "IT Intern \u2013 AI and Operations",
-      "location": "Sunnyvale, CA",
-      "date": "2026-10-13",
-      "url": "https://jobs.lever.co/azul/8f41ceaf-8835-4fc7-ba57-9384487d59db/apply",
-      "description": "AI/ML/Data",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 40,
       "reasons": [
