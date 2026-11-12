@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T20:12:14.353717+00:00",
+  "generated_at": "2026-11-12T20:50:09.214770+00:00",
   "count": 120,
   "matches": [
     {
@@ -177,22 +177,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "Clean Harbors",
-      "title": "Software & Field Technology Intern IS",
-      "location": "Deer Park, TX",
-      "date": "2026-10-28",
-      "url": "https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167672",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 64,
-      "reasons": [
-        "corporate it match",
-        "Texas",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "Constellation Brands",
       "title": "Digital Manufacturing Technology Intern",
       "location": "Rochester, NY, San Antonio, TX",
@@ -220,22 +204,6 @@
       "reasons": [
         "corporate it match",
         "product match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "TD Bank",
-      "title": "Technology Intern",
-      "location": "Belfast, UK",
-      "date": "2026-10-28",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Belfast-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518241",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 64,
-      "reasons": [
-        "corporate it match",
-        "Summer 2027",
         "NEW: posted <=14 days"
       ],
       "category": "Corporate It"
@@ -304,6 +272,22 @@
       "category": "Qa Testing"
     },
     {
+      "company": "Clean Harbors",
+      "title": "Software & Field Technology Intern IS",
+      "location": "Deer Park, TX",
+      "date": "2026-10-28",
+      "url": "https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167672",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 58,
+      "reasons": [
+        "corporate it match",
+        "Texas",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "Humana",
       "title": "Technology Intern - Society of Women Engineers Conference",
       "location": "Louisville, KY",
@@ -331,6 +315,22 @@
       "reasons": [
         "corporate it match",
         "Texas",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "TD Bank",
+      "title": "Technology Intern",
+      "location": "Belfast, UK",
+      "date": "2026-10-28",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Belfast-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518241",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 58,
+      "reasons": [
+        "corporate it match",
+        "Summer 2027",
         "recent: posted <=30 days"
       ],
       "category": "Corporate It"
@@ -920,21 +920,6 @@
       "category": "Product"
     },
     {
-      "company": "HP",
-      "title": "Software Quality Assurance Intern",
-      "location": "San Francisco, CA",
-      "date": "2026-10-28",
-      "url": "https://applyguy.ai/jobs?company=HP&job=9ba7c06a-36b0-4c90-823f-8a139fcd5f50&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Software Engineering",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 50,
-      "reasons": [
-        "qa testing match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Qa Testing"
-    },
-    {
       "company": "L.L.Bean",
       "title": "Business Analyst/Data Analyst Intern",
       "location": "Freeport, ME",
@@ -965,6 +950,21 @@
         "Remote"
       ],
       "category": "Corporate It"
+    },
+    {
+      "company": "Minitab",
+      "title": "Software Quality Engineer Intern",
+      "location": "State College, PA",
+      "date": "2026-11-11",
+      "url": "https://applyguy.ai/jobs?company=Minitab&job=0347ed6e-f455-41e6-8cc8-5e576b01bb9c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Software Engineering",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 50,
+      "reasons": [
+        "qa testing match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Qa Testing"
     },
     {
       "company": "Netwrix",
@@ -1260,6 +1260,21 @@
       "category": "Corporate It"
     },
     {
+      "company": "Arcesium",
+      "title": "Technology Operations Intern",
+      "location": "NYC",
+      "date": "2026-11-11",
+      "url": "https://job-boards.greenhouse.io/arcesiumllc/jobs/5257251007",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 46,
+      "reasons": [
+        "support ops match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Support Ops"
+    },
+    {
       "company": "Arch Capital Group",
       "title": "Originations Portal IT Intern",
       "location": "Greensboro, NC",
@@ -1553,6 +1568,23 @@
       "category": "Corporate It"
     },
     {
+      "company": "apexanalytix",
+      "title": "Product Management Intern (Summer 2027)",
+      "location": "Greensboro, NC",
+      "date": "2026-11-11",
+      "url": "https://applyguy.ai/jobs?company=apexanalytix&job=cf5e275f-43f3-4e88-8dd7-fd236d39a7dd&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
       "company": "Asml",
       "title": "Internship - Software Quality Assurance",
       "location": "San Jose, CA",
@@ -1619,11 +1651,43 @@
       "category": "Product"
     },
     {
+      "company": "HP",
+      "title": "Software Quality Assurance Intern",
+      "location": "San Francisco, CA",
+      "date": "2026-10-28",
+      "url": "https://applyguy.ai/jobs?company=HP&job=9ba7c06a-36b0-4c90-823f-8a139fcd5f50&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Software Engineering",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "qa testing match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Qa Testing"
+    },
+    {
       "company": "NVIDIA",
       "title": "Product Management Space Compute MBA Intern - Summer 2027",
       "location": "Santa Clara, CA",
-      "date": "2026-11-10",
+      "date": "2026-11-09",
       "url": "https://applyguy.ai/jobs?company=NVIDIA&job=d2ef43a6-13bb-45ca-8e3a-5259d2863254&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "Rubrik Job Board",
+      "title": "Product Management Intern (MSP), Summer 2027",
+      "location": "Palo Alto, CA",
+      "date": "2026-11-11",
+      "url": "https://applyguy.ai/jobs?company=Rubrik+Job+Board&job=0e2f13eb-792d-473a-94e6-cceb9a679ccb&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Product",
       "source": "ApplyGuy 2027 Internships",
       "score": 44,
@@ -1814,70 +1878,6 @@
         "recent: posted <=30 days"
       ],
       "category": "Qa Testing"
-    },
-    {
-      "company": "Teamworks",
-      "title": "Product Management MBA Intern",
-      "location": "Remote, U.S.",
-      "date": "2026-10-30",
-      "url": "https://applyguy.ai/jobs?company=Teamworks&job=0f7db5f9-6a38-4e17-8cb4-5fea643074a3&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 42,
-      "reasons": [
-        "product match",
-        "Remote",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "Allstate",
-      "title": "Technology Internship",
-      "location": "Illinois",
-      "date": "2026-10-27",
-      "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Allstate-Technology-Solutions-Internship---Summer-2027_R36378",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 40,
-      "reasons": [
-        "corporate it match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Amazon",
-      "title": "Technical Product Manager Intern",
-      "location": "Seattle, WA, Arlington County, Arlington, VA",
-      "date": "2026-10-23",
-      "url": "https://amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 40,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "recent: posted <=30 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "American Century Investments",
-      "title": "Systematic Credit Intern",
-      "location": "NYC",
-      "date": "2026-10-13",
-      "url": "https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/New-York-New-York/Systematic-Credit-Intern_R0005759",
-      "description": "Quant",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 40,
-      "reasons": [
-        "corporate it match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
     }
   ],
   "errors": []
