@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T20:50:09.214770+00:00",
+  "generated_at": "2026-11-13T20:29:36.790699+00:00",
   "count": 120,
   "matches": [
     {
@@ -84,6 +84,23 @@
         "NEW: posted <=14 days"
       ],
       "category": "Corporate It"
+    },
+    {
+      "company": "CareSource",
+      "title": "Clinical Operations Business Analyst Intern",
+      "location": "Remote in USA",
+      "date": "2026-11-12",
+      "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Clinical-Operations-Business-Analyst_R14353",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 76,
+      "reasons": [
+        "analyst match",
+        "Remote",
+        "Summer 2027",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Analyst"
     },
     {
       "company": "Air Products",
@@ -177,6 +194,22 @@
       "category": "Corporate It"
     },
     {
+      "company": "Cardinal Health",
+      "title": "Technology Intern",
+      "location": "Dublin, OH",
+      "date": "2026-11-12",
+      "url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Technology-Internship--Summer-2027-_20189610-1",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 64,
+      "reasons": [
+        "corporate it match",
+        "Summer 2027",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "Constellation Brands",
       "title": "Digital Manufacturing Technology Intern",
       "location": "Rochester, NY, San Antonio, TX",
@@ -254,22 +287,6 @@
         "generic data-role penalty"
       ],
       "category": "Corporate It"
-    },
-    {
-      "company": "Wing",
-      "title": "Manufacturing Software Test Intern, Summer 2027",
-      "location": "Palo Alto, CA",
-      "date": "2026-10-13",
-      "url": "https://applyguy.ai/jobs?company=Wing&job=47a9b4d1-5a0c-49a9-a2fa-86afa32c48a3&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Software Engineering",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 60,
-      "reasons": [
-        "qa testing match",
-        "Summer 2027",
-        "recent: posted <=30 days"
-      ],
-      "category": "Qa Testing"
     },
     {
       "company": "Clean Harbors",
@@ -997,21 +1014,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "Stewart",
-      "title": "Business Systems Analyst Intern",
-      "location": "Houston, TX",
-      "date": "2026-03-17",
-      "url": "https://stewart.wd1.myworkdayjobs.com/External/job/USA-TX-Houston---1360-Post-Oak-Blvd/Business-Systems-Analyst-Intern_INTERN166-1",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 50,
-      "reasons": [
-        "analyst match",
-        "Texas"
-      ],
-      "category": "Analyst"
-    },
-    {
       "company": "Assurant",
       "title": "Product Analyst Intern - Housing",
       "location": "Remote in USA",
@@ -1213,21 +1215,6 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
-    },
-    {
-      "company": "Adobe",
-      "title": "Technical Support Consultant Intern",
-      "location": "San Jose, CA",
-      "date": "2026-10-29",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Technical-Support-Consultant_R172785",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "support ops match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Support Ops"
     },
     {
       "company": "Allen Lund Company",
@@ -1553,21 +1540,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "Valeris",
-      "title": "IT Intern",
-      "location": "Kentucky",
-      "date": "2026-10-29",
-      "url": "https://valeris.wd108.myworkdayjobs.com/Valeris/job/Remote-Kentucky/Intern--IT_JR971",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "apexanalytix",
       "title": "Product Management Intern (Summer 2027)",
       "location": "Greensboro, NC",
@@ -1598,40 +1570,6 @@
         "recent: posted <=30 days"
       ],
       "category": "Qa Testing"
-    },
-    {
-      "company": "Cloudflare",
-      "title": "Product Manager Intern",
-      "location": "Austin, TX",
-      "date": "2026-10-29",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8274790",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Texas",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "Dell Technologies",
-      "title": "Product Management MBA Intern",
-      "location": "Santa Clara, CA, Round Rock, TX, Hopkinton, MA",
-      "date": "2026-10-29",
-      "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297775",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Texas",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
     },
     {
       "company": "HP",
@@ -1769,23 +1707,6 @@
     },
     {
       "company": "Tmobile",
-      "title": "Summer 2027 Assoc Product Manager Internship",
-      "location": "Overland Park, KS",
-      "date": "2026-10-29",
-      "url": "https://applyguy.ai/jobs?company=Tmobile&job=dacf499e-9fa5-48e0-ae0f-7e8a2c063480&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "Tmobile",
       "title": "Summer 2027 Product Management Internship",
       "location": "Philadelphia, PA",
       "date": "2026-11-02",
@@ -1878,6 +1799,85 @@
         "recent: posted <=30 days"
       ],
       "category": "Qa Testing"
+    },
+    {
+      "company": "Stratolaunch",
+      "title": "Business Intelligence & Systems Analyst Intern",
+      "location": "Mojave, CA",
+      "date": "2026-11-12",
+      "url": "https://job-boards.greenhouse.io/stratolaunch/jobs/5480612008",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 42,
+      "reasons": [
+        "analyst match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Analyst"
+    },
+    {
+      "company": "Teamworks",
+      "title": "Product Management MBA Intern",
+      "location": "Remote, U.S.",
+      "date": "2026-10-30",
+      "url": "https://applyguy.ai/jobs?company=Teamworks&job=0f7db5f9-6a38-4e17-8cb4-5fea643074a3&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 42,
+      "reasons": [
+        "product match",
+        "Remote",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "Adobe",
+      "title": "Technical Support Consultant Intern",
+      "location": "San Jose, CA",
+      "date": "2026-10-29",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Technical-Support-Consultant_R172785",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "support ops match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Support Ops"
+    },
+    {
+      "company": "Allstate",
+      "title": "Technology Internship",
+      "location": "Illinois",
+      "date": "2026-10-27",
+      "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Allstate-Technology-Solutions-Internship---Summer-2027_R36378",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Amazon",
+      "title": "Technical Product Manager Intern",
+      "location": "Seattle, WA, Arlington County, Arlington, VA",
+      "date": "2026-10-23",
+      "url": "https://amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "recent: posted <=30 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
     }
   ],
   "errors": []
