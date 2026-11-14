@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T20:29:36.790699+00:00",
+  "generated_at": "2026-11-14T18:44:29.500945+00:00",
   "count": 120,
   "matches": [
     {
@@ -300,22 +300,6 @@
       "reasons": [
         "corporate it match",
         "Texas",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Humana",
-      "title": "Technology Intern - Society of Women Engineers Conference",
-      "location": "Louisville, KY",
-      "date": "2026-10-14",
-      "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027---Society-of-Women-Engineers-Conference-2026_R-433228",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 58,
-      "reasons": [
-        "corporate it match",
-        "Summer 2027",
         "recent: posted <=30 days"
       ],
       "category": "Corporate It"
@@ -751,6 +735,21 @@
       "category": "Corporate It"
     },
     {
+      "company": "Humana",
+      "title": "Technology Intern - Society of Women Engineers Conference",
+      "location": "Louisville, KY",
+      "date": "2026-10-14",
+      "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027---Society-of-Women-Engineers-Conference-2026_R-433228",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 52,
+      "reasons": [
+        "corporate it match",
+        "Summer 2027"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "Johnson & Johnson",
       "title": "Technology Intern - Technology LDP",
       "location": "West Chester, PA, Horsham, PA, Spring House, PA, New Brunswick, NJ, Irvine, CA, Raritan, NJ, Santa Clara, CA, Hopewell Township, NJ, Fort Washington, PA, Jacksonville, FL, Palm Beach Gardens, FL",
@@ -1125,21 +1124,6 @@
       "category": "Analyst"
     },
     {
-      "company": "Keysight Technologies",
-      "title": "Quality Engineer Intern",
-      "location": "Roseville, CA",
-      "date": "2026-10-30",
-      "url": "https://jobs.keysight.com/jobs/54736?icims=1",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 48,
-      "reasons": [
-        "qa testing match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Qa Testing"
-    },
-    {
       "company": "Marriott Vacations Worldwide",
       "title": "Corporate Information Technology Intern",
       "location": "Orlando, FL",
@@ -1417,21 +1401,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "Life Fitness",
-      "title": "IT Intern",
-      "location": "Rosemont, IL",
-      "date": "2026-10-30",
-      "url": "https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/IT-Intern_JR-025323",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "Little Caesars Enterprises",
       "title": "AI IT Intern",
       "location": "Detroit, MI",
@@ -1525,6 +1494,21 @@
       "category": "Product"
     },
     {
+      "company": "TC Energy",
+      "title": "Intelligent Operations Technology Intern",
+      "location": "Spokane, WA",
+      "date": "2026-11-13",
+      "url": "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Spokane-Washington/Intern--Intelligent-Operations-Technology_JR-10919",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 46,
+      "reasons": [
+        "corporate it match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "TruStage",
       "title": "Innovation & AI Technology Intern",
       "location": "Madison, WI",
@@ -1538,6 +1522,23 @@
         "NEW: posted <=14 days"
       ],
       "category": "Corporate It"
+    },
+    {
+      "company": "Addepar",
+      "title": "Summer 2027 Internship - Product Analyst (Navigator)",
+      "location": "New York City, NY",
+      "date": "2026-11-13",
+      "url": "https://applyguy.ai/jobs?company=Addepar&job=6d629c0f-2f7a-4136-a61e-18b98ca5b986&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
     },
     {
       "company": "apexanalytix",
@@ -1573,23 +1574,6 @@
     },
     {
       "company": "HP",
-      "title": "Product Management Intern",
-      "location": "Spring, TX",
-      "date": "2026-10-30",
-      "url": "https://applyguy.ai/jobs?company=HP&job=978587c8-7eb8-432c-9cc4-880d0697aedd&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Texas",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "HP",
       "title": "Software Quality Assurance Intern",
       "location": "San Francisco, CA",
       "date": "2026-10-28",
@@ -1602,6 +1586,23 @@
         "recent: posted <=30 days"
       ],
       "category": "Qa Testing"
+    },
+    {
+      "company": "Koch Industries",
+      "title": "Product Management Intern - Aerospace & Defense Solutions",
+      "location": "Georgetown, TX",
+      "date": "2026-11-13",
+      "url": "https://koch.avature.net/en_US/careers/JobDetail/197821",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "product match",
+        "Texas",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
     },
     {
       "company": "NVIDIA",
@@ -1662,23 +1663,6 @@
       "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659",
       "description": "Product",
       "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "Snowflake",
-      "title": "Product Management Intern (Summer 2027)",
-      "location": "Menlo Park, CA",
-      "date": "2026-10-30",
-      "url": "https://applyguy.ai/jobs?company=Snowflake&job=3701fd96-f184-4cc1-a972-42e674bf1f44&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
       "score": 44,
       "reasons": [
         "product match",
@@ -1786,6 +1770,21 @@
       "category": "Qa Testing"
     },
     {
+      "company": "Keysight Technologies",
+      "title": "Quality Engineer Intern",
+      "location": "Roseville, CA",
+      "date": "2026-10-30",
+      "url": "https://jobs.keysight.com/jobs/54736?icims=1",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 42,
+      "reasons": [
+        "qa testing match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Qa Testing"
+    },
+    {
       "company": "Renesas Electronics",
       "title": "Memory Server System Testing Intern",
       "location": "San Jose, CA",
@@ -1814,23 +1813,6 @@
         "NEW: posted <=14 days"
       ],
       "category": "Analyst"
-    },
-    {
-      "company": "Teamworks",
-      "title": "Product Management MBA Intern",
-      "location": "Remote, U.S.",
-      "date": "2026-10-30",
-      "url": "https://applyguy.ai/jobs?company=Teamworks&job=0f7db5f9-6a38-4e17-8cb4-5fea643074a3&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 42,
-      "reasons": [
-        "product match",
-        "Remote",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
     },
     {
       "company": "Adobe",
@@ -1878,6 +1860,21 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
+    },
+    {
+      "company": "CoverMyMeds",
+      "title": "CMM Technology Intern",
+      "location": "Columbus, OH",
+      "date": "2026-10-15",
+      "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/CoverMyMeds_External_Careers/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979-2",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
     }
   ],
   "errors": []
