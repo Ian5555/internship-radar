@@ -1,6 +1,6 @@
 # Latest Internship Radar
 
-Last refreshed: **2026-11-14 18:44 UTC**
+Last refreshed: **2026-11-15 19:22 UTC**
 
 Strict Summer 2027 feed. DFW/North Texas, Texas, and remote roles receive location boosts; corporate IT, QA/testing, systems/support, analyst, IT risk/audit, and consulting roles outrank generic product/data roles.
 
@@ -125,6 +125,6 @@ Strict Summer 2027 feed. DFW/North Texas, Texas, and remote roles receive locati
 | **40** | Adobe | Technical Support Consultant Intern | San Jose, CA | Support Ops | 2026-10-29 | Recent | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Technical-Support-Consultant_R172785) | SimplifyJobs Summer 2027 Internships |
 | **40** | Allstate | Technology Internship | Illinois | Corporate It | 2026-10-27 | Recent | [Apply](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Allstate-Technology-Solutions-Internship---Summer-2027_R36378) | SimplifyJobs Summer 2027 Internships |
 | **40** | Amazon | Technical Product Manager Intern | Seattle, WA, Arlington County, Arlington, VA | Product | 2026-10-23 | Recent | [Apply](https://amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027) | SimplifyJobs Summer 2027 Internships |
-| **40** | CoverMyMeds | CMM Technology Intern | Columbus, OH | Corporate It | 2026-10-15 | Recent | [Apply](https://mckesson.wd3.myworkdayjobs.com/en-US/CoverMyMeds_External_Careers/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979-2) | SimplifyJobs Summer 2027 Internships |
+| **40** | Great American Insurance Company | Emerging Technology Intern | Cincinnati, OH | Corporate It | 2026-10-27 | Recent | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Emerging-Technology-Intern---Summer-2027_R9801) | SimplifyJobs Summer 2027 Internships |
 
 > Discovery feed only. Verify that the employer posting is still open and that you meet its requirements before applying.
