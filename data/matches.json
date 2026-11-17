@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T22:54:03.920701+00:00",
+  "generated_at": "2026-11-17T21:46:46.886146+00:00",
   "count": 120,
   "matches": [
     {
@@ -1109,21 +1109,6 @@
       "category": "Analyst"
     },
     {
-      "company": "Marriott Vacations Worldwide",
-      "title": "Corporate Information Technology Intern",
-      "location": "Orlando, FL",
-      "date": "2026-11-02",
-      "url": "https://mymvw.wd5.myworkdayjobs.com/mvw/job/MVW-Headquarters/Corporate-Intern-Information-Technology_JR95562",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 48,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "Nationwide",
       "title": "Personal Lines Sales Business Analyst Intern",
       "location": "Columbus, OH",
@@ -1526,23 +1511,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "Addepar",
-      "title": "Summer 2027 Internship - Product Analyst (Navigator)",
-      "location": "New York City, NY",
-      "date": "2026-11-13",
-      "url": "https://applyguy.ai/jobs?company=Addepar&job=6d629c0f-2f7a-4136-a61e-18b98ca5b986&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
       "company": "apexanalytix",
       "title": "Product Management Intern (Summer 2027)",
       "location": "Greensboro, NC",
@@ -1692,40 +1660,6 @@
       "category": "Product"
     },
     {
-      "company": "T-Mobile",
-      "title": "Product Management Intern",
-      "location": "Philadelphia, PA",
-      "date": "2026-11-02",
-      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-Product-Management-Internship_REQ380735",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "Tmobile",
-      "title": "Summer 2027 Product Management Internship",
-      "location": "Philadelphia, PA",
-      "date": "2026-11-02",
-      "url": "https://applyguy.ai/jobs?company=Tmobile&job=355a5351-a3b8-423e-9887-5f53f184e4ac&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
       "company": "Asml",
       "title": "Internship - Application Software QA Engineer",
       "location": "San Jose, CA",
@@ -1804,6 +1738,21 @@
       "category": "Qa Testing"
     },
     {
+      "company": "Marriott Vacations Worldwide",
+      "title": "Corporate Information Technology Intern",
+      "location": "Orlando, FL",
+      "date": "2026-11-02",
+      "url": "https://mymvw.wd5.myworkdayjobs.com/mvw/job/MVW-Headquarters/Corporate-Intern-Information-Technology_JR95562",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 42,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "Renesas Electronics",
       "title": "Memory Server System Testing Intern",
       "location": "San Jose, CA",
@@ -1879,6 +1828,51 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
+    },
+    {
+      "company": "Great American Insurance Company",
+      "title": "Emerging Technology Intern",
+      "location": "Cincinnati, OH",
+      "date": "2026-10-27",
+      "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Emerging-Technology-Intern---Summer-2027_R9801",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Life Fitness",
+      "title": "IT Intern",
+      "location": "Rosemont, IL",
+      "date": "2026-10-30",
+      "url": "https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/IT-Intern_JR-025323",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Milwaukee Brewers",
+      "title": "Minor League Technology Operations Intern",
+      "location": "Phoenix, AZ",
+      "date": "2026-10-20",
+      "url": "https://careers-brewers.icims.com/jobs/2804/job?mobile=true&needsRedirect=false",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "support ops match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Support Ops"
     }
   ],
   "errors": []
