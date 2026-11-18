@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T21:46:46.886146+00:00",
+  "generated_at": "2026-11-18T21:26:23.178918+00:00",
   "count": 120,
   "matches": [
     {
@@ -364,24 +364,6 @@
       "reasons": [
         "product match",
         "Texas",
-        "Summer 2027",
-        "recent: posted <=30 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "Amplify",
-      "title": "Summer 2027: Product Management Intern",
-      "location": "Remote, U.S.",
-      "date": "2026-10-19",
-      "url": "https://applyguy.ai/jobs?company=Amplify&job=fe39aa7b-b3e5-45d9-8105-c3ba4291355c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 54,
-      "reasons": [
-        "product match",
-        "Remote",
         "Summer 2027",
         "recent: posted <=30 days",
         "product secondary-lane penalty"
@@ -1203,21 +1185,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "American Express",
-      "title": "Cybersecurity AI Engineer Intern - Enterprise Technology Services",
-      "location": "Phoenix, AZ",
-      "date": "2026-11-03",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "Arcesium",
       "title": "Technology Operations Intern",
       "location": "NYC",
@@ -1231,21 +1198,6 @@
         "NEW: posted <=14 days"
       ],
       "category": "Support Ops"
-    },
-    {
-      "company": "Arch Capital Group",
-      "title": "Originations Portal IT Intern",
-      "location": "Greensboro, NC",
-      "date": "2026-11-03",
-      "url": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Originations-Portal-IT-Intern_R26_1135",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
     },
     {
       "company": "Blackhawk Network Holdings",
@@ -1298,8 +1250,8 @@
       "company": "Copart",
       "title": "Technology Product Analyst Intern",
       "location": "Dallas, TX",
-      "date": "2026-03-23",
-      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890",
+      "date": "2026-04-24",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR108712",
       "description": "Product",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 46,
@@ -1496,23 +1448,25 @@
       "category": "Corporate It"
     },
     {
-      "company": "TruStage",
-      "title": "Innovation & AI Technology Intern",
-      "location": "Madison, WI",
-      "date": "2026-11-03",
-      "url": "https://trustage.wd1.myworkdayjobs.com/TruStage/job/Madison-WI/IT---Innovation---AI-Technology-Internship--Hybrid-_R-012293",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
+      "company": "apexanalytix",
+      "title": "Product Management (DevOps) Intern - Summer 2027",
+      "location": "Greensboro, NC",
+      "date": "2026-11-18",
+      "url": "https://applyguy.ai/jobs?company=apexanalytix&job=b48e74dc-a6f5-4fbe-8a60-b601d86199d2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Software Engineering",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 44,
       "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
+        "product match",
+        "Summer 2027",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
       ],
-      "category": "Corporate It"
+      "category": "Product"
     },
     {
       "company": "apexanalytix",
-      "title": "Product Management Intern (Summer 2027)",
+      "title": "Product Management (Discovery) Intern - Summer 2027",
       "location": "Greensboro, NC",
       "date": "2026-11-11",
       "url": "https://applyguy.ai/jobs?company=apexanalytix&job=cf5e275f-43f3-4e88-8dd7-fd236d39a7dd&utm_source=github&utm_medium=listing&utm_campaign=internships",
@@ -1692,6 +1646,21 @@
       "category": "Product"
     },
     {
+      "company": "BGE",
+      "title": "Business Analyst Intern - GIS",
+      "location": "Oakbrook Terrace, IL",
+      "date": "2026-11-17",
+      "url": "https://careers.bge.com/jobs/34737?icims=1&lang=en-us",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 42,
+      "reasons": [
+        "analyst match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Analyst"
+    },
+    {
       "company": "Devon Energy",
       "title": "Technology Intern - Data Engineering",
       "location": "Houston, TX, Oklahoma City, OK",
@@ -1828,6 +1797,36 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
+    },
+    {
+      "company": "American Express",
+      "title": "Cybersecurity AI Engineer Intern - Enterprise Technology Services",
+      "location": "Phoenix, AZ",
+      "date": "2026-11-03",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Arch Capital Group",
+      "title": "Originations Portal IT Intern",
+      "location": "Greensboro, NC",
+      "date": "2026-11-03",
+      "url": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Originations-Portal-IT-Intern_R26_1135",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
     },
     {
       "company": "Great American Insurance Company",
