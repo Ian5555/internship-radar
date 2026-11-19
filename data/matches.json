@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T21:26:23.178918+00:00",
+  "generated_at": "2026-11-19T21:36:29.087182+00:00",
   "count": 120,
   "matches": [
     {
@@ -1385,6 +1385,21 @@
       "category": "Corporate It"
     },
     {
+      "company": "Little Caesars Enterprises",
+      "title": "Portfolio IT Intern",
+      "location": "Detroit, MI",
+      "date": "2026-11-12",
+      "url": "https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--Portfolio-IT_R9716",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 46,
+      "reasons": [
+        "corporate it match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "Qorvo",
       "title": "Product Management Engineer Intern - High Performance Analog",
       "location": "Richardson, TX",
@@ -1540,6 +1555,23 @@
       "reasons": [
         "product match",
         "Texas",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "Lucid Software",
+      "title": "Product Management Internship - Summer 2027",
+      "location": "Salt Lake City, UT",
+      "date": "2026-11-18",
+      "url": "https://applyguy.ai/jobs?company=Lucid+Software&job=11880bd9-6674-4be6-b919-c2ffe268b4d6&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "product match",
+        "Summer 2027",
         "NEW: posted <=14 days",
         "product secondary-lane penalty"
       ],
@@ -1842,36 +1874,6 @@
         "recent: posted <=30 days"
       ],
       "category": "Corporate It"
-    },
-    {
-      "company": "Life Fitness",
-      "title": "IT Intern",
-      "location": "Rosemont, IL",
-      "date": "2026-10-30",
-      "url": "https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/IT-Intern_JR-025323",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 40,
-      "reasons": [
-        "corporate it match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Milwaukee Brewers",
-      "title": "Minor League Technology Operations Intern",
-      "location": "Phoenix, AZ",
-      "date": "2026-10-20",
-      "url": "https://careers-brewers.icims.com/jobs/2804/job?mobile=true&needsRedirect=false",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 40,
-      "reasons": [
-        "support ops match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Support Ops"
     }
   ],
   "errors": []

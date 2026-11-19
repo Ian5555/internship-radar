@@ -1,6 +1,6 @@
 # Latest Internship Radar
 
-Last refreshed: **2026-11-18 21:26 UTC**
+Last refreshed: **2026-11-19 21:36 UTC**
 
 Strict Summer 2027 feed. DFW/North Texas, Texas, and remote roles receive location boosts; corporate IT, QA/testing, systems/support, analyst, IT risk/audit, and consulting roles outrank generic product/data roles.
 
@@ -95,6 +95,7 @@ Strict Summer 2027 feed. DFW/North Texas, Texas, and remote roles receive locati
 | **46** | Little Caesars Enterprises | AI IT Intern | Detroit, MI | Corporate It | 2026-11-05 | NEW | [Apply](https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--AI-IT_R9675) | SimplifyJobs Summer 2027 Internships |
 | **46** | Little Caesars Enterprises | Data IT Intern | Detroit, MI | Corporate It | 2026-11-05 | NEW | [Apply](https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--Data-IT_R9676) | SimplifyJobs Summer 2027 Internships |
 | **46** | Little Caesars Enterprises | Developer IT Intern | Detroit, MI | Corporate It | 2026-11-05 | NEW | [Apply](https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--Developer-IT_R9677) | SimplifyJobs Summer 2027 Internships |
+| **46** | Little Caesars Enterprises | Portfolio IT Intern | Detroit, MI | Corporate It | 2026-11-12 | NEW | [Apply](https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--Portfolio-IT_R9716) | SimplifyJobs Summer 2027 Internships |
 | **46** | Qorvo | Product Management Engineer Intern - High Performance Analog | Richardson, TX | Product | 2026-08-31 | — | [Apply](https://careers.qorvo.com/job/Richardson-Product-Management-Engineering-Intern-TX-75081/1424705200/?ats=successfactors) | SimplifyJobs Summer 2027 Internships |
 | **46** | Rheem | Commercial Product Management Intern | Lewisville, TX, Fort Smith, AR | Product | 2026-04-07 | — | [Apply](https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3886) | SimplifyJobs Summer 2027 Internships |
 | **46** | State Farm | Technology Product Analyst Intern - Innovation Group | Tempe, AZ, Dunwoody, GA, Richardson, TX, Bloomington, IL | Product | 2026-09-14 | — | [Apply](https://jobs.statefarm.com/jobs/45986?icims=1) | SimplifyJobs Summer 2027 Internships |
@@ -105,6 +106,7 @@ Strict Summer 2027 feed. DFW/North Texas, Texas, and remote roles receive locati
 | **44** | Fanatics Collectibles | Summer 2027 Internship - Product Management Intern | Seattle, WA | Product | 2026-11-15 | NEW | [Apply](https://applyguy.ai/jobs?company=Fanatics+Collectibles&job=2bc848cb-2c8b-499e-a5f8-4212fd2a77de&utm_source=github&utm_medium=listing&utm_campaign=internships) | ApplyGuy 2027 Internships |
 | **44** | HP | Software Quality Assurance Intern | San Francisco, CA | Qa Testing | 2026-10-28 | Recent | [Apply](https://applyguy.ai/jobs?company=HP&job=9ba7c06a-36b0-4c90-823f-8a139fcd5f50&utm_source=github&utm_medium=listing&utm_campaign=internships) | ApplyGuy 2027 Internships |
 | **44** | Koch Industries | Product Management Intern - Aerospace & Defense Solutions | Georgetown, TX | Product | 2026-11-13 | NEW | [Apply](https://koch.avature.net/en_US/careers/JobDetail/197821) | SimplifyJobs Summer 2027 Internships |
+| **44** | Lucid Software | Product Management Internship - Summer 2027 | Salt Lake City, UT | Product | 2026-11-18 | NEW | [Apply](https://applyguy.ai/jobs?company=Lucid+Software&job=11880bd9-6674-4be6-b919-c2ffe268b4d6&utm_source=github&utm_medium=listing&utm_campaign=internships) | ApplyGuy 2027 Internships |
 | **44** | NVIDIA | Product Management Space Compute MBA Intern - Summer 2027 | Santa Clara, CA | Product | 2026-11-09 | NEW | [Apply](https://applyguy.ai/jobs?company=NVIDIA&job=d2ef43a6-13bb-45ca-8e3a-5259d2863254&utm_source=github&utm_medium=listing&utm_campaign=internships) | ApplyGuy 2027 Internships |
 | **44** | Rubrik Job Board | Product Management Intern (MSP), Summer 2027 | Palo Alto, CA | Product | 2026-11-11 | NEW | [Apply](https://applyguy.ai/jobs?company=Rubrik+Job+Board&job=0e2f13eb-792d-473a-94e6-cceb9a679ccb&utm_source=github&utm_medium=listing&utm_campaign=internships) | ApplyGuy 2027 Internships |
 | **44** | Rubrik Job Board | Product Management Intern (RCV), Summer 2027 | Palo Alto, CA | Product | 2026-11-10 | NEW | [Apply](https://applyguy.ai/jobs?company=Rubrik+Job+Board&job=775ab20b-04bd-4939-9bcd-a99f91ae35e4&utm_source=github&utm_medium=listing&utm_campaign=internships) | ApplyGuy 2027 Internships |
@@ -124,7 +126,5 @@ Strict Summer 2027 feed. DFW/North Texas, Texas, and remote roles receive locati
 | **40** | American Express | Cybersecurity AI Engineer Intern - Enterprise Technology Services | Phoenix, AZ | Corporate It | 2026-11-03 | Recent | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065) | SimplifyJobs Summer 2027 Internships |
 | **40** | Arch Capital Group | Originations Portal IT Intern | Greensboro, NC | Corporate It | 2026-11-03 | Recent | [Apply](https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Originations-Portal-IT-Intern_R26_1135) | SimplifyJobs Summer 2027 Internships |
 | **40** | Great American Insurance Company | Emerging Technology Intern | Cincinnati, OH | Corporate It | 2026-10-27 | Recent | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Emerging-Technology-Intern---Summer-2027_R9801) | SimplifyJobs Summer 2027 Internships |
-| **40** | Life Fitness | IT Intern | Rosemont, IL | Corporate It | 2026-10-30 | Recent | [Apply](https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/IT-Intern_JR-025323) | SimplifyJobs Summer 2027 Internships |
-| **40** | Milwaukee Brewers | Minor League Technology Operations Intern | Phoenix, AZ | Support Ops | 2026-10-20 | Recent | [Apply](https://careers-brewers.icims.com/jobs/2804/job?mobile=true&needsRedirect=false) | SimplifyJobs Summer 2027 Internships |
 
 > Discovery feed only. Verify that the employer posting is still open and that you meet its requirements before applying.
