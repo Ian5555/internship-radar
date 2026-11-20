@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T21:36:29.087182+00:00",
+  "generated_at": "2026-11-20T21:06:06.299927+00:00",
   "count": 120,
   "matches": [
     {
@@ -70,22 +70,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "Blackhawk Network Holdings",
-      "title": "Technology Intern",
-      "location": "Coppell, TX",
-      "date": "2026-11-05",
-      "url": "https://careers-blackhawknetwork.icims.com/jobs/26866/job?mobile=true&needsRedirect=false",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 78,
-      "reasons": [
-        "corporate it match",
-        "DFW / North Texas",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "CareSource",
       "title": "Clinical Operations Business Analyst Intern",
       "location": "Remote in USA",
@@ -101,6 +85,22 @@
         "NEW: posted <=14 days"
       ],
       "category": "Analyst"
+    },
+    {
+      "company": "Blackhawk Network Holdings",
+      "title": "Technology Intern",
+      "location": "Coppell, TX",
+      "date": "2026-11-05",
+      "url": "https://careers-blackhawknetwork.icims.com/jobs/26866/job?mobile=true&needsRedirect=false",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 72,
+      "reasons": [
+        "corporate it match",
+        "DFW / North Texas",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
     },
     {
       "company": "Air Products",
@@ -162,6 +162,22 @@
         "DFW / North Texas"
       ],
       "category": "Corporate It"
+    },
+    {
+      "company": "Lucid Motors",
+      "title": "Intern, Software QA Engineer, Infotainment, Summer 2027",
+      "location": "Newark, CA",
+      "date": "2026-11-19",
+      "url": "https://applyguy.ai/jobs?company=Lucid+Motors&job=dbbc9d6b-ff79-4b3a-9a31-e9fdb3c11234&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Software Engineering",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 66,
+      "reasons": [
+        "qa testing match",
+        "Summer 2027",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Qa Testing"
     },
     {
       "company": "PNC Financial Services",
@@ -997,21 +1013,6 @@
       "category": "Product"
     },
     {
-      "company": "BorgWarner",
-      "title": "Software Test Intern",
-      "location": "Auburn Hills, MI",
-      "date": "2026-11-05",
-      "url": "https://applyguy.ai/jobs?company=BorgWarner&job=fc7780a3-1ded-45d0-84d9-3a32b368aed2&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Software Engineering",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 48,
-      "reasons": [
-        "qa testing match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Qa Testing"
-    },
-    {
       "company": "Cotiviti",
       "title": "Temporary Intern - Business Systems Analyst",
       "location": "Remote in USA",
@@ -1216,11 +1217,26 @@
       "category": "Product"
     },
     {
-      "company": "Cintas",
-      "title": "IT Intern \u2013 Engineer - Customer Channels",
-      "location": "Mason, OH",
-      "date": "2026-11-05",
-      "url": "https://careers.cintas.com/job/Mason-IT-Intern-Engineer-Customer-Channels-OH-45040/1448146400/?ats=successfactors",
+      "company": "CAS",
+      "title": "Technology Intern - Application Technology",
+      "location": "Columbus, OH",
+      "date": "2026-11-20",
+      "url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=78caa2c6-394a-4c51-b7bd-224461099eda",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 46,
+      "reasons": [
+        "corporate it match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "CAS",
+      "title": "Technology Intern - Databases",
+      "location": "Columbus, OH",
+      "date": "2026-11-20",
+      "url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=8b5cdf5c-af19-431d-b135-9f2c62c4d002",
       "description": "Software",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 46,
@@ -1331,51 +1347,6 @@
       "date": "2026-11-09",
       "url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Finance-Technology-Intern--Summer-2027_116135",
       "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Little Caesars Enterprises",
-      "title": "AI IT Intern",
-      "location": "Detroit, MI",
-      "date": "2026-11-05",
-      "url": "https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--AI-IT_R9675",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Little Caesars Enterprises",
-      "title": "Data IT Intern",
-      "location": "Detroit, MI",
-      "date": "2026-11-05",
-      "url": "https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--Data-IT_R9676",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Little Caesars Enterprises",
-      "title": "Developer IT Intern",
-      "location": "Detroit, MI",
-      "date": "2026-11-05",
-      "url": "https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--Developer-IT_R9677",
-      "description": "Software",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 46,
       "reasons": [
@@ -1693,6 +1664,21 @@
       "category": "Analyst"
     },
     {
+      "company": "BorgWarner",
+      "title": "Software Test Intern",
+      "location": "Auburn Hills, MI",
+      "date": "2026-11-05",
+      "url": "https://applyguy.ai/jobs?company=BorgWarner&job=fc7780a3-1ded-45d0-84d9-3a32b368aed2&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Software Engineering",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 42,
+      "reasons": [
+        "qa testing match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Qa Testing"
+    },
+    {
       "company": "Devon Energy",
       "title": "Technology Intern - Data Engineering",
       "location": "Houston, TX, Oklahoma City, OK",
@@ -1851,6 +1837,21 @@
       "location": "Greensboro, NC",
       "date": "2026-11-03",
       "url": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Originations-Portal-IT-Intern_R26_1135",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Cintas",
+      "title": "IT Intern \u2013 Engineer - Customer Channels",
+      "location": "Mason, OH",
+      "date": "2026-11-05",
+      "url": "https://careers.cintas.com/job/Mason-IT-Intern-Engineer-Customer-Channels-OH-45040/1448146400/?ats=successfactors",
       "description": "Software",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 40,
