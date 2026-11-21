@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T21:06:06.299927+00:00",
+  "generated_at": "2026-11-21T20:06:48.373638+00:00",
   "count": 120,
   "matches": [
     {
@@ -522,22 +522,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "Zebra Technologies",
-      "title": "Business Analyst Intern",
-      "location": "Lincolnshire, IL",
-      "date": "2026-10-21",
-      "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Business-Analyst_JR103646",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 54,
-      "reasons": [
-        "analyst match",
-        "Summer 2027",
-        "recent: posted <=30 days"
-      ],
-      "category": "Analyst"
-    },
-    {
       "company": "Acuity",
       "title": "Product Management Technology Intern",
       "location": "Conyers, GA",
@@ -564,21 +548,6 @@
       "reasons": [
         "corporate it match",
         "product match"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Auto Club Group",
-      "title": "Business Technology Intern",
-      "location": "Remote in USA",
-      "date": "2026-03-26",
-      "url": "https://acg.wd1.myworkdayjobs.com/Careers/job/USA/Business-Technology-Internship_JR15512",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 52,
-      "reasons": [
-        "corporate it match",
-        "Remote"
       ],
       "category": "Corporate It"
     },
@@ -763,6 +732,21 @@
       "category": "Corporate It"
     },
     {
+      "company": "Mom's Meals",
+      "title": "Software Quality Assurance (QA) Intern",
+      "location": "Ankeny, IA",
+      "date": "2026-11-18",
+      "url": "https://applyguy.ai/jobs?company=Mom%27s+Meals&job=4736f928-b285-40bb-8347-dbbf40d22b97&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Software Engineering",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 52,
+      "reasons": [
+        "qa testing match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Qa Testing"
+    },
+    {
       "company": "Nationwide",
       "title": "Technology Intern",
       "location": "Des Moines, IA, Scottsdale, AZ, Columbus, OH",
@@ -934,23 +918,6 @@
       "category": "Product"
     },
     {
-      "company": "L.L.Bean",
-      "title": "Business Analyst/Data Analyst Intern",
-      "location": "Freeport, ME",
-      "date": "2026-11-06",
-      "url": "https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/Freeport-ME/Business--Data-Analyst-Intern--Summer-2027-_JR11275",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 50,
-      "reasons": [
-        "analyst match",
-        "Summer 2027",
-        "NEW: posted <=14 days",
-        "generic data-role penalty"
-      ],
-      "category": "Analyst"
-    },
-    {
       "company": "LabCorp",
       "title": "Financial Analytics & Technology Intern - Financial Analytics Team",
       "location": "Remote in USA",
@@ -1062,21 +1029,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "Enovation Controls",
-      "title": "Manufacturing Engineering Test Intern",
-      "location": "Tulsa, OK",
-      "date": "2026-11-06",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648371",
-      "description": "Hardware",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 48,
-      "reasons": [
-        "qa testing match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Qa Testing"
-    },
-    {
       "company": "First National Bank",
       "title": "Systems Analyst Intern - Consumer and Commercial Banking Technology",
       "location": "Pittsburgh, PA",
@@ -1136,6 +1088,21 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
+    },
+    {
+      "company": "Zebra Technologies",
+      "title": "Business Analyst Intern",
+      "location": "Lincolnshire, IL",
+      "date": "2026-10-21",
+      "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Business-Analyst_JR103646",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 48,
+      "reasons": [
+        "analyst match",
+        "Summer 2027"
+      ],
+      "category": "Analyst"
     },
     {
       "company": "7-Eleven",
@@ -1217,6 +1184,21 @@
       "category": "Product"
     },
     {
+      "company": "Calamos Investments",
+      "title": "Information Technology Research Development Intern",
+      "location": "Naperville, IL",
+      "date": "2026-11-20",
+      "url": "https://recruiting2.ultipro.com/cal1001cala/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=8ba1e4ff-1ee1-46ab-b93f-9a4e4b6eb487",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 46,
+      "reasons": [
+        "corporate it match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "CAS",
       "title": "Technology Intern - Application Technology",
       "location": "Columbus, OH",
@@ -1277,21 +1259,6 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
-    },
-    {
-      "company": "Deeplocal",
-      "title": "Creative Technology Intern",
-      "location": "Pittsburgh, PA",
-      "date": "2026-11-06",
-      "url": "https://job-boards.greenhouse.io/deeplocal/jobs/8360330",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
     },
     {
       "company": "Digital Realty",
@@ -1515,6 +1482,23 @@
       "category": "Qa Testing"
     },
     {
+      "company": "iCapital",
+      "title": "Product Management - Summer 2027 Intern",
+      "location": "New York City, NY",
+      "date": "2026-11-20",
+      "url": "https://applyguy.ai/jobs?company=iCapital&job=1bcb0ccf-0ef0-49e6-a9f0-a73e9aeeb12c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
       "company": "Koch Industries",
       "title": "Product Management Intern - Aerospace & Defense Solutions",
       "location": "Georgetown, TX",
@@ -1530,6 +1514,23 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
+    },
+    {
+      "company": "L.L.Bean",
+      "title": "Business Analyst/Data Analyst Intern",
+      "location": "Freeport, ME",
+      "date": "2026-11-06",
+      "url": "https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/Freeport-ME/Business--Data-Analyst-Intern--Summer-2027-_JR11275",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "analyst match",
+        "Summer 2027",
+        "recent: posted <=30 days",
+        "generic data-role penalty"
+      ],
+      "category": "Analyst"
     },
     {
       "company": "Lucid Software",
@@ -1600,11 +1601,11 @@
       "category": "Product"
     },
     {
-      "company": "Salesforce",
-      "title": "Product Management Intern - Product Management",
-      "location": "SF, NYC",
-      "date": "2026-11-06",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659",
+      "company": "Walmart",
+      "title": "MBA Product Manager Intern - MBA",
+      "location": "Bentonville, AR",
+      "date": "2026-11-20",
+      "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-MBA-Intern--APD-Product-Manager---MBA_R-2630166",
       "description": "Product",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 44,
@@ -1695,6 +1696,21 @@
       "category": "Corporate It"
     },
     {
+      "company": "Enovation Controls",
+      "title": "Manufacturing Engineering Test Intern",
+      "location": "Tulsa, OK",
+      "date": "2026-11-06",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648371",
+      "description": "Hardware",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 42,
+      "reasons": [
+        "qa testing match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Qa Testing"
+    },
+    {
       "company": "Intercontinental Exchange, Inc.",
       "title": "Summer Internship Program 2027 - Software Development Engineer in Test Intern",
       "location": "Atlanta, GA",
@@ -1738,6 +1754,23 @@
         "recent: posted <=30 days"
       ],
       "category": "Corporate It"
+    },
+    {
+      "company": "Method",
+      "title": "Product Management Intern",
+      "location": "Remote in USA, Santa Clara, CA, Charlotte, NC, NYC, Remote in Canada",
+      "date": "2026-11-20",
+      "url": "https://job-boards.greenhouse.io/method/jobs/8207585003",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 42,
+      "reasons": [
+        "product match",
+        "Remote",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
     },
     {
       "company": "Renesas Electronics",
@@ -1838,36 +1871,6 @@
       "date": "2026-11-03",
       "url": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Originations-Portal-IT-Intern_R26_1135",
       "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 40,
-      "reasons": [
-        "corporate it match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Cintas",
-      "title": "IT Intern \u2013 Engineer - Customer Channels",
-      "location": "Mason, OH",
-      "date": "2026-11-05",
-      "url": "https://careers.cintas.com/job/Mason-IT-Intern-Engineer-Customer-Channels-OH-45040/1448146400/?ats=successfactors",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 40,
-      "reasons": [
-        "corporate it match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Great American Insurance Company",
-      "title": "Emerging Technology Intern",
-      "location": "Cincinnati, OH",
-      "date": "2026-10-27",
-      "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Emerging-Technology-Intern---Summer-2027_R9801",
-      "description": "AI/ML/Data",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 40,
       "reasons": [
