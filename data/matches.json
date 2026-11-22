@@ -1,24 +1,7 @@
 {
-  "generated_at": "2026-11-21T20:06:48.373638+00:00",
+  "generated_at": "2026-11-22T20:21:53.410844+00:00",
   "count": 120,
   "matches": [
-    {
-      "company": "CVS Health",
-      "title": "Innovation & Technology Internship - Product & Agile Delivery",
-      "location": "Dallas, TX, Scottsdale, AZ, Hartford, CT, Woonsocket, RI",
-      "date": "2026-10-22",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Hartford-Farmington-Ave-Rogers/Innovation---Technology-Internship---Product---Agile-Delivery---Summer-2027--Undergraduate-_R1080767",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 90,
-      "reasons": [
-        "corporate it match",
-        "DFW / North Texas",
-        "Summer 2027",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
     {
       "company": "RTX",
       "title": "Digital Technology Intern",
@@ -28,6 +11,22 @@
       "description": "AI/ML/Data",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 86,
+      "reasons": [
+        "corporate it match",
+        "DFW / North Texas",
+        "Summer 2027"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "CVS Health",
+      "title": "Innovation & Technology Internship - Product & Agile Delivery",
+      "location": "Dallas, TX, Scottsdale, AZ, Hartford, CT, Woonsocket, RI",
+      "date": "2026-10-22",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Hartford-Farmington-Ave-Rogers/Innovation---Technology-Internship---Product---Agile-Delivery---Summer-2027--Undergraduate-_R1080767",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 84,
       "reasons": [
         "corporate it match",
         "DFW / North Texas",
@@ -321,22 +320,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "Insperity",
-      "title": "Rotational Technology Intern",
-      "location": "Kingwood, Houston, TX",
-      "date": "2026-10-22",
-      "url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-Technology-Intern_JR103457",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 58,
-      "reasons": [
-        "corporate it match",
-        "Texas",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "TD Bank",
       "title": "Technology Intern",
       "location": "Belfast, UK",
@@ -367,24 +350,6 @@
         "generic data-role penalty"
       ],
       "category": "Corporate It"
-    },
-    {
-      "company": "Walmart",
-      "title": "Automation Product Manager Intern - Product Manager",
-      "location": "Lancaster, TX",
-      "date": "2026-10-22",
-      "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-TX-LANCASTER-07382-ECOMM-FULFILLMENT-SERVICES/Summer-2027-Intern--Automation---Product-Manager---Corporate-Intern_R-2649739",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 56,
-      "reasons": [
-        "product match",
-        "Texas",
-        "Summer 2027",
-        "recent: posted <=30 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
     },
     {
       "company": "Chevron",
@@ -717,6 +682,21 @@
       "category": "Corporate It"
     },
     {
+      "company": "Insperity",
+      "title": "Rotational Technology Intern",
+      "location": "Kingwood, Houston, TX",
+      "date": "2026-09-17",
+      "url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-Technology-Intern_JR103296",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 52,
+      "reasons": [
+        "corporate it match",
+        "Texas"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "Johnson & Johnson",
       "title": "Technology Intern - Technology LDP",
       "location": "West Chester, PA, Horsham, PA, Spring House, PA, New Brunswick, NJ, Irvine, CA, Raritan, NJ, Santa Clara, CA, Hopewell Township, NJ, Fort Washington, PA, Jacksonville, FL, Palm Beach Gardens, FL",
@@ -963,6 +943,23 @@
       "category": "Corporate It"
     },
     {
+      "company": "Walmart",
+      "title": "Automation Product Manager Intern - Product Manager",
+      "location": "Lancaster, TX",
+      "date": "2026-10-22",
+      "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-TX-LANCASTER-07382-ECOMM-FULFILLMENT-SERVICES/Summer-2027-Intern--Automation---Product-Manager---Corporate-Intern_R-2649739",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 50,
+      "reasons": [
+        "product match",
+        "Texas",
+        "Summer 2027",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
       "company": "Assurant",
       "title": "Product Analyst Intern - Housing",
       "location": "Remote in USA",
@@ -993,40 +990,6 @@
         "Remote"
       ],
       "category": "Analyst"
-    },
-    {
-      "company": "CVS Health",
-      "title": "Innovation & Technology Internship - Data Engineering",
-      "location": "NYC",
-      "date": "2026-10-22",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Graduate-_R1081101",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 48,
-      "reasons": [
-        "corporate it match",
-        "Summer 2027",
-        "recent: posted <=30 days",
-        "generic data-role penalty"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "CVS Health",
-      "title": "Innovation & Technology Internship - Data Science",
-      "location": "NYC",
-      "date": "2026-10-22",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Graduate-_R1081038",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 48,
-      "reasons": [
-        "corporate it match",
-        "Summer 2027",
-        "recent: posted <=30 days",
-        "generic data-role penalty"
-      ],
-      "category": "Corporate It"
     },
     {
       "company": "First National Bank",
@@ -1435,21 +1398,6 @@
       "category": "Product"
     },
     {
-      "company": "Asml",
-      "title": "Internship - Software Quality Assurance",
-      "location": "San Jose, CA",
-      "date": "2026-10-23",
-      "url": "https://applyguy.ai/jobs?company=Asml&job=c62b14d8-ff34-4cb0-80ed-1d552f8374ff&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Software Engineering",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "qa testing match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Qa Testing"
-    },
-    {
       "company": "Fanatics Collectibles",
       "title": "Summer 2027 Internship - Product Management Intern",
       "location": "Seattle, WA",
@@ -1457,6 +1405,23 @@
       "url": "https://applyguy.ai/jobs?company=Fanatics+Collectibles&job=2bc848cb-2c8b-499e-a5f8-4212fd2a77de&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Product",
       "source": "ApplyGuy 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "Fiskars Group",
+      "title": "Product Management Intern",
+      "location": "Middleton, WI",
+      "date": "2026-11-19",
+      "url": "https://fiskars.wd3.myworkdayjobs.com/FiskarsGroup/job/Middleton/Product-Management-Intern--Summer-2027-_JR-009520",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
       "score": 44,
       "reasons": [
         "product match",
@@ -1618,21 +1583,6 @@
       "category": "Product"
     },
     {
-      "company": "Asml",
-      "title": "Internship - Application Software QA Engineer",
-      "location": "San Jose, CA",
-      "date": "2026-10-23",
-      "url": "https://applyguy.ai/jobs?company=Asml&job=c24e7daa-dfab-456e-a529-b0e901c8283c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Software Engineering",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 42,
-      "reasons": [
-        "qa testing match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Qa Testing"
-    },
-    {
       "company": "Bask Health",
       "title": "Product Management Intern",
       "location": "Remote in USA",
@@ -1678,6 +1628,38 @@
         "recent: posted <=30 days"
       ],
       "category": "Qa Testing"
+    },
+    {
+      "company": "CVS Health",
+      "title": "Innovation & Technology Internship - Data Engineering",
+      "location": "NYC",
+      "date": "2026-10-22",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Graduate-_R1081101",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 42,
+      "reasons": [
+        "corporate it match",
+        "Summer 2027",
+        "generic data-role penalty"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "CVS Health",
+      "title": "Innovation & Technology Internship - Data Science",
+      "location": "NYC",
+      "date": "2026-10-22",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Graduate-_R1081038",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 42,
+      "reasons": [
+        "corporate it match",
+        "Summer 2027",
+        "generic data-role penalty"
+      ],
+      "category": "Corporate It"
     },
     {
       "company": "Devon Energy",
@@ -1773,21 +1755,6 @@
       "category": "Product"
     },
     {
-      "company": "Renesas Electronics",
-      "title": "Memory Server System Testing Intern",
-      "location": "San Jose, CA",
-      "date": "2026-10-22",
-      "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000157198610",
-      "description": "Hardware",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 42,
-      "reasons": [
-        "qa testing match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Qa Testing"
-    },
-    {
       "company": "Stratolaunch",
       "title": "Business Intelligence & Systems Analyst Intern",
       "location": "Mojave, CA",
@@ -1870,6 +1837,36 @@
       "location": "Greensboro, NC",
       "date": "2026-11-03",
       "url": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Originations-Portal-IT-Intern_R26_1135",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Cintas",
+      "title": "IT Intern \u2013 Engineer - Customer Channels",
+      "location": "Mason, OH",
+      "date": "2026-11-05",
+      "url": "https://careers.cintas.com/job/Mason-IT-Intern-Engineer-Customer-Channels-OH-45040/1448146400/?ats=successfactors",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Deeplocal",
+      "title": "Creative Technology Intern",
+      "location": "Pittsburgh, PA",
+      "date": "2026-11-06",
+      "url": "https://job-boards.greenhouse.io/deeplocal/jobs/8360330",
       "description": "Software",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 40,
