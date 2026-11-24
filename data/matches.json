@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T20:21:53.410844+00:00",
+  "generated_at": "2026-11-24T00:52:27.069983+00:00",
   "count": 120,
   "matches": [
     {
@@ -241,22 +241,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "Constellation Brands",
-      "title": "IT Intern - Marketing Technology Product Management",
-      "location": "Rochester, NY, Chicago, IL",
-      "date": "2026-11-09",
-      "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--IT---Marketing-Technology-Product-Management_R-41678",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 64,
-      "reasons": [
-        "corporate it match",
-        "product match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "HCSC",
       "title": "Systems Analyst Intern",
       "location": "Chicago, IL, Richardson, TX",
@@ -318,6 +302,39 @@
         "recent: posted <=30 days"
       ],
       "category": "Corporate It"
+    },
+    {
+      "company": "Constellation Brands",
+      "title": "IT Intern - Marketing Technology Product Management",
+      "location": "Rochester, NY, Chicago, IL",
+      "date": "2026-11-09",
+      "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--IT---Marketing-Technology-Product-Management_R-41678",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 58,
+      "reasons": [
+        "corporate it match",
+        "product match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Megger",
+      "title": "Product Manager Intern",
+      "location": "Dallas, TX",
+      "date": "2026-11-19",
+      "url": "https://megger.wd3.myworkdayjobs.com/MeggerCareers/job/Dallas-United-States/Product-Manager-Intern_JR100870",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 58,
+      "reasons": [
+        "product match",
+        "DFW / North Texas",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
     },
     {
       "company": "TD Bank",
@@ -1271,21 +1288,6 @@
       "category": "Analyst"
     },
     {
-      "company": "J.M. Smucker",
-      "title": "Finance Technology Intern",
-      "location": "Orrville, OH",
-      "date": "2026-11-09",
-      "url": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Finance-Technology-Intern--Summer-2027_116135",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "Little Caesars Enterprises",
       "title": "Portfolio IT Intern",
       "location": "Detroit, MI",
@@ -1398,11 +1400,45 @@
       "category": "Product"
     },
     {
+      "company": "Electric Power Engineers",
+      "title": "Product Management Intern",
+      "location": "Austin, TX",
+      "date": "2026-11-23",
+      "url": "https://applyguy.ai/jobs?company=Electric+Power+Engineers&job=486de34a-846c-4cd1-bc35-1a6031b315fc&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Software Engineering",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "product match",
+        "Texas",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
       "company": "Fanatics Collectibles",
       "title": "Summer 2027 Internship - Product Management Intern",
       "location": "Seattle, WA",
       "date": "2026-11-15",
       "url": "https://applyguy.ai/jobs?company=Fanatics+Collectibles&job=2bc848cb-2c8b-499e-a5f8-4212fd2a77de&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "First Resonance",
+      "title": "Product Management Intern (Summer 2027)",
+      "location": "Los Angeles, CA",
+      "date": "2026-11-23",
+      "url": "https://applyguy.ai/jobs?company=First+Resonance&job=caf2a375-b99c-4d78-a9c4-aa515abcc5ef&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Product",
       "source": "ApplyGuy 2027 Internships",
       "score": 44,
@@ -1503,23 +1539,6 @@
       "location": "Salt Lake City, UT",
       "date": "2026-11-18",
       "url": "https://applyguy.ai/jobs?company=Lucid+Software&job=11880bd9-6674-4be6-b919-c2ffe268b4d6&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Product Management Space Compute MBA Intern - Summer 2027",
-      "location": "Santa Clara, CA",
-      "date": "2026-11-09",
-      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=d2ef43a6-13bb-45ca-8e3a-5259d2863254&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Product",
       "source": "ApplyGuy 2027 Internships",
       "score": 44,
@@ -1798,23 +1817,6 @@
         "recent: posted <=30 days"
       ],
       "category": "Corporate It"
-    },
-    {
-      "company": "Amazon",
-      "title": "Technical Product Manager Intern",
-      "location": "Seattle, WA, Arlington County, Arlington, VA",
-      "date": "2026-10-23",
-      "url": "https://amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 40,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "recent: posted <=30 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
     },
     {
       "company": "American Express",
