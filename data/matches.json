@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T00:52:27.069983+00:00",
+  "generated_at": "2026-11-24T23:01:28.258388+00:00",
   "count": 120,
   "matches": [
     {
@@ -67,6 +67,23 @@
         "generic data-role penalty"
       ],
       "category": "Corporate It"
+    },
+    {
+      "company": "Statestreet",
+      "title": "State Street Product Management Team - Business Analyst - Summer Internship 2027",
+      "location": "Boston, MA",
+      "date": "2026-11-20",
+      "url": "https://applyguy.ai/jobs?company=Statestreet&job=5eda6e33-2b44-4158-a13c-342fabeff8b7&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 78,
+      "reasons": [
+        "analyst match",
+        "product match",
+        "Summer 2027",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Analyst"
     },
     {
       "company": "CareSource",
@@ -241,6 +258,22 @@
       "category": "Corporate It"
     },
     {
+      "company": "NVIDIA",
+      "title": "Developer Technology Intern, AI - Summer 2027",
+      "location": "Santa Clara, CA",
+      "date": "2026-11-24",
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=76b9112b-2d10-478d-a17d-33a627a53beb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Software Engineering",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 64,
+      "reasons": [
+        "corporate it match",
+        "Summer 2027",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
       "company": "HCSC",
       "title": "Systems Analyst Intern",
       "location": "Chicago, IL, Richardson, TX",
@@ -324,9 +357,9 @@
       "title": "Product Manager Intern",
       "location": "Dallas, TX",
       "date": "2026-11-19",
-      "url": "https://megger.wd3.myworkdayjobs.com/MeggerCareers/job/Dallas-United-States/Product-Manager-Intern_JR100870",
+      "url": "https://applyguy.ai/jobs?company=Megger&job=6eaa9613-bad5-40a6-9b58-0a2a019265f1&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
+      "source": "ApplyGuy 2027 Internships",
       "score": 58,
       "reasons": [
         "product match",
@@ -977,6 +1010,21 @@
       "category": "Product"
     },
     {
+      "company": "Amazon",
+      "title": "Business Analyst Intern",
+      "location": "Bellevue, WA",
+      "date": "2026-10-09",
+      "url": "https://amazon.jobs/en/jobs/10575250/business-analyst-intern-summer-2027",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 48,
+      "reasons": [
+        "analyst match",
+        "Summer 2027"
+      ],
+      "category": "Analyst"
+    },
+    {
       "company": "Assurant",
       "title": "Product Analyst Intern - Housing",
       "location": "Remote in USA",
@@ -1252,6 +1300,23 @@
       "reasons": [
         "product match",
         "DFW / North Texas",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "Gaig",
+      "title": "Technical Product Management Intern - Summer 2027",
+      "location": "Cincinnati, OH (USA)",
+      "date": "2026-11-17",
+      "url": "https://applyguy.ai/jobs?company=Gaig&job=1df4eac2-4bf0-4d9b-b419-7167738e21c3&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 46,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "NEW: posted <=14 days",
         "product secondary-lane penalty"
       ],
       "category": "Product"
@@ -1551,6 +1616,23 @@
       "category": "Product"
     },
     {
+      "company": "NVIDIA",
+      "title": "Product Management MBA Intern, GenAI Data Strategy - Summer 2027",
+      "location": "Santa Clara, CA",
+      "date": "2026-11-19",
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=d627a43c-72b0-469e-8d73-6b3459668534&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
       "company": "Rubrik Job Board",
       "title": "Product Management Intern (MSP), Summer 2027",
       "location": "Palo Alto, CA",
@@ -1585,6 +1667,23 @@
       "category": "Product"
     },
     {
+      "company": "Sec",
+      "title": "Product Management Tools and Automation Intern",
+      "location": "6555 Excellence Way, TX",
+      "date": "2026-11-20",
+      "url": "https://applyguy.ai/jobs?company=Sec&job=0ea0e2d4-3ad1-4e0f-884b-64f9f1bbb9d0&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "product match",
+        "Texas",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
       "company": "Walmart",
       "title": "MBA Product Manager Intern - MBA",
       "location": "Bentonville, AR",
@@ -1592,6 +1691,23 @@
       "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-MBA-Intern--APD-Product-Manager---MBA_R-2630166",
       "description": "Product",
       "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
+      "company": "zebra",
+      "title": "2027 Summer Internship (US) - Product Management",
+      "location": "Lincolnshire, IL",
+      "date": "2026-11-23",
+      "url": "https://applyguy.ai/jobs?company=zebra&job=094aa21f-a5c4-436b-86fd-ba7173dfebf4&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
       "score": 44,
       "reasons": [
         "product match",
@@ -1772,111 +1888,6 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
-    },
-    {
-      "company": "Stratolaunch",
-      "title": "Business Intelligence & Systems Analyst Intern",
-      "location": "Mojave, CA",
-      "date": "2026-11-12",
-      "url": "https://job-boards.greenhouse.io/stratolaunch/jobs/5480612008",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 42,
-      "reasons": [
-        "analyst match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Analyst"
-    },
-    {
-      "company": "Adobe",
-      "title": "Technical Support Consultant Intern",
-      "location": "San Jose, CA",
-      "date": "2026-10-29",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Technical-Support-Consultant_R172785",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 40,
-      "reasons": [
-        "support ops match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Support Ops"
-    },
-    {
-      "company": "Allstate",
-      "title": "Technology Internship",
-      "location": "Illinois",
-      "date": "2026-10-27",
-      "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Allstate-Technology-Solutions-Internship---Summer-2027_R36378",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 40,
-      "reasons": [
-        "corporate it match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "American Express",
-      "title": "Cybersecurity AI Engineer Intern - Enterprise Technology Services",
-      "location": "Phoenix, AZ",
-      "date": "2026-11-03",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 40,
-      "reasons": [
-        "corporate it match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Arch Capital Group",
-      "title": "Originations Portal IT Intern",
-      "location": "Greensboro, NC",
-      "date": "2026-11-03",
-      "url": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Originations-Portal-IT-Intern_R26_1135",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 40,
-      "reasons": [
-        "corporate it match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Cintas",
-      "title": "IT Intern \u2013 Engineer - Customer Channels",
-      "location": "Mason, OH",
-      "date": "2026-11-05",
-      "url": "https://careers.cintas.com/job/Mason-IT-Intern-Engineer-Customer-Channels-OH-45040/1448146400/?ats=successfactors",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 40,
-      "reasons": [
-        "corporate it match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
-      "company": "Deeplocal",
-      "title": "Creative Technology Intern",
-      "location": "Pittsburgh, PA",
-      "date": "2026-11-06",
-      "url": "https://job-boards.greenhouse.io/deeplocal/jobs/8360330",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 40,
-      "reasons": [
-        "corporate it match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Corporate It"
     }
   ],
   "errors": []
