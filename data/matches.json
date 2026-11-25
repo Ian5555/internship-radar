@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T23:01:28.258388+00:00",
+  "generated_at": "2026-11-25T22:33:56.681501+00:00",
   "count": 120,
   "matches": [
     {
@@ -242,22 +242,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "Constellation Brands",
-      "title": "Digital Manufacturing Technology Intern",
-      "location": "Rochester, NY, San Antonio, TX",
-      "date": "2026-11-10",
-      "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/San-Antonio-Texas/Intern--Digital-Manufacturing-Technology_R-41681",
-      "description": "Product",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 64,
-      "reasons": [
-        "corporate it match",
-        "Texas",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "NVIDIA",
       "title": "Developer Technology Intern, AI - Summer 2027",
       "location": "Santa Clara, CA",
@@ -327,6 +311,22 @@
       "date": "2026-10-28",
       "url": "https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167672",
       "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 58,
+      "reasons": [
+        "corporate it match",
+        "Texas",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Constellation Brands",
+      "title": "Digital Manufacturing Technology Intern",
+      "location": "Rochester, NY, San Antonio, TX",
+      "date": "2026-11-10",
+      "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/San-Antonio-Texas/Intern--Digital-Manufacturing-Technology_R-41681",
+      "description": "Product",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 58,
       "reasons": [
@@ -1166,21 +1166,6 @@
       "category": "Product"
     },
     {
-      "company": "Allen Lund Company",
-      "title": "Customer Service Systems and Process Audit Intern",
-      "location": "Orlando, FL",
-      "date": "2026-11-10",
-      "url": "https://allenlundcompany.applytojob.com/apply/At334EGZh0/Customer-Service-Systems-Intern",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "Arcesium",
       "title": "Technology Operations Intern",
       "location": "NYC",
@@ -1431,6 +1416,23 @@
       "category": "Corporate It"
     },
     {
+      "company": "Addepar",
+      "title": "Product Analyst (Navigator) Intern - Summer 2027",
+      "location": "New York City, NY",
+      "date": "2026-11-13",
+      "url": "https://applyguy.ai/jobs?company=Addepar&job=6d629c0f-2f7a-4136-a61e-18b98ca5b986&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Product",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 44,
+      "reasons": [
+        "product match",
+        "Summer 2027",
+        "NEW: posted <=14 days",
+        "product secondary-lane penalty"
+      ],
+      "category": "Product"
+    },
+    {
       "company": "apexanalytix",
       "title": "Product Management (DevOps) Intern - Summer 2027",
       "location": "Greensboro, NC",
@@ -1650,23 +1652,6 @@
       "category": "Product"
     },
     {
-      "company": "Rubrik Job Board",
-      "title": "Product Management Intern (RCV), Summer 2027",
-      "location": "Palo Alto, CA",
-      "date": "2026-11-10",
-      "url": "https://applyguy.ai/jobs?company=Rubrik+Job+Board&job=775ab20b-04bd-4939-9bcd-a99f91ae35e4&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
       "company": "Sec",
       "title": "Product Management Tools and Automation Intern",
       "location": "6555 Excellence Way, TX",
@@ -1828,21 +1813,6 @@
       "category": "Qa Testing"
     },
     {
-      "company": "Intercontinental Exchange, Inc.",
-      "title": "Summer Internship Program 2027 - Software Development Engineer in Test Intern",
-      "location": "Atlanta, GA",
-      "date": "2026-10-25",
-      "url": "https://applyguy.ai/jobs?company=Intercontinental+Exchange%2C+Inc.&job=a48fdd86-6049-46ed-9653-88e019b20bcd&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Software Engineering",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 42,
-      "reasons": [
-        "qa testing match",
-        "recent: posted <=30 days"
-      ],
-      "category": "Qa Testing"
-    },
-    {
       "company": "Keysight Technologies",
       "title": "Quality Engineer Intern",
       "location": "Roseville, CA",
@@ -1888,6 +1858,36 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
+    },
+    {
+      "company": "Stratolaunch",
+      "title": "Business Intelligence & Systems Analyst Intern",
+      "location": "Mojave, CA",
+      "date": "2026-11-12",
+      "url": "https://job-boards.greenhouse.io/stratolaunch/jobs/5480612008",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 42,
+      "reasons": [
+        "analyst match",
+        "NEW: posted <=14 days"
+      ],
+      "category": "Analyst"
+    },
+    {
+      "company": "Trimble",
+      "title": "Hardware/Software Testing Intern",
+      "location": "Westminster, CO",
+      "date": "2026-11-03",
+      "url": "https://applyguy.ai/jobs?company=Trimble&job=58480e1d-50a8-487c-abe6-908ee514c750&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Software Engineering",
+      "source": "ApplyGuy 2027 Internships",
+      "score": 42,
+      "reasons": [
+        "qa testing match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Qa Testing"
     }
   ],
   "errors": []
