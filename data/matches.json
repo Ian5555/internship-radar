@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T22:33:56.681501+00:00",
+  "generated_at": "2026-11-26T22:21:58.640693+00:00",
   "count": 120,
   "matches": [
     {
@@ -51,24 +51,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "CVS Health",
-      "title": "Innovation & Technology Intern - Data Engineering",
-      "location": "Irving, TX",
-      "date": "2026-10-26",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Undergraduate-_R1084831-1",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 80,
-      "reasons": [
-        "corporate it match",
-        "DFW / North Texas",
-        "Summer 2027",
-        "recent: posted <=30 days",
-        "generic data-role penalty"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "Statestreet",
       "title": "State Street Product Management Team - Business Analyst - Summer Internship 2027",
       "location": "Boston, MA",
@@ -101,6 +83,23 @@
         "NEW: posted <=14 days"
       ],
       "category": "Analyst"
+    },
+    {
+      "company": "CVS Health",
+      "title": "Innovation & Technology Intern - Data Engineering",
+      "location": "Irving, TX",
+      "date": "2026-10-26",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Undergraduate-_R1084831-1",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 74,
+      "reasons": [
+        "corporate it match",
+        "DFW / North Texas",
+        "Summer 2027",
+        "generic data-role penalty"
+      ],
+      "category": "Corporate It"
     },
     {
       "company": "Blackhawk Network Holdings",
@@ -245,7 +244,7 @@
       "company": "NVIDIA",
       "title": "Developer Technology Intern, AI - Summer 2027",
       "location": "Santa Clara, CA",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "url": "https://applyguy.ai/jobs?company=NVIDIA&job=76b9112b-2d10-478d-a17d-33a627a53beb&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Software Engineering",
       "source": "ApplyGuy 2027 Internships",
@@ -286,23 +285,6 @@
         "DFW / North Texas"
       ],
       "category": "Analyst"
-    },
-    {
-      "company": "Wells Fargo",
-      "title": "Technology Intern - Early Careers - Data Engineering",
-      "location": "Iselin, Woodbridge Township, NJ, Charlotte, NC, Irving, TX",
-      "date": "2026-10-26",
-      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Data-Engineering-_R-583066",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 62,
-      "reasons": [
-        "corporate it match",
-        "DFW / North Texas",
-        "recent: posted <=30 days",
-        "generic data-role penalty"
-      ],
-      "category": "Corporate It"
     },
     {
       "company": "Clean Harbors",
@@ -391,6 +373,22 @@
       "location": "Plano, TX, Johnston, RI, Phoenix, AZ",
       "date": "2026-09-11",
       "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 56,
+      "reasons": [
+        "corporate it match",
+        "DFW / North Texas",
+        "generic data-role penalty"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Wells Fargo",
+      "title": "Technology Intern - Early Careers - Data Engineering",
+      "location": "Iselin, Woodbridge Township, NJ, Charlotte, NC, Irving, TX",
+      "date": "2026-10-26",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Data-Engineering-_R-583066",
       "description": "AI/ML/Data",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 56,
@@ -963,21 +961,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "Minitab",
-      "title": "Software Quality Engineer Intern",
-      "location": "State College, PA",
-      "date": "2026-11-11",
-      "url": "https://applyguy.ai/jobs?company=Minitab&job=0347ed6e-f455-41e6-8cc8-5e576b01bb9c&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Software Engineering",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 50,
-      "reasons": [
-        "qa testing match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Qa Testing"
-    },
-    {
       "company": "Netwrix",
       "title": "Documentation Technology Intern",
       "location": "Remote in USA",
@@ -1164,21 +1147,6 @@
         "product secondary-lane penalty"
       ],
       "category": "Product"
-    },
-    {
-      "company": "Arcesium",
-      "title": "Technology Operations Intern",
-      "location": "NYC",
-      "date": "2026-11-11",
-      "url": "https://job-boards.greenhouse.io/arcesiumllc/jobs/5257251007",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "support ops match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Support Ops"
     },
     {
       "company": "Blackhawk Network Holdings",
@@ -1436,26 +1404,9 @@
       "company": "apexanalytix",
       "title": "Product Management (DevOps) Intern - Summer 2027",
       "location": "Greensboro, NC",
-      "date": "2026-11-18",
+      "date": "2026-11-17",
       "url": "https://applyguy.ai/jobs?company=apexanalytix&job=b48e74dc-a6f5-4fbe-8a60-b601d86199d2&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Software Engineering",
-      "source": "ApplyGuy 2027 Internships",
-      "score": 44,
-      "reasons": [
-        "product match",
-        "Summer 2027",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
-      ],
-      "category": "Product"
-    },
-    {
-      "company": "apexanalytix",
-      "title": "Product Management (Discovery) Intern - Summer 2027",
-      "location": "Greensboro, NC",
-      "date": "2026-11-11",
-      "url": "https://applyguy.ai/jobs?company=apexanalytix&job=cf5e275f-43f3-4e88-8dd7-fd236d39a7dd&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
       "source": "ApplyGuy 2027 Internships",
       "score": 44,
       "reasons": [
@@ -1535,13 +1486,13 @@
       "category": "Product"
     },
     {
-      "company": "HP",
+      "company": "HP Inc.",
       "title": "Software Quality Assurance Intern",
-      "location": "San Francisco, CA",
+      "location": "SF",
       "date": "2026-10-28",
-      "url": "https://applyguy.ai/jobs?company=HP&job=9ba7c06a-36b0-4c90-823f-8a139fcd5f50&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Software Engineering",
-      "source": "ApplyGuy 2027 Internships",
+      "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
       "score": 44,
       "reasons": [
         "qa testing match",
@@ -1618,28 +1569,26 @@
       "category": "Product"
     },
     {
-      "company": "NVIDIA",
-      "title": "Product Management MBA Intern, GenAI Data Strategy - Summer 2027",
-      "location": "Santa Clara, CA",
-      "date": "2026-11-19",
-      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=d627a43c-72b0-469e-8d73-6b3459668534&utm_source=github&utm_medium=listing&utm_campaign=internships",
-      "description": "Product",
+      "company": "Minitab",
+      "title": "Software Quality Engineer Intern",
+      "location": "State College, PA",
+      "date": "2026-11-11",
+      "url": "https://applyguy.ai/jobs?company=Minitab&job=0347ed6e-f455-41e6-8cc8-5e576b01bb9c&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "description": "Software Engineering",
       "source": "ApplyGuy 2027 Internships",
       "score": 44,
       "reasons": [
-        "product match",
-        "Summer 2027",
-        "NEW: posted <=14 days",
-        "product secondary-lane penalty"
+        "qa testing match",
+        "recent: posted <=30 days"
       ],
-      "category": "Product"
+      "category": "Qa Testing"
     },
     {
-      "company": "Rubrik Job Board",
-      "title": "Product Management Intern (MSP), Summer 2027",
-      "location": "Palo Alto, CA",
-      "date": "2026-11-11",
-      "url": "https://applyguy.ai/jobs?company=Rubrik+Job+Board&job=0e2f13eb-792d-473a-94e6-cceb9a679ccb&utm_source=github&utm_medium=listing&utm_campaign=internships",
+      "company": "NVIDIA",
+      "title": "Product Management MBA Intern, GenAI Data Strategy - Summer 2027",
+      "location": "Santa Clara, CA",
+      "date": "2026-11-25",
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=d627a43c-72b0-469e-8d73-6b3459668534&utm_source=github&utm_medium=listing&utm_campaign=internships",
       "description": "Product",
       "source": "ApplyGuy 2027 Internships",
       "score": 44,
@@ -1703,17 +1652,17 @@
       "category": "Product"
     },
     {
-      "company": "Bask Health",
+      "company": "Zebra Technologies",
       "title": "Product Management Intern",
-      "location": "Remote in USA",
-      "date": "2026-11-11",
-      "url": "https://apply.workable.com/bask-health-1/j/AAE5145A49/apply",
+      "location": "Lincolnshire, IL",
+      "date": "2026-11-23",
+      "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103660",
       "description": "Product",
       "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 42,
+      "score": 44,
       "reasons": [
         "product match",
-        "Remote",
+        "Summer 2027",
         "NEW: posted <=14 days",
         "product secondary-lane penalty"
       ],
@@ -1888,6 +1837,51 @@
         "recent: posted <=30 days"
       ],
       "category": "Qa Testing"
+    },
+    {
+      "company": "Adobe",
+      "title": "Technical Support Consultant Intern",
+      "location": "San Jose, CA",
+      "date": "2026-10-29",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Technical-Support-Consultant_R172785",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "support ops match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Support Ops"
+    },
+    {
+      "company": "Allen Lund Company",
+      "title": "Customer Service Systems and Process Audit Intern",
+      "location": "Orlando, FL",
+      "date": "2026-11-10",
+      "url": "https://allenlundcompany.applytojob.com/apply/At334EGZh0/Customer-Service-Systems-Intern",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Allstate",
+      "title": "Technology Internship",
+      "location": "Illinois",
+      "date": "2026-10-27",
+      "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Allstate-Technology-Solutions-Internship---Summer-2027_R36378",
+      "description": "Product",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
     }
   ],
   "errors": []
