@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T22:21:58.640693+00:00",
+  "generated_at": "2026-11-27T21:58:25.914354+00:00",
   "count": 120,
   "matches": [
     {
@@ -68,23 +68,6 @@
       "category": "Analyst"
     },
     {
-      "company": "CareSource",
-      "title": "Clinical Operations Business Analyst Intern",
-      "location": "Remote in USA",
-      "date": "2026-11-12",
-      "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Clinical-Operations-Business-Analyst_R14353",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 76,
-      "reasons": [
-        "analyst match",
-        "Remote",
-        "Summer 2027",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Analyst"
-    },
-    {
       "company": "CVS Health",
       "title": "Innovation & Technology Intern - Data Engineering",
       "location": "Irving, TX",
@@ -131,6 +114,23 @@
         "DFW / North Texas"
       ],
       "category": "Corporate It"
+    },
+    {
+      "company": "CareSource",
+      "title": "Clinical Operations Business Analyst Intern",
+      "location": "Remote in USA",
+      "date": "2026-11-12",
+      "url": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Clinical-Operations-Business-Analyst_R14353",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 70,
+      "reasons": [
+        "analyst match",
+        "Remote",
+        "Summer 2027",
+        "recent: posted <=30 days"
+      ],
+      "category": "Analyst"
     },
     {
       "company": "FTI Consulting",
@@ -225,22 +225,6 @@
       "category": "Corporate It"
     },
     {
-      "company": "Cardinal Health",
-      "title": "Technology Intern",
-      "location": "Dublin, OH",
-      "date": "2026-11-12",
-      "url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Technology-Internship--Summer-2027-_20189610-1",
-      "description": "Software",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 64,
-      "reasons": [
-        "corporate it match",
-        "Summer 2027",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "NVIDIA",
       "title": "Developer Technology Intern, AI - Summer 2027",
       "location": "Santa Clara, CA",
@@ -285,6 +269,22 @@
         "DFW / North Texas"
       ],
       "category": "Analyst"
+    },
+    {
+      "company": "Cardinal Health",
+      "title": "Technology Intern",
+      "location": "Dublin, OH",
+      "date": "2026-11-12",
+      "url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Technology-Internship--Summer-2027-_20189610-1",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 58,
+      "reasons": [
+        "corporate it match",
+        "Summer 2027",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
     },
     {
       "company": "Clean Harbors",
@@ -1306,21 +1306,6 @@
       "category": "Analyst"
     },
     {
-      "company": "Little Caesars Enterprises",
-      "title": "Portfolio IT Intern",
-      "location": "Detroit, MI",
-      "date": "2026-11-12",
-      "url": "https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--Portfolio-IT_R9716",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 46,
-      "reasons": [
-        "corporate it match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Corporate It"
-    },
-    {
       "company": "Qorvo",
       "title": "Product Management Engineer Intern - High Performance Analog",
       "location": "Richardson, TX",
@@ -1809,21 +1794,6 @@
       "category": "Product"
     },
     {
-      "company": "Stratolaunch",
-      "title": "Business Intelligence & Systems Analyst Intern",
-      "location": "Mojave, CA",
-      "date": "2026-11-12",
-      "url": "https://job-boards.greenhouse.io/stratolaunch/jobs/5480612008",
-      "description": "AI/ML/Data",
-      "source": "SimplifyJobs Summer 2027 Internships",
-      "score": 42,
-      "reasons": [
-        "analyst match",
-        "NEW: posted <=14 days"
-      ],
-      "category": "Analyst"
-    },
-    {
       "company": "Trimble",
       "title": "Hardware/Software Testing Intern",
       "location": "Westminster, CO",
@@ -1869,12 +1839,42 @@
       "category": "Corporate It"
     },
     {
-      "company": "Allstate",
-      "title": "Technology Internship",
-      "location": "Illinois",
-      "date": "2026-10-27",
-      "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Allstate-Technology-Solutions-Internship---Summer-2027_R36378",
-      "description": "Product",
+      "company": "American Express",
+      "title": "Cybersecurity AI Engineer Intern - Enterprise Technology Services",
+      "location": "Phoenix, AZ",
+      "date": "2026-11-03",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065",
+      "description": "AI/ML/Data",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "corporate it match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Corporate It"
+    },
+    {
+      "company": "Arcesium",
+      "title": "Technology Operations Intern",
+      "location": "NYC",
+      "date": "2026-11-11",
+      "url": "https://job-boards.greenhouse.io/arcesiumllc/jobs/5257251007",
+      "description": "Software",
+      "source": "SimplifyJobs Summer 2027 Internships",
+      "score": 40,
+      "reasons": [
+        "support ops match",
+        "recent: posted <=30 days"
+      ],
+      "category": "Support Ops"
+    },
+    {
+      "company": "Arch Capital Group",
+      "title": "Originations Portal IT Intern",
+      "location": "Greensboro, NC",
+      "date": "2026-11-03",
+      "url": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Originations-Portal-IT-Intern_R26_1135",
+      "description": "Software",
       "source": "SimplifyJobs Summer 2027 Internships",
       "score": 40,
       "reasons": [
